@@ -14,8 +14,7 @@ p {
     text-align:center;
 }
 
-article,
- img.footer {
+img.footer {
      align:center;
      max-width:25px;
      max-height:25px;
