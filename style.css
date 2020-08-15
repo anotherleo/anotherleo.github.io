@@ -2,13 +2,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-h1 {font-family:'Red Rose';
-    text-align:center;}
+/* Header */
+h1 {
+    font-family:'Red Rose';
+    text-align:center;
+}
 
-p {font-family:Lato;
-    text-align:center;}
+/* Body */
+p {
+    font-family:Lato;
+    text-align:center;
+}
+
+article,
+ footer {
+     align:center;
+}
 
 /* Contato */
-img.social {max-width:25px;
-    max-height:25px;}
-
+img.social {
+    max-width:25px;
+    max-height:25px;
+}
