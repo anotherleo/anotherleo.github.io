@@ -7,5 +7,6 @@ engajei nisso como um desafio de construir uma página do zero, um incentivo par
 em prática o que aprendi de modo teórico em leituras, site e cursos.
 
 # Referências para guiar no projeto:
-https://hail2u.github.io/html-best-practices/;
-https://learn.shayhowe.com/html-css/writing-your-best-code/
+https://hail2u.github.io/html-best-practices/ -- boas práticas html;
+https://learn.shayhowe.com/html-css/writing-your-best-code/ -- boas práticas html e css;
+https://stackoverflow.com/a/53795508 -- favicon;
