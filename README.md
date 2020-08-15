@@ -6,6 +6,6 @@ Apesar da importância de um currículo -- o passaporte, a ID profissional que r
 engajei nisso como um desafio de construir uma página do zero, um incentivo para colocar
 em prática o que aprendi de modo teórico em leituras, site e cursos.
 
-Referências para guiar no projeto:
+# Referências para guiar no projeto:
 https://hail2u.github.io/html-best-practices/
 https://learn.shayhowe.com/html-css/writing-your-best-code/
