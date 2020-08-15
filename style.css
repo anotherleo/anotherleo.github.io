@@ -17,6 +17,8 @@ p {
 article,
  footer {
      align:center;
+     max-width:25px;
+     max-height:25px;
 }
 
 /* Contato */
