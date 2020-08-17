@@ -15,9 +15,11 @@ p {
 }
 
 img.footer {
-     align:center;
      max-width:25px;
      max-height:25px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
 }
 
 /* Contato */
