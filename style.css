@@ -6,7 +6,6 @@
 header {
     margin:5% 0% 0% 0%;
 }    
-
 h1 {
     font-family:'Bebas Neue';
     font-size:4.3em;
@@ -22,16 +21,15 @@ h2 {
 h5 {
     text-align:center;
 }
+
 /* Main */
 body {
     font-size: 100%;
     font-family:Lato;
 }
-
 p {
     text-align:center;
 }
-
 img.footer {
      max-width:25px;
      max-height:25px;
@@ -40,9 +38,12 @@ img.footer {
      margin-right: auto;
 }
 
-/* --------------------------------- */
-/* ------------ SKETCHS ------------ */
-/* --------------------------------- */
+/* -------------------------------------- */
+/* -------------- SKETCHS --------------- */
+/*  se você é um potencial empregador(a)  */
+/*     ignore essa seção de testes :)     */
+/* -------------------------------------- */
+/* -------------------------------------- */
 
 /* Estrutura: Formal? */
 header.top {
