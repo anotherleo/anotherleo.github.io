@@ -87,7 +87,7 @@ div.row:after {
 }
 
 img.profile {
-    max-width:100%;
+    width:auto;
 }
 
 /* Contato */
