@@ -100,4 +100,10 @@ img.social {
     max-height:25px;
 }
 
-
+/* 404 */
+img.salem {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
