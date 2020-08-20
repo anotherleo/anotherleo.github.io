@@ -4,7 +4,7 @@
 
 /* Header */
 h1 {
-    font-family:'Red Rose';
+    font-family:'Bebas Neue';
     text-align:center;
 }
 
@@ -26,4 +26,8 @@ img.footer {
 img.social {
     max-width:25px;
     max-height:25px;
+}
+nav.social {
+    display: block;
+    max-width:;
 }
