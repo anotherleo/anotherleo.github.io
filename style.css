@@ -19,7 +19,9 @@ h2 {
     text-align:center;
     margin-top:0%;
 }
-
+h5 {
+    text-align:center;
+}
 /* Main */
 body {
     font-size: 100%;
