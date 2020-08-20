@@ -8,16 +8,16 @@
 
     <body>
         
-      <header class="toptwo">
+      <header>
          <h1>Leo Thomas Monteiro</h1>
          <h2>Graduando em Biblioteconomia | Estudante de Programação</h2>
       </header>
 
       <aside class="two">
-          <img src="https://i.imgur.com/BclErlu.jpg">
+          <img src="https://i.pinimg.com/originals/16/5d/93/165d93a177e4c9b938717fbc8fad789f.jpg">
       </aside>
 
-      <main class="maintwo">
+      <main>
       
           <article>
 
@@ -35,7 +35,7 @@
        
        </main>
        
-       <footer class="bottomtwo">
+       <footer>
               <h5>Leo Thomas Monteiro. 2020.</h5>
        </footer>
        
