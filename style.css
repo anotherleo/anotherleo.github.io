@@ -22,6 +22,17 @@ h5 {
     text-align:center;
 }
 
+/* Nav */
+nav {
+    margin: 0% auto 2% auto;
+    width:auto;
+}
+img.social {
+    max-width:25px;
+    max-height:25px;
+    margin-right:2%;
+}
+
 /* Main */
 body {
     font-size: 100%;
@@ -38,10 +49,17 @@ img.footer {
      margin-right: auto;
 }
 
+
+
+
+
+
+
+
 /* -------------------------------------- */
 /* -------------- SKETCHS --------------- */
 /*  se você é um potencial empregador(a)  */
-/*     ignore essa seção de testes :)     */
+/*    ignore essa seção de testes =')     */
 /* -------------------------------------- */
 /* -------------------------------------- */
 
@@ -94,10 +112,6 @@ img.profile {
 nav.social {
     display: block;
     max-width:;
-}
-img.social {
-    max-width:25px;
-    max-height:25px;
 }
 
 /* 404 */
