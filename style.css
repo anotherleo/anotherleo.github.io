@@ -21,23 +21,25 @@ img.footer {
      margin-right: auto;
 }
 
-/* SKETCHS */
+/* ------------ SKETCHS ------------ */
 
 /* Estrutura */
 
 header.top {
     display:block;
     background-color: silver;
+    height:200px;
 }
 main.main {
-    margin: 0;
+    margin: 0px 100px 0px 100px;
     padding: 5%;
-    background-color: lightgray;
+    background-color: gray;
 }
 footer.bottom {
     display:block;
-    background-color: black;
     color: lightgray;
+    background-color: black;
+    height:100px;
 }
 
 /* Contato */
