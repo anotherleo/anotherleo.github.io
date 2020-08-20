@@ -11,10 +11,12 @@ h1 {
     font-family:'Bebas Neue';
     font-size:3em;
     text-align:center;
+    margin: 0% 0% 2% 0%;
 }
 h2 {
     font-family:'Bebas Neue';
     text-align:center;
+    margin-top:0%;
 }
 
 /* Main */
