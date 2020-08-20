@@ -28,18 +28,19 @@ img.footer {
 header.top {
     display:block;
     background-color: silver;
-    height:200px;
+    height:20%;
 }
 main.main {
-    margin: 0px 100px 0px 100px;
+    margin: 0% 15% 0% 15%;
     padding: 5%;
     background-color: gray;
+    height:70%;
 }
 footer.bottom {
     display:block;
     color: lightgray;
     background-color: black;
-    height:100px;
+    height:10%;
 }
 
 /* Contato */
