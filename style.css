@@ -6,16 +6,27 @@
 header {
     margin:15% 0% 0% 0%;
 }    
+
 h1 {
+    font-family:'Bebas Neue';
+    font-size:3em;
+    text-align:center;
+}
+h2 {
     font-family:'Bebas Neue';
     text-align:center;
 }
 
-/* Body */
+/* Main */
+body {
+    font-size: 100%;
+}
+
 p {
     font-family:Lato;
     text-align:center;
 }
+
 img.footer {
      max-width:25px;
      max-height:25px;
@@ -24,10 +35,11 @@ img.footer {
      margin-right: auto;
 }
 
+/* --------------------------------- */
 /* ------------ SKETCHS ------------ */
+/* --------------------------------- */
 
 /* Estrutura: Formal? */
-
 header.top {
     max-height:20%;
     width:100%;
