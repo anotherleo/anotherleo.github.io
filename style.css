@@ -26,19 +26,19 @@ img.footer {
 /* Estrutura */
 
 header.top {
-    height:20%;
+    max-height:20%;
     margin: 0%;
     display:block;
     background-color: silver;
 }
 main.main {
-    height:70%;
+    max-height:70%;
     margin: 0% 15% 0% 15%;
     padding: 5%;
     background-color: gray;
 }
 footer.bottom {
-    height:10%;
+    max-height:10%;
     margin: 0%;
     display:block;
     color: lightgray;
