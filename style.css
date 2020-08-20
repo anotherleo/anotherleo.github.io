@@ -23,7 +23,7 @@ img.footer {
 
 /* ------------ SKETCHS ------------ */
 
-/* Estrutura */
+/* Estrutura: Formal? */
 
 header.top {
     max-height:20%;
@@ -39,6 +39,29 @@ main.main {
     background-color: gray;
 }
 footer.bottom {
+    max-height:10%;
+    width:100%;
+    margin: 0%;
+    display:block;
+    color: lightgray;
+    background-color: black;
+}
+
+/* Estrutura: Informal? */
+header.toptwo {
+    max-height:20%;
+    width:100%;
+    margin: 0%;
+    display:block;
+    background-color: silver;
+}
+main.maintwo {
+    max-height:70%;
+    margin: 0% 15% 0% 15%;
+    padding: 5%;
+    background-color: gray;
+}
+footer.bottomtwo {
     max-height:10%;
     width:100%;
     margin: 0%;
