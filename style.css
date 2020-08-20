@@ -26,21 +26,23 @@ img.footer {
 /* Estrutura */
 
 header.top {
+    height:20%;
+    margin: 0%;
     display:block;
     background-color: silver;
-    height:20%;
 }
 main.main {
+    height:70%;
     margin: 0% 15% 0% 15%;
     padding: 5%;
     background-color: gray;
-    height:70%;
 }
 footer.bottom {
+    height:10%;
+    margin: 0%;
     display:block;
     color: lightgray;
     background-color: black;
-    height:10%;
 }
 
 /* Contato */
