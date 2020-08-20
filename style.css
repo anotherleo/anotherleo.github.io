@@ -28,7 +28,7 @@ nav {
     width:auto;
 }
 img.social {
-    display: block;
+    display: inline-block;
     max-width:25px;
     max-height:25px;
     margin-right:2%;
