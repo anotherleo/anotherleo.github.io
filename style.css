@@ -132,3 +132,14 @@ img.salem {
   margin-right: auto;
   width: 50%;
 }
+
+/* PROGRESS */
+.lo {
+    background-color:green;
+}
+.ja {
+    background-color:blue;
+}
+.js {
+    background-color:purple;
+}
