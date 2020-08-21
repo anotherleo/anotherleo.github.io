@@ -134,6 +134,16 @@ img.salem {
 }
 
 /* PROGRESS */
+.progresstable{
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
 .lo {
     background-color:green;
 }
