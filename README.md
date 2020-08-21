@@ -13,3 +13,4 @@ https://stackoverflow.com/a/53795508 -- favicon;
 http://iconhandbook.co.uk/reference/chart/ -- favicon, completo;  
 https://stackoverflow.com/questions/1946426/ -- fechar tags;  
 https://stackoverflow.com/questions/787839/ -- redimensionar imagens;  
+https://css-tricks.com/essential-meta-tags-social-media/ -- meta tags;  
