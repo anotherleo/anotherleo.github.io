@@ -152,10 +152,13 @@ td {
 }
 .lo {
     background-color:green;
+    border:0px;
 }
 .ja {
     background-color:blue;
+    border:0px;
 }
 .js {
     background-color:purple;
+    border:0px;
 }
