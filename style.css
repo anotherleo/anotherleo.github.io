@@ -35,8 +35,10 @@ img.social {
     max-height:25px;
     margin-right:2%;
 }
-last {
-    margin-right:0%;
+img.socialright {
+    display: inline-block;
+    max-width:25px;
+    max-height:25px;
 }
 
 /* Main */
