@@ -149,6 +149,7 @@ td {
     border-collapse: collapse;
     padding:1%;
     text-align:center;
+    margin:2%;
 }
 .lo {
     background-color:green;
