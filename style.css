@@ -148,6 +148,7 @@ td {
     border: 1px solid grey;
     border-collapse: collapse;
     padding:1%;
+    text-align:center;
 }
 .lo {
     background-color:green;
