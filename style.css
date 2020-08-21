@@ -134,11 +134,15 @@ img.salem {
 }
 
 /* PROGRESS */
+caption {
+    font-family:'Bebas Neue';
+}
 .progresstable{
     margin-left:auto;
     margin-right:auto;
     border: 1px solid grey;
     border-collapse: collapse;
+    font-family:'Bebas Neue';
 }
 td {
     border: 1px solid grey;
