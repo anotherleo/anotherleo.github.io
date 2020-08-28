@@ -46,8 +46,12 @@ body {
     font-size: 100%;
     font-family:'Lato';
 }
-p {
+article.working {
     text-align:center;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    background-color:black;
+    color:white;
 }
 img.section {
     display: block;
