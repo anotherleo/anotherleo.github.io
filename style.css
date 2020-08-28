@@ -50,8 +50,9 @@ article.working {
     text-align:center;
     margin-top: 2%;
     margin-bottom: 3%;
-    background-color:black;
-    color:white;
+    background-color:#F5DEB3; /* wheat */
+    padding-top:2%;
+    padding-bottom:2%;
 }
 img.section {
     display:block;
