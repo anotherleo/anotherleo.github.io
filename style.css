@@ -51,8 +51,7 @@ article.working {
     margin-top: 2%;
     margin-bottom: 3%;
     background-color:#F5DEB3; /* wheat */
-    padding-top:2%;
-    padding-bottom:2%;
+    padding:2%;
     display:block;
     max-width:500px;
     margin-left:auto;
