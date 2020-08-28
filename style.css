@@ -70,6 +70,7 @@ article.formacao {
 }
 article.formacao p {
     text-align:justify;
+    margin:0.2em;
 }
 
 /* Footer */
