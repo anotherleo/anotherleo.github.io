@@ -128,7 +128,7 @@ button.button {
     cursor:pointer;
 }
 button.button:hover {
-    background-color:#A0522D; /* sienna */
+    background-color:#555555; /* black */
     color:white;
 }
 
