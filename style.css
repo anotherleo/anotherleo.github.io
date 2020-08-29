@@ -107,7 +107,7 @@ article.job p {
     margin:0.2em;
 }
 article.job:hover {
-    background-color:#F0F8FF; /* AliceBlue */
+    background-color:; /* #F0F8FF; AliceBlue */
 }
 button.button {
     background-color: white;
