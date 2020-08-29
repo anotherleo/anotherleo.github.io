@@ -84,6 +84,7 @@ article.formacao {
     max-width:500px;
     margin-left:auto;
     margin-right:auto;
+    margin-bottom:2%;
 }
 article.formacao p {
     text-align:justify;
@@ -99,6 +100,7 @@ article.job {
     max-width:500px;
     margin-left:auto;
     margin-right:auto;
+    margin-bottom:2%;
 }
 article.job p {
     text-align:justify;
