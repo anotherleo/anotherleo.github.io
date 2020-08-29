@@ -110,7 +110,7 @@ article.job:hover {
     background-color:; /* #F0F8FF; AliceBlue */
 }
 #jobexp {
-    diplay:none;
+    display:none;
 }
 button.button {
     background-color:white;
