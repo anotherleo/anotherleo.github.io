@@ -90,9 +90,6 @@ article.formacao p {
     text-align:justify;
     margin:0.2em;
 }
-article.exp {
-    display:;
-}
 article.job {
     border-left-style:solid;
     border-left-width:5px;
@@ -111,6 +108,9 @@ article.job p {
 }
 article.job:hover {
     background-color:; /* #F0F8FF; AliceBlue */
+}
+#jobexp {
+    diplay:none;
 }
 button.button {
     background-color:white;
