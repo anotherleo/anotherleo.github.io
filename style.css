@@ -90,6 +90,9 @@ article.formacao p {
     text-align:justify;
     margin:0.2em;
 }
+article.exp {
+    display:none;
+}
 article.job {
     border-left-style:solid;
     border-left-width:5px;
