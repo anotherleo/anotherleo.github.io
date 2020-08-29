@@ -34,7 +34,8 @@
                 var jobshow = document.getElementById("jobexp");
                 if (jobshow.style.display === "none") {
                   jobshow.style.display = "block";
-                } else {
+                }
+                if (jobshow.style.display === "block") {
                   jobshow.style.display = "none";
                 }
               }
