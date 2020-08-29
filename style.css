@@ -78,7 +78,7 @@ article.formacao {
     border-left-style:solid;
     border-left-width:5px;
     border-left-color:black;
-    padding-left:5%;
+    padding-left:3%;
     text-align:justify;
     display:block;
     max-width:500px;
@@ -94,7 +94,7 @@ article.job {
     border-left-style:solid;
     border-left-width:5px;
     border-left-color:black;
-    padding-left:5%;
+    padding-left:3%;
     text-align:justify;
     display:block;
     max-width:500px;
