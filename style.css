@@ -113,23 +113,23 @@ article.job:hover {
     background-color:; /* #F0F8FF; AliceBlue */
 }
 button.button {
-    background-color: white;
-    border: 2px solid black;
-    border-radius: 3px;
+    background-color:white;
+    border:2px solid black;
+    border-radius:3px;
     color: black;
-    padding:3px;
+    padding:4px 5px 4px 5px;
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
     display: block;
     font-size: 1em;
     margin:3% 0% 3% 0%;
-    transition-duration: 0.4s;
-    cursor: pointer;
+    transition-duration:0.4s;
+    cursor:pointer;
 }
 button.button:hover {
-    background-color: #A0522D; /* sienna */
-    color: white;
+    background-color:#A0522D; /* sienna */
+    color:white;
 }
 
 /* Footer */
