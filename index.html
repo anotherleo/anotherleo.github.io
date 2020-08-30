@@ -40,17 +40,28 @@
                   jobshow.style.display = "block";
                 }
               }
+              function showWorkingMessage() {
+                var closebtn = document.getElementById("workingmessage");
+                if (closebtn.style.display === "none") {
+                  closebtn.style.display = "block";
+                } else {
+                  closebtn.style.display = "none";
+                }
+              }
           </script>
         
           <article class="working">
-              <img class="workingimage" src="https://image.flaticon.com/icons/svg/1924/1924692.svg" alt="person building a machine">
-              <p>O noob que desenvolve esse site está arrumando as coisas por aqui.
-                <br>Layout e informações mudarão com alguma frequência :)</p>
-              <p>P.S.: código aberto em:<br>
-                <a class="code" href="https://github.com/anotherleo/anotherleo.github.io">https://github.com/anotherleo</a>
-              </p>
-              <a href="https://github.com/anotherleo">
-                <img class="footer" id="github" src="https://image.flaticon.com/icons/svg/1322/1322053.svg" alt="github logo" onmouseover="document.getElementById('github').src='https://image.flaticon.com/icons/svg/1322/1322104.svg'" onmouseout="document.getElementById('github').src='https://image.flaticon.com/icons/svg/1322/1322053.svg'"></a>
+              <img id="close" class="closebutton" src="https://image.flaticon.com/icons/svg/594/594332.svg" alt="close button" onclick="showWorkingMessage()" onmouseover="document.getElementById('close').src='https://image.flaticon.com/icons/svg/594/594598.svg'" onmouseout="document.getElementById('close').src='https://image.flaticon.com/icons/svg/594/594332.svg'">
+              <article id="workingmessage">
+                  <img class="workingimage" src="https://image.flaticon.com/icons/svg/1924/1924692.svg" alt="person building a machine">
+                  <p>O noob que desenvolve esse site está arrumando as coisas por aqui.
+                    <br>Layout e informações mudarão com alguma frequência :)</p>
+                  <p>P.S.: código aberto em:<br>
+                    <a class="code" href="https://github.com/anotherleo/anotherleo.github.io">https://github.com/anotherleo</a>
+                  </p>
+                  <a href="https://github.com/anotherleo">
+                    <img class="footer" id="github" src="https://image.flaticon.com/icons/svg/1322/1322053.svg" alt="github logo" onmouseover="document.getElementById('github').src='https://image.flaticon.com/icons/svg/1322/1322104.svg'" onmouseout="document.getElementById('github').src='https://image.flaticon.com/icons/svg/1322/1322053.svg'"></a>
+              </article>
           </article>
           
           <article class="formacao">
