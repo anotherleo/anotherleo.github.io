@@ -17,7 +17,6 @@ span.blue:hover {
     color:white;
     background-color:#3366FF; /* blue */
 }
-    
 h2 {
     font-family:'Bebas Neue';
     font-size:1.5em;
@@ -73,7 +72,7 @@ img.workingimage {
     margin-right:auto;
 }
 img.closebutton {
-    display:block;
+    display:inline-block;
     margin-right:5%;
     text-align:right;
     max-width:15px;
@@ -81,6 +80,7 @@ img.closebutton {
     padding:2px;
     border:1px solid black;
     border-radius:4px;
+    cursor:pointer;
 }
 img.section {
     display:block;
