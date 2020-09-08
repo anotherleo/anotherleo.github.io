@@ -73,7 +73,7 @@ img.workingimage {
 }
 img.closebutton {
     display:inline-block;
-    margin-right:5%;
+    /*margin-right:5%;*/
     text-align:right;
     max-width:15px;
     max-height:15px;
