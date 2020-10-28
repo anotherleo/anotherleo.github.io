@@ -52,10 +52,10 @@ body {
 }
 article.working {
     text-align:center;
-    margin-top: 2%;
-    margin-bottom: 3%;
+    margin-top:1%;
+    margin-bottom:1%;
     background-color:#F5DEB3; /* wheat */
-    padding:2%;
+    padding:1%;
     display:block;
     max-width:500px;
     margin-left:auto;
