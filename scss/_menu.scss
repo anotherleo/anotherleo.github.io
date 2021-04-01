@@ -114,13 +114,14 @@
         position: relative;
         font-size: 1.5rem;
         text-transform: uppercase;
-        padding: 1rem 0;
+        padding: 1rem 1rem;
         font-weight: 300;
         text-decoration: none;
         @include easeOut;
 
         &:hover {
             color: $secondary-color;
+            background: rgba(lighten($primary-color, 2), 0.7);
         }
     }
 }
