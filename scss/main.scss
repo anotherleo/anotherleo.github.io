@@ -13,6 +13,7 @@ body {
   margin: 0;
   font-family: $text-font;
   line-height: 1.5;
+  text-align:center;
 }
 
 // Headings
@@ -26,6 +27,7 @@ h3 {
   &.lg-heading {
     font-size: 4rem;
     text-transform: uppercase;
+    text-shadow: $icons-shadow;
   }
 
   &.sm-heading {
@@ -56,6 +58,7 @@ main {
 
   .icons {
     margin-top: 1rem;
+    text-shadow: $heading-shadow;
 
     a {
       padding: 0.4rem;
@@ -70,7 +73,7 @@ main {
   &#home {
     overflow: hidden;
     h1 {
-      margin-top: 10vh;
+      margin-top: 20vh;
     }
   }
 }

@@ -8,7 +8,8 @@ body {
   height: 100%;
   margin: 0;
   font-family: "Montserrat", sans-serif;
-  line-height: 1.5; }
+  line-height: 1.5;
+  text-align: center; }
   body#bg-img {
     background: url(../img/background.jpg);
     background-attachment: fixed;
@@ -21,7 +22,7 @@ body {
       width: 100%;
       height: 100%;
       z-index: -1;
-      background: rgba(68, 68, 68, 0.9); }
+      background: rgba(68, 68, 68, 0.8); }
 
 h1,
 h2,
@@ -33,7 +34,8 @@ h3 {
   h2.lg-heading,
   h3.lg-heading {
     font-size: 4rem;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    text-shadow: 2px 3px 7px rgba(0, 0, 0, 0.6); }
   h1.sm-heading,
   h2.sm-heading,
   h3.sm-heading {
@@ -51,19 +53,20 @@ header {
   width: 100%; }
 
 .text-secondary {
-  color: #1d97af; }
+  color: #00b9ae; }
 
 main {
   padding: 4rem;
   height: 100%; }
   main .icons {
-    margin-top: 1rem; }
+    margin-top: 1rem;
+    text-shadow: 2px 3px 7px rgba(0, 0, 0, 0.6); }
     main .icons a {
       padding: 0.4rem; }
       main .icons a:hover {
-        color: #1d97af;
+        color: #00b9ae;
         transition: all 0.5s ease-out; }
   main#home {
     overflow: hidden; }
     main#home h1 {
-      margin-top: 10vh; }
+      margin-top: 20vh; }

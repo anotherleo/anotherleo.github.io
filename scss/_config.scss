@@ -1,10 +1,13 @@
 $primary-color: #444;
-$secondary-color: #1d97af;
+$secondary-color: #00b9ae;
 $title-font: "Josefin Sans", sans-serif;
 $text-font: "Montserrat", sans-serif;
 $show-home-image: true;
 $home-image: url(../img/background.jpg);
-$background-opacity: 0.9;
+$background-opacity: 0.8;
+$heading-shadow: 2px 3px 7px rgba(0,0,0,0.6);
+$icons-shadow: 2px 3px 7px rgba(0,0,0,0.6);
+
 
 @mixin easeOut {
   transition: all 0.5s ease-out;
