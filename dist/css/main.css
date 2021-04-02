@@ -118,7 +118,10 @@
 
 @media screen and (max-width: 500px) {
   main#home h1 {
-    margin-top: 10vh; } }
+    margin-top: 10vh;
+    font-size: 3rem; }
+  main#home {
+    padding: 1vw; } }
 
 * {
   box-sizing: border-box; }
