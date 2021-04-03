@@ -34,6 +34,15 @@ $icons-shadow: 2px 3px 7px rgba(0,0,0,0.6);
   }
 }
 
+// Set Text Color
+@function set-text-color($color) {
+  @if (lightness($color) > 40) {
+    @return #000;
+  } @else {
+    @return #fff;
+  }
+}
+
 // Media Query Mixins
 @mixin mediaSm {
   @media screen and (max-width: 500px) {

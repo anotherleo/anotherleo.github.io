@@ -74,6 +74,7 @@
     text-transform: uppercase;
     padding: 1rem 1rem;
     font-weight: 300;
+    color: #fff;
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
@@ -91,37 +92,6 @@
 
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
-
-@media screen and (max-width: 768px) {
-  main .lg-heading {
-    line-height: 1;
-    margin-bottom: 1rem; }
-  ul.menu-nav,
-  div.menu-branding {
-    float: none;
-    width: 100%;
-    min-height: 0; }
-    ul.menu-nav.show,
-    div.menu-branding.show {
-      transform: translate3d 0, 0, 0; }
-  .menu-branding {
-    height: 25vh;
-    transform: translate3d(100%, 0, 0); }
-    .menu-branding .portrait {
-      background: url(../img/portrait.jpg);
-      width: 150px;
-      height: 150px;
-      background-size: cover; }
-  .menu-nav {
-    height: 75vh;
-    transform: translate3d(-100%, 0, 0); } }
-
-@media screen and (max-width: 500px) {
-  main#home h1 {
-    margin-top: 10vh;
-    font-size: 3rem; }
-  main#home {
-    padding: 1vw; } }
 
 * {
   box-sizing: border-box; }
@@ -181,7 +151,7 @@ header {
 
 main {
   padding: 4rem;
-  height: 100%; }
+  min-height: calc(100vh - 60px); }
   main .icons {
     margin-top: 1rem;
     text-shadow: 2px 3px 7px rgba(0, 0, 0, 0.6); }
@@ -194,3 +164,88 @@ main {
     overflow: hidden; }
     main#home h1 {
       margin-top: 20vh; }
+
+.about-info {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-areas: 'bioimage bio bio'
+ 'study autism transgender';
+  grid-template-columns: repeat(3, 1fr);
+  text-align: left; }
+  .about-info .bio-image {
+    grid-area: bioimage;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: #00b9ae 3px solid; }
+  .about-info .bio {
+    grid-area: bio;
+    font-size: 1.5rem; }
+  .about-info .study {
+    grid-area: study; }
+  .about-info .autism {
+    grid-area: autism; }
+  .about-info .transgender {
+    grid-area: transgender; }
+  .about-info .singularity {
+    background: #515151;
+    padding: 0.5rem;
+    border-bottom: #00b9ae 5px solid; }
+
+#main-footer {
+  text-align: center;
+  padding: 1rem;
+  background: #000;
+  color: #fff;
+  height: 60px; }
+
+  @media screen and (max-width: 768px) {
+    .about-info {
+      grid-template-areas:
+          'bioimage'
+          'bio'
+          'study'
+          'autism'
+          'transgender';
+          
+      grid-template-columns: 1fr;
+      text-align: center;}
+  
+    main .lg-heading {
+      line-height: 1;
+      margin-bottom: 1rem; }
+    ul.menu-nav,
+    div.menu-branding {
+      float: none;
+      width: 100%;
+      min-height: 0; }
+      ul.menu-nav.show,
+      div.menu-branding.show {
+        transform: translate3d 0, 0, 0; }
+    .menu-branding {
+      height: 25vh;
+      transform: translate3d(100%, 0, 0); }
+      .menu-branding .portrait {
+        background: url(../img/portrait.jpg);
+        width: 150px;
+        height: 150px;
+        background-size: cover; }
+    .menu-nav {
+      height: 75vh;
+      transform: translate3d(-100%, 0, 0); } 
+    }
+  
+  @media screen and (max-width: 500px) {
+    .about-info {
+      grid-template-areas: 'bioimage'
+   'bio'
+   'study'
+   'autism'
+   'transgender';
+      grid-template-columns: 1fr; }
+    main#home h1 {
+      margin-top: 10vh;
+      font-size: 3rem; }
+    main#home {
+      padding: 1vw; } }

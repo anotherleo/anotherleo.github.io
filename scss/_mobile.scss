@@ -44,7 +44,18 @@
         height: 75vh;
         transform: translate3d(-100%, 0, 0);
     }
-
+    
+    .about-info {
+        grid-template-areas:
+            'bioimage'
+            'bio'
+            'study'
+            'autism'
+            'transgender';
+            
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+    }
 }
 
 // Smartphones

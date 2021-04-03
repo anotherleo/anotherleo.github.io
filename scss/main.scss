@@ -1,6 +1,5 @@
 @import "config";
 @import "menu";
-@import "mobile";
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat&display=swap");
 
 * {
@@ -10,7 +9,7 @@
 body {
   @include background;
   background-color: $primary-color;
-  color: #fff;
+  color: set-text-color($primary-color);
   height: 100%;
   margin: 0;
   font-family: $text-font;
@@ -56,7 +55,8 @@ header {
 
 main {
   padding: 4rem;
-  height: 100%;
+  // height: 100%;
+  min-height: calc(100vh - 60px); // 60px == footer.
 
   .icons {
     margin-top: 1rem;
@@ -79,3 +79,56 @@ main {
     }
   }
 }
+
+.about-info {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-areas:
+    'bioimage bio bio'
+    'study autism transgender';
+  grid-template-columns: repeat(3, 1fr);
+  text-align: left;
+
+  .bio-image {
+    grid-area: bioimage;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: $secondary-color 3px solid;
+  }
+  
+  .bio {
+    grid-area: bio;
+    font-size: 1.5rem;
+  }
+  
+  .study {
+    grid-area: study;
+  }
+  
+  .autism {
+    grid-area: autism;
+  }
+  
+  .transgender {
+    grid-area: transgender;
+  }
+  
+  .singularity {
+    background: lighten($primary-color, 5);
+    padding: 0.5rem;
+    border-bottom: $secondary-color 5px solid;
+  }
+}
+
+#main-footer {
+  text-align: center;
+  padding: 1rem;
+  background: #000;
+  color: set-text-color($primary-color);
+  height: 60px;
+}
+
+@import "mobile";
+ /* no final, pq precisa processar depois de tudo.
