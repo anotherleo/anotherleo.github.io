@@ -80,6 +80,7 @@ main {
   }
 }
 
+// ABOUT PAGE
 .about-info {
   display: grid;
   grid-gap: 30px;
@@ -122,6 +123,62 @@ main {
   }
 }
 
+// WORK, PORTFOLIO PAGE
+.projects {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.8rem;
+
+  // temporary solution while I don't 
+  // finish the projects that should be exposed
+  .proj-img {
+    width: 100%;
+    border: 3px #fff solid;
+
+    &:hover {
+      opacity: 0.5;
+      border: $secondary-color;
+      @include easeOut;
+    }
+  }
+
+  img {
+    width: 100%;
+    border: 3px #fff solid;
+
+    &:hover {
+      opacity: 0.5;
+      border: $secondary-color;
+      @include easeOut;
+    }
+  }
+}
+
+// Button Styles
+.btn {
+   display: block;
+   padding: 0.5rem 1rem;
+   border: 0;
+   margin-bottom: 0.3rem;
+
+   &:hover {
+     background: $secondary-color;
+     color: set-text-color($secondary-color);
+   }
+}
+
+.btn-dark {
+  @extend .btn;
+  background: darken($primary-color, 50);
+  color: #fff;
+}
+
+.btn-light {
+  @extend .btn;
+  background: lighten($primary-color, 50);
+  color: black;
+}
+
 #main-footer {
   text-align: center;
   padding: 1rem;
@@ -131,4 +188,4 @@ main {
 }
 
 @import "mobile";
- /* no final, pq precisa processar depois de tudo.
+ /* no final, pq precisa processar depois de tudo. */
