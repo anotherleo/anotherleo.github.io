@@ -280,7 +280,7 @@ ul {
 
 /* About section */
 .about-wrapper {
-    padding: 7rem 0 7rem 0;
+    padding: 2rem 0 2rem 0;
 
     /* grid */
     display: grid;
@@ -299,10 +299,39 @@ ul {
     grid-area: social-links;
 }
 
+/* skills section */
 #skills {
     grid-area: skills;
-    display: grid;
     justify-content: center;
+    text-align: center;
+}
+
+.skills-pie-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.skill-pie-card {
+    text-align: center;
+}
+
+.skill-pie {
+    width: 100px;
+    display: inline-block;
+}
+
+.good::before {
+    content: "";
+    padding-right: 1rem;
+    color: green;
+}
+
+.middle::before {
+    content: "";
+    padding-right: 1rem;
+    color: orange;
 }
 
 /* Projects section */

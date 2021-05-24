@@ -1,0 +1,54 @@
+ul {
+    list-style: none;
+    margin: 0;
+    line-height: 2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.webtext::before {
+    content: url('img/icon-text-document.svg');
+    margin-right: 5px;
+}
+
+.course::before {
+    content: url('img/icon-text-document.svg');
+    margin-right: 5px;
+}
+
+.videotutorial::before {
+    content: url('img/icon-youtube.svg');
+    margin-right: 5px;
+}
+
+.read::after {
+    content: "VISTO";
+    padding: 5px;
+    margin-left: 5px;
+    background-color: greenyellow;
+    color: black;
+    pointer-events: none;
+    font-size: small;
+}
+
+.learning::after {
+    content: "APRENDENDO";
+    padding: 5px;
+    margin-left: 5px;
+    background-color: orange;
+    color: black;
+    pointer-events: none;
+    font-size: small;
+}
+
+.done::after {
+    content: "COMPLETO";
+    padding: 5px;
+    margin-left: 5px;
+    background-color: purple;
+    color: white;
+    pointer-events: none;
+    font-size: small;
+}
