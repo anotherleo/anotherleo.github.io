@@ -8,6 +8,10 @@ a {
     text-decoration: none;
 }
 
+details {
+    margin-left: 1rem;
+}
+
 .webtext::before {
     content: url('img/icon-text-document.svg');
     margin-right: 5px;
@@ -38,6 +42,16 @@ a {
     padding: 5px;
     margin-left: 5px;
     background-color: orange;
+    color: black;
+    pointer-events: none;
+    font-size: small;
+}
+
+.goal::after {
+    content: "OBJETIVO";
+    padding: 5px;
+    margin-left: 5px;
+    background-color: lightblue;
     color: black;
     pointer-events: none;
     font-size: small;
