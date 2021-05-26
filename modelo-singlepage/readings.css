@@ -12,18 +12,24 @@ details {
     margin-left: 1rem;
 }
 
-.webtext::before {
-    content: url('img/icon-text-document.svg');
+.challenge::before {
+    content: url('img/icon-fire.svg');
     margin-right: 5px;
 }
-
 .course::before {
     content: url('img/icon-text-document.svg');
     margin-right: 5px;
 }
-
 .videotutorial::before {
     content: url('img/icon-youtube.svg');
+    margin-right: 5px;
+}
+.website::before {
+    content: url('img/icon-globe.svg');
+    margin-right: 5px;
+}
+.webtext::before {
+    content: url('img/icon-text-document.svg');
     margin-right: 5px;
 }
 
