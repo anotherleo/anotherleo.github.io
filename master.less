@@ -31,9 +31,9 @@ body {
     flex-flow: column wrap;
     justify-content: center;
 
-    background-color: var(--backgroundColor);
+    background-color: @backgroundColor;
     padding: 1rem;
-    border-radius: var(--borderRadius);
+    border-radius: @borderRadius;
     text-align: center;
 }
 .info-header {
@@ -62,7 +62,7 @@ a {
     text-decoration: none;
     color: #3C91E6;
     display: inline-block;
-    background-color: rgba(29, 29, 29, 0.8);
+    background-color: @backgroundColor; /* plus opacity. */
     padding: 0.1em 0.3em;
     border-radius: 0.3em;
     transition: @transition;
