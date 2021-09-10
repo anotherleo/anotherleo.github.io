@@ -1,0 +1,170 @@
+@font-face {
+  font-family: 'Cutive Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/cutivemono/v9/m8JWjfRfY7WVjVi2E-K9H5RF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/oswald/v40/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/oswald/v40/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v22/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v22/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf) format('truetype');
+}
+/** resets **/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+ul {
+  margin: 0.1rem;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+  padding: 0.1rem;
+}
+a {
+  text-decoration: none;
+}
+/* structures */
+.flexCenter {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+}
+/** GENERAL **/
+html {
+  background: url(../img/tudor-baciu.jpg) no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-color: rgba(74, 59, 182, 0.7);
+}
+body {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #f8f8f8;
+  font-family: 'Raleway', sans-serif;
+}
+/* links */
+.link {
+  transform: translateY(-3px);
+  color: blue;
+  background-color: rgba(248, 248, 248, 0.8);
+  transition: all 0.7s ease;
+}
+a {
+  text-decoration: none;
+  color: #3c91e6;
+  display: inline-block;
+  background-color: rgba(29, 29, 29, 0.85);
+  padding: 0.1em 0.3em;
+  border-radius: 0.3em;
+  transition: all 0.7s ease;
+}
+a:visited {
+  color: #3c91e6;
+}
+a:hover {
+  transform: translateY(-3px);
+  color: blue;
+  background-color: rgba(248, 248, 248, 0.8);
+  transition: all 0.7s ease;
+}
+a:focus {
+  border: 1px solid black;
+  outline: thin dotted rgba(248, 248, 248, 0.5);
+  transform: translateY(-3px);
+  color: blue;
+  background-color: rgba(248, 248, 248, 0.8);
+  transition: all 0.7s ease;
+}
+/** 
+    INDEX 
+**/
+.welcome-section {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+}
+.welcome-section--text {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+  gap: 1rem;
+  text-align: center;
+  padding: 2rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  background-color: rgba(29, 29, 29, 0.85);
+}
+.title {
+  font-size: 3rem;
+  margin: 0;
+}
+.subtitle {
+  margin: 0;
+}
+/** 
+    CREDENCIAL 
+**/
+.info-container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: rgba(29, 29, 29, 0.85);
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+}
+.info-header {
+  font-size: 1.2em;
+}
+.info-title {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.1rem;
+}
+.info-article {
+  padding: 1rem;
+  line-height: 1.5;
+}

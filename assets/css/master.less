@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&family=Raleway:wght@400;800&family=Cutive+Mono&display=swap');
+
+    @backgroundPhoto: url(../img/tudor-baciu.jpg);
+    @backgroundPhotoCover: @backgroundPhoto no-repeat center center fixed;
+    @backgroundFail: rgba(74, 59, 182, 0.7);
+
+    @fontHeader: 'Oswald', sans-serif;
+    @fontMain: 'Raleway', sans-serif;
+    @fontMono: 'Cutive Mono', monospace;
+
+    @sizeLimit: 700px;
+    
+    @fontColorMain: rgb(248, 248, 248);
+    @linkColor: rgba(60,145,230,1.0);
+    @linkHighlight: blue;
+    @colorLighter: rgba(248, 248, 248, 0.8);
+    
+    @borderRadius: 1rem;
+    @backgroundColor: rgba(29, 29, 29, 0.85);
+
+    @transition: all 0.7s ease;
+    @up: translateY(-3px);
+
+/** resets **/
+*,
+*::before,
+*::after {box-sizing: border-box;}
+body {margin: 0;}
+ul {margin: 0.1rem; padding: 0;}
+li {list-style-type: none; padding: 0.1rem}
+a {text-decoration: none;}
+
+/* structures */
+.flexCenter {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+/** GENERAL **/
+html {
+    background: @backgroundPhotoCover;
+    background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+    background-color: @backgroundFail;
+}
+body {
+    .flexCenter();
+    min-height: 100vh;
+    max-width: @sizeLimit;
+    margin: 0 auto;
+    color: @fontColorMain;
+    font-family: @fontMain;
+}
+
+/* links */
+.link {
+    transform: @up;
+    color: @linkHighlight;
+    background-color: @colorLighter;
+    transition: @transition;
+}
+a {
+    text-decoration: none;
+    color: @linkColor;
+    display: inline-block;
+    background-color: @backgroundColor;
+    padding: 0.1em 0.3em;
+    border-radius: 0.3em;
+    transition: @transition;
+
+    &:visited {
+        color: @linkColor;
+    }
+    &:hover {
+        .link();
+    }
+    &:focus {
+        border: 1px solid black;
+        outline: thin dotted rgba(248, 248, 248, 0.5);
+        .link();
+    }
+}
+
+/** 
+    INDEX 
+**/
+.welcome-section {
+    min-height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.welcome-section--text {
+    .flexCenter();    
+    gap: 1rem;
+    text-align: center;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: @borderRadius;
+    background-color: @backgroundColor;
+}
+.title {
+    font-size: 3rem;
+    margin: 0;
+}
+.subtitle {
+    margin: 0;
+}
+
+/** 
+    CREDENCIAL 
+**/
+.info-container {
+    .flexCenter();
+
+    background-color: @backgroundColor;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: @borderRadius;
+    text-align: center;
+}
+.info-header {
+    font-size: 1.2em;
+}
+.info-title {
+    text-transform: uppercase;
+    font-family: @fontHeader;
+    letter-spacing: 0.1rem;
+}
+.info-article {
+    padding: 1rem;
+    line-height: 1.5;
+}
