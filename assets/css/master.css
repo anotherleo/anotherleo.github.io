@@ -6,6 +6,13 @@
   src: url(https://fonts.gstatic.com/s/cutivemono/v9/m8JWjfRfY7WVjVi2E-K9H5RF.ttf) format('truetype');
 }
 @font-face {
+  font-family: 'Nothing You Could Do';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/nothingyoucoulddo/v10/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb0OJ.ttf) format('truetype');
+}
+@font-face {
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 400;
@@ -18,6 +25,13 @@
   font-weight: 600;
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/oswald/v40/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v22/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Raleway';
@@ -60,6 +74,12 @@ a {
   justify-content: center;
   align-content: center;
 }
+.flexBetween {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-content: center;
+}
 /** GENERAL **/
 html {
   background: url(../img/tudor-baciu.jpg) no-repeat center center fixed;
@@ -68,6 +88,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-color: rgba(74, 59, 182, 0.7);
+  filter: grayscale(40%);
 }
 body {
   display: flex;
@@ -79,35 +100,10 @@ body {
   margin: 0 auto;
   color: #f8f8f8;
   font-family: 'Raleway', sans-serif;
+  filter: grayscale(0);
 }
 /* links */
 .link {
-  transform: translateY(-3px);
-  color: blue;
-  background-color: rgba(248, 248, 248, 0.8);
-  transition: all 0.7s ease;
-}
-a {
-  text-decoration: none;
-  color: #3c91e6;
-  display: inline-block;
-  background-color: rgba(29, 29, 29, 0.85);
-  padding: 0.1em 0.3em;
-  border-radius: 0.3em;
-  transition: all 0.7s ease;
-}
-a:visited {
-  color: #3c91e6;
-}
-a:hover {
-  transform: translateY(-3px);
-  color: blue;
-  background-color: rgba(248, 248, 248, 0.8);
-  transition: all 0.7s ease;
-}
-a:focus {
-  border: 1px solid black;
-  outline: thin dotted rgba(248, 248, 248, 0.5);
   transform: translateY(-3px);
   color: blue;
   background-color: rgba(248, 248, 248, 0.8);
@@ -122,8 +118,25 @@ a:focus {
   flex-flow: column wrap;
   justify-content: center;
   align-content: center;
+  filter: grayscale(0);
 }
-.welcome-section--text {
+.welcome-section .welcome-section__portrait {
+  z-index: 10;
+  padding: 0.5rem;
+}
+.welcome-section .welcome-section__portrait a:hover img {
+  transition: all 0.3s ease-in-out;
+  transform: translateY(-7px);
+}
+.welcome-section .welcome-section__portrait a img {
+  display: inline-block;
+  width: 170px;
+  border-radius: 50%;
+  padding: 4px;
+  background-color: black;
+  margin-bottom: -50px;
+}
+.welcome-section .welcome-section__text {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
@@ -134,37 +147,26 @@ a:focus {
   margin: 1rem;
   border-radius: 1rem;
   background-color: rgba(29, 29, 29, 0.85);
+  z-index: 5;
 }
-.title {
+.welcome-section .welcome-section__text .title {
   font-size: 3rem;
   margin: 0;
-}
-.subtitle {
-  margin: 0;
-}
-/** 
-    CREDENCIAL 
-**/
-.info-container {
-  display: flex;
-  flex-flow: column wrap;
-  justify-content: center;
-  align-content: center;
-  background-color: rgba(29, 29, 29, 0.85);
-  padding: 1rem;
-  margin: 1rem;
-  border-radius: 1rem;
-  text-align: center;
-}
-.info-header {
-  font-size: 1.2em;
-}
-.info-title {
+  font-weight: 800;
   text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
-  letter-spacing: 0.1rem;
 }
-.info-article {
-  padding: 1rem;
-  line-height: 1.5;
+.welcome-section .welcome-section__text .subtitle {
+  margin: 0;
+  font-weight: 200;
+}
+.welcome-section .welcome-section__text .welcome-section__navbar {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-content: center;
+  margin: 0.5rem 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 200;
+  text-transform: uppercase;
+  gap: 1rem;
 }
