@@ -91,12 +91,8 @@ html {
   filter: grayscale(40%);
 }
 body {
-  display: flex;
-  flex-flow: column wrap;
-  justify-content: center;
-  align-content: center;
   min-height: 100vh;
-  max-width: 700px;
+  width: 100%;
   margin: 0 auto;
   color: #f8f8f8;
   font-family: 'Raleway', sans-serif;
@@ -109,26 +105,64 @@ body {
   background-color: rgba(248, 248, 248, 0.8);
   transition: all 0.7s ease;
 }
-/** 
-    INDEX 
+/**
+    INDEX
 **/
-.welcome-section {
-  min-height: 100vh;
+.navbar {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.85);
+  padding: 1rem 3rem;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar .logo .fa-code {
+  color: #3dbf8b;
+  font-size: 1.5rem;
+}
+.navbar .links ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 1.5rem;
+}
+.navbar .links ul li {
+  list-style-type: none;
+}
+.navbar .links ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.3rem;
+}
+.navbar .links ul li a:hover {
+  transition: all 0.5s ease-in-out;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+header .welcome-section {
+  min-height: 60vh;
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
   align-content: center;
   filter: grayscale(0);
 }
-.welcome-section .welcome-section__portrait {
+header .welcome-section .welcome-section__portrait {
   z-index: 10;
   padding: 0.5rem;
 }
-.welcome-section .welcome-section__portrait a:hover img {
+header .welcome-section .welcome-section__portrait a:hover img {
   transition: all 0.3s ease-in-out;
   transform: translateY(-7px);
 }
-.welcome-section .welcome-section__portrait a img {
+header .welcome-section .welcome-section__portrait a img {
   display: inline-block;
   width: 170px;
   border-radius: 50%;
@@ -136,7 +170,7 @@ body {
   background-color: black;
   margin-bottom: -50px;
 }
-.welcome-section .welcome-section__text {
+header .welcome-section .welcome-section__text {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
@@ -149,17 +183,46 @@ body {
   background-color: rgba(29, 29, 29, 0.85);
   z-index: 5;
 }
-.welcome-section .welcome-section__text .title {
+header .welcome-section .welcome-section__text .title {
   font-size: 3rem;
   margin: 0;
   font-weight: 800;
   text-transform: uppercase;
 }
-.welcome-section .welcome-section__text .subtitle {
+header .welcome-section .welcome-section__text .subtitle {
   margin: 0;
   font-weight: 200;
 }
-.welcome-section .welcome-section__text .welcome-section__navbar {
+header .welcome-section .welcome-section__text .skills {
+  font-size: 1.5rem;
+}
+header .welcome-section .welcome-section__text .skills a {
+  display: inline-block;
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  padding: 0 0.4rem;
+}
+header .welcome-section .welcome-section__text .skills a .fa-css3,
+header .welcome-section .welcome-section__text .skills a .fa-vuejs {
+  font-size: 0.85em;
+}
+header .welcome-section .welcome-section__text .skills a:hover {
+  transition: all 0.3s ease-in-out;
+  transform: translateY(-4px);
+}
+header .welcome-section .welcome-section__text .skills a:nth-child(1):hover {
+  color: #47b6cc;
+}
+header .welcome-section .welcome-section__text .skills a:nth-child(2):hover {
+  color: #3dbf8b;
+}
+header .welcome-section .welcome-section__text .skills span {
+  padding: 0 0.5rem;
+}
+header .welcome-section .welcome-section__text .welcome-section__navbar {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
