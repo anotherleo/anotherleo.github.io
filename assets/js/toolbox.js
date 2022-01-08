@@ -24,7 +24,8 @@ const toolbox = {
     vue: {},
     babel: {
         name: "Babel",
-        type: "Compilador para JavaScript"
+        type: "Compilador para JavaScript",
+        descrição: "",
     },
     figma: {
         name: "Figma",
