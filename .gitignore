@@ -3,3 +3,6 @@
 
 # Linux
 .directory
+
+# Node
+/node_modules

@@ -1,0 +1,158 @@
+// out: false
+@import "../_mixins/_mixins.less";
+
+/**
+    INDEX
+**/
+
+.page__navbar {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 1rem 3rem;
+
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+
+    .navbar__logo {
+        .fa-code {
+            color: rgb(61, 191, 139);
+            font-size: 1.5rem;
+        }
+    }
+
+
+    .links {
+        ul {
+            margin: 0;
+            padding: 0;
+
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+            gap: 1.5rem;
+
+            li {
+                list-style-type: none;
+
+                a {
+                    text-decoration: none;
+                    color: #ffffff;
+                    font-size: 1.3rem;
+
+                    &:hover {
+                        transition: all 0.5s ease-in-out;
+                    }
+                }
+            }
+        }
+    }
+}
+
+header {
+    display: flex;
+    justify-content: center;
+
+    .page__welcome {
+        min-height: 60vh;
+        .flexCenter();
+        filter: grayscale(0);
+
+        .welcome__portrait {
+            z-index: 10;
+            padding: 0.5rem;
+
+            a {
+                &:hover {
+                    img {
+                        transition: all 0.3s ease-in-out;
+                        transform: translateY(-7px);
+                    }
+                }
+
+                img {
+                    display: inline-block;
+                    width: 170px;
+                    border-radius: 50%;
+                    padding: 4px;
+                    background-color: black;
+                    margin-bottom: -50px;
+                }
+            }
+        }
+
+        .welcome__text {
+            .flexCenter();
+            gap: 1rem;
+            text-align: center;
+            padding: 2rem;
+            margin: 1rem;
+            border-radius: @borderRadius;
+            background-color: @backgroundColor;
+            z-index: 5;
+
+            .title {
+                font-size: 3rem;
+                margin: 0;
+                font-weight: 800;
+                text-transform: uppercase;
+            }
+
+            .subtitle {
+                margin: 0;
+                font-weight: 200;
+            }
+
+            .skills {
+                font-size: 1.5rem;
+
+                a {
+                    display: inline-block;
+                    color: #ffffff;
+                    text-decoration: none;
+                    text-transform: uppercase;
+                    font-weight: 600;
+                    letter-spacing: 0.15em;
+                    padding: 0 0.4rem;
+
+                    .fa-css3,
+                    .fa-vuejs {
+                        font-size: 0.85em;
+                    }
+
+                    &:hover {
+                        transition: all 0.3s ease-in-out;
+                        transform: translateY(-4px);
+                    }
+
+                    &:nth-child(1):hover {
+                        color: rgb(71, 182, 204);
+                    }
+                    &:nth-child(2):hover {
+                        color: rgb(61, 191, 139);
+                    }
+                }
+
+                span {
+                    padding: 0 0.5rem;
+                }
+            }
+
+            .welcome__navbar {
+                .flexBetween();
+                margin: 0.5rem 0 0.5rem 0;
+                font-size: 1.5rem;
+                font-weight: 200;
+                text-transform: uppercase;
+                gap: 1rem;
+            }
+        }
+    }
+}
+
+main {
+
+}
