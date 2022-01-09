@@ -1,30 +1,4 @@
 @import "less/_mixins/_mixins.less";
 @import "less/global/resets.less";
-@import "less/web/index.less";
-
-/** GENERAL **/
-html {
-    background: @backgroundPhotoCover;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-    background-size: cover;
-    background-color: @backgroundFail;
-    filter: grayscale(40%);
-}
-body {
-    min-height: 100vh;
-    width: 100%;
-    margin: 0 auto;
-    color: @fontColorMain;
-    font-family: @fontMain;
-    filter: grayscale(0);
-}
-
-/* links */
-.link {
-    transform: @up;
-    color: @linkHighlight;
-    background-color: @colorLighter;
-    transition: @transition;
-}  
+@import "less/web/index.less"; 
+  

@@ -1,3 +1,23 @@
+/** resets **/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+ul {
+  margin: 0.1rem;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+  padding: 0.1rem;
+}
+a {
+  text-decoration: none;
+}
 @font-face {
   font-family: 'Cutive Mono';
   font-style: normal;
@@ -48,37 +68,33 @@
   src: url(https://fonts.gstatic.com/s/raleway/v22/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf) format('truetype');
 }
 /* structures */
-.flexCenter {
-  display: flex;
-  flex-flow: column wrap;
-  justify-content: center;
-  align-content: center;
-}
-.flexBetween {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-between;
-  align-content: center;
-}
-/** resets **/
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
+/** GENERAL **/
+html {
+  background-image: url(../img/tudor-baciu.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: rgba(74, 59, 182, 0.7);
+  filter: grayscale(40%);
 }
 body {
-  margin: 0;
+  min-height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  color: #f8f8f8;
+  font-family: 'Raleway', sans-serif;
+  filter: grayscale(0);
 }
-ul {
-  margin: 0.1rem;
-  padding: 0;
-}
-li {
-  list-style-type: none;
-  padding: 0.1rem;
-}
-a {
-  text-decoration: none;
+/* links */
+.link {
+  transform: translateY(-3px);
+  color: blue;
+  background-color: rgba(248, 248, 248, 0.8);
+  transition: all 0.7s ease;
 }
 /**
     INDEX
@@ -207,29 +223,4 @@ header .page__welcome .welcome__text .welcome__navbar {
   font-weight: 200;
   text-transform: uppercase;
   gap: 1rem;
-}
-/** GENERAL **/
-html {
-  background: url(../img/tudor-baciu.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-color: rgba(74, 59, 182, 0.7);
-  filter: grayscale(40%);
-}
-body {
-  min-height: 100vh;
-  width: 100%;
-  margin: 0 auto;
-  color: #f8f8f8;
-  font-family: 'Raleway', sans-serif;
-  filter: grayscale(0);
-}
-/* links */
-.link {
-  transform: translateY(-3px);
-  color: blue;
-  background-color: rgba(248, 248, 248, 0.8);
-  transition: all 0.7s ease;
 }
