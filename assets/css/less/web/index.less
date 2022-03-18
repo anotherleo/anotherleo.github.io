@@ -1,158 +1,143 @@
 // out: false
-@import "../_mixins/_mixins.less";
+@import "../base/__pallete.less";
 
-/**
-    INDEX
-**/
-
-.page__navbar {
-    width: 100%;
-    position: sticky;
-    top: 0;
-    background-color: rgba(0, 0, 0, 0.85);
-    padding: 1rem 3rem;
+// * Projects Section
+.page__projects {
+    padding-top: 2rem;
 
     display: flex;
-    flex-flow: row nowrap;
-    align-items: center;
-    justify-content: space-between;
-
-    .navbar__logo {
-        .fa-code {
-            color: rgb(61, 191, 139);
-            font-size: 1.5rem;
-        }
-    }
-
-
-    .links {
-        ul {
-            margin: 0;
-            padding: 0;
-
-            display: flex;
-            flex-direction: row;
-            justify-content: flex-end;
-            gap: 1.5rem;
-
-            li {
-                list-style-type: none;
-
-                a {
-                    text-decoration: none;
-                    color: #ffffff;
-                    font-size: 1.3rem;
-
-                    &:hover {
-                        transition: all 0.5s ease-in-out;
-                    }
-                }
-            }
-        }
-    }
-}
-
-header {
-    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    
+    header {
+        padding-top: 1rem;
+        padding-bottom: 0.5rem;
 
-    .page__welcome {
-        min-height: 60vh;
-        .flexCenter();
-        filter: grayscale(0);
-
-        .welcome__portrait {
-            z-index: 10;
-            padding: 0.5rem;
-
-            a {
-                &:hover {
-                    img {
-                        transition: all 0.3s ease-in-out;
-                        transform: translateY(-7px);
-                    }
-                }
-
-                img {
-                    display: inline-block;
-                    width: 170px;
-                    border-radius: 50%;
-                    padding: 4px;
-                    background-color: black;
-                    margin-bottom: -50px;
-                }
-            }
+        h2 {
+            font: 400 2rem @fontK;
+            background-color: @white;
+            padding: 0.5em;
         }
+    }
 
-        .welcome__text {
-            .flexCenter();
-            gap: 1rem;
-            text-align: center;
-            padding: 2rem;
-            margin: 1rem;
-            border-radius: @borderRadius;
-            background-color: @backgroundColor;
-            z-index: 5;
+    nav {
+        display: flex;
+        width: 100%;
+        min-width: 360px;
+        max-width: 450px;
+        flex-direction: column;
+        gap: 0.4rem;
+
+        a {
+            transition: @transition;
+            display: block;
+            width: 100%;
+            padding: 30px;
+            background-color: @white;
+            border: 1px solid @black;
+            border-left-color: @granite;
+            border-left-width: 8px;
+
+            .category {
+                display: block;
+                margin-bottom: 0.5rem;
+                font: 400 1rem @fontK;
+                color: @black;
+                text-align: right;
+            }
 
             .title {
-                font-size: 3rem;
-                margin: 0;
-                font-weight: 800;
-                text-transform: uppercase;
+                display: block;
+                font: 400 1.4rem @fontK;
+                color: @black;
+                text-align: left;
             }
 
-            .subtitle {
-                margin: 0;
-                font-weight: 200;
+            &:hover {
+                transition: @transition;
+
+                background-color: @black;
+                border: 1px solid @white;
+
+                .category,
+                .title {
+                    color: @white;
+                }                
             }
+        }
+    }
 
-            .skills {
-                font-size: 1.5rem;
+    @media screen and (min-width: 768px) {
+        &:nth-child(odd) {
+            flex-direction: row-reverse;
 
-                a {
-                    display: inline-block;
-                    color: #ffffff;
-                    text-decoration: none;
-                    text-transform: uppercase;
-                    font-weight: 600;
-                    letter-spacing: 0.15em;
-                    padding: 0 0.4rem;
+            a {
+                border-left-color: @black;
+                border-left-width: 1px;
+                border-right-color: @granite;
+                border-right-width: 8px;
 
-                    .fa-css3,
-                    .fa-vuejs {
-                        font-size: 0.85em;
-                    }
-
-                    &:hover {
-                        transition: all 0.3s ease-in-out;
-                        transform: translateY(-4px);
-                    }
-
-                    &:nth-child(1):hover {
-                        color: rgb(71, 182, 204);
-                    }
-                    &:nth-child(2):hover {
-                        color: rgb(61, 191, 139);
-                    }
+                .category {
+                    text-align: left;
                 }
 
-                span {
-                    padding: 0 0.5rem;
+                .title {
+                    text-align: right;
                 }
-            }
-
-            .welcome__navbar {
-                .flexBetween();
-                margin: 0.5rem 0 0.5rem 0;
-                font-size: 1.5rem;
-                font-weight: 200;
-                text-transform: uppercase;
-                gap: 1rem;
             }
         }
     }
 }
 
-main {
+// * Previous/Next Section
+.page__next {
+    padding-top: 2.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
 
+    a {
+        padding: 0.3em;
+        font: 400 1.6rem @fontK;
+        background-color: @white;
+        color: @black;
+
+        &:hover {
+            transition: @transition;
+            background-color: @black;
+            color: @white;
+        }
+    }
+    
+    @media screen and (min-width: 992px) {
+        justify-content: center;
+    }
+}
+
+.page__previous {
+    .page__next();
+    justify-content: flex-start;
+}
+
+// * Footer 
+.page__footer {
+    margin-top: 4.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 552px;
+    border-top: 2px solid @black;
+    padding-top: 1.2rem;
+    padding-bottom: 1rem;
+
+    p {
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+        padding: 0.3em;
+        background-color: @white;
+        font: 400 16px @fontK;
+        text-align: center;
+    }
 }

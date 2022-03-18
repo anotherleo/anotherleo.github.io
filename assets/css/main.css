@@ -1,0 +1,236 @@
+@font-face {
+  font-family: '215000E';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/215000e-regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Kube Vertiko';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/kube-vertiko-regular.ttf') format('truetype');
+}
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+.page__header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.page__header h1 {
+  margin-top: 250px;
+  font: 400 5rem '215000E', monospace;
+  letter-spacing: 3px;
+  text-align: center;
+  color: #000000;
+}
+.page__header h1::first-letter {
+  font-size: 5.5rem;
+}
+.page__header h1 span {
+  display: inline-block;
+  font-size: 4rem;
+}
+.page__header h1 span::first-letter {
+  font-size: 3.5rem;
+}
+.page__header h2 {
+  font: 400 1.8rem '215000E', monospace;
+  letter-spacing: 6px;
+  text-align: center;
+  color: #000000;
+}
+.page__header nav {
+  display: flex;
+  margin-top: 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+.page__header nav a {
+  display: block;
+  width: fit-content;
+  border: 1px solid #000000;
+  padding: 0.7em;
+  background-color: #ffffff;
+  font: 400 1.1rem 'Kube Vertiko', monospace;
+  color: #000000;
+  text-align: center;
+}
+.page__header nav a:hover {
+  transition: all linear 0.8s;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 0.7em 4em;
+}
+.page__header nav a:hover span {
+  display: none;
+}
+@media screen and (min-width: 1200px) {
+  .page__header h1 {
+    margin-top: 125px;
+  }
+}
+.page__projects {
+  padding-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.page__projects header {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.page__projects header h2 {
+  font: 400 2rem 'Kube Vertiko', monospace;
+  background-color: #ffffff;
+  padding: 0.5em;
+}
+.page__projects nav {
+  display: flex;
+  width: 100%;
+  min-width: 360px;
+  max-width: 450px;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.page__projects nav a {
+  transition: all linear 0.8s;
+  display: block;
+  width: 100%;
+  padding: 30px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  border-left-color: #666565;
+  border-left-width: 8px;
+}
+.page__projects nav a .category {
+  display: block;
+  margin-bottom: 0.5rem;
+  font: 400 1rem 'Kube Vertiko', monospace;
+  color: #000000;
+  text-align: right;
+}
+.page__projects nav a .title {
+  display: block;
+  font: 400 1.4rem 'Kube Vertiko', monospace;
+  color: #000000;
+  text-align: left;
+}
+.page__projects nav a:hover {
+  transition: all linear 0.8s;
+  background-color: #000000;
+  border: 1px solid #ffffff;
+}
+.page__projects nav a:hover .category,
+.page__projects nav a:hover .title {
+  color: #ffffff;
+}
+@media screen and (min-width: 768px) {
+  .page__projects:nth-child(odd) {
+    flex-direction: row-reverse;
+  }
+  .page__projects:nth-child(odd) a {
+    border-left-color: #000000;
+    border-left-width: 1px;
+    border-right-color: #666565;
+    border-right-width: 8px;
+  }
+  .page__projects:nth-child(odd) a .category {
+    text-align: left;
+  }
+  .page__projects:nth-child(odd) a .title {
+    text-align: right;
+  }
+}
+.page__next {
+  padding-top: 2.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.page__next a {
+  padding: 0.3em;
+  font: 400 1.6rem 'Kube Vertiko', monospace;
+  background-color: #ffffff;
+  color: #000000;
+}
+.page__next a:hover {
+  transition: all linear 0.8s;
+  background-color: #000000;
+  color: #ffffff;
+}
+@media screen and (min-width: 992px) {
+  .page__next {
+    justify-content: center;
+  }
+}
+.page__previous {
+  padding-top: 2.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  justify-content: flex-start;
+}
+.page__previous a {
+  padding: 0.3em;
+  font: 400 1.6rem 'Kube Vertiko', monospace;
+  background-color: #ffffff;
+  color: #000000;
+}
+.page__previous a:hover {
+  transition: all linear 0.8s;
+  background-color: #000000;
+  color: #ffffff;
+}
+@media screen and (min-width: 992px) {
+  .page__previous {
+    justify-content: center;
+  }
+}
+.page__footer {
+  margin-top: 4.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 552px;
+  border-top: 2px solid #000000;
+  padding-top: 1.2rem;
+  padding-bottom: 1rem;
+}
+.page__footer p {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  padding: 0.3em;
+  background-color: #ffffff;
+  font: 400 16px 'Kube Vertiko', monospace;
+  text-align: center;
+}
+.page__about {
+  color: #ffffff;
+}
+body {
+  min-height: 100vh;
+  background-image: url('../img/bg.jpg'), url('../img/bg2.png');
+  background-repeat: no-repeat, no-repeat;
+  background-position: bottom -125px left 0, top 50px right 12%;
+  background-size: 450px, 200px;
+  background-color: #ffffff;
+}
+body.theme__dark {
+  background-image: url('../img/bg-t.jpg'), url('../img/bg2-t.png');
+  background-color: #000000;
+}
+body.theme__dark .page__header h1 {
+  color: #ffffff;
+}
+body.theme__dark .page__header h2 {
+  color: #ffffff;
+}

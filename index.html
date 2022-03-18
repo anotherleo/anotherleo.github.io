@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="PT-BR">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,138 +9,74 @@
     <meta name="keywords" content="Leo Thomas Monteiro, anotherleo, JavaScript, Responsive Web Design, Vue.js">
     <meta name="author" content="Leo Thomas Monteiro">
 
-    <!-- boostrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/main.css">
 
-    <!-- css -->
-    <link href="assets/css/master.css" rel="stylesheet">
-
-    <!-- icons libraries -->
-    <link href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/1a415b1d46.js" crossorigin="anonymous" defer></script>
+    <script defer src="https://kit.fontawesome.com/1a415b1d46.js" crossorigin="anonymous"></script>
+    <script defer src="assets/js/script.js"></script>
 
     <title>Leo Thomas | Web Dev</title>
 </head>
 <body>
 
-    <nav id="navbar" class="page__navbar">
-        <div class="navbar__logo">
-            <i class="fas fa-code"></i>
-        </div>
+    <div class="container">
 
-        <div class="links">
-            <ul>
-                <li>
-                    <a href="#about">Sobre</a>
-                </li>
-                <li>
-                    <a href="#portfolio">Portfolio</a>
-                </li>
-                <li>
-                    <a href="#contact">Contato</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+        <header class="page__header">
+            <h1>Leo's proJEcts</h1>
+            <h2>fRoNt-End weB devELoPer</h2>
 
-    <header>
-        <div id="welcome" class="page__welcome">
-            <div class="welcome__portrait">
-                <a href="#contact">
-                    <img src="assets/img/portrait.png" alt="">
+            <nav>
+                <a href="#" role="button">
+                    <span>Navbar </span>
+                    <i class="fa-solid fa-bars"></i>
                 </a>
-            </div>
-            <div class="welcome__text">
-                <h1 class="title">Leo Thomas Monteiro</h1>
-                <h1 class="subtitle">Desenvolvedor Web</h1>
-                <h1 class="skills">
-                    <a href="#about-skills-css"><i class="fab fa-css3"></i> Front-End Responsivo </a>
-                    <a href="#about-skills-mevn"><i class="fab fa-vuejs"></i> MEVN Stack</a>
-                </h1>
-            </div>
-        </div>
-    </header>
+            </nav>
+        </header>
 
-    <section id="about" class="page__about">
-        <article>
+        <section class="page__projects">
             <header>
-                <h1>Sobre</h1>
+                <h2>Something Like a Portfolio</h2>
             </header>
-            <div class="about__description">
-                <p>Curioso sobre o mundo, sou um profissional inquieto. Busco conhecimento e aperfeiçoamento, não tenho receio de mudar de direção quando é necessário pois gosto dos desafios que a vida lança -- algumas vezes ela levou isso muito a sério, o que também me tornou mais sério e responsável. No geral, gosto de café extraforte e daquela sensação mágica de ver o meu trabalho trazendo resultados.</p>
-            </div>
-            <div class="about__skills">
-                <p>Estudo para me tornar proficiente como programador independente da linguagem utilizada, mas no fim do dia, minha preferência está em JavaScript e atuação no front-end. Gosto de ver um website responsivo, um código CSS que consegue fazer coisas incríveis!</p>
-                <p>Sou capacitado para trabalhar como full-stack através da MEVN stack (MongoDB, Express, Vue.js e Node.js), também utilizando React.js ao invés de Vue.js.</p>
-                <p>Nos meus planos estão o aprofundamento de Node.js, aprendizado de PHP, por questão da demanda de mercado, e de C# por pura curiosidade.</p>
-            </div>
-            <div class="about__diversity">
-                <p>Busco trabalhar com pessoas e empresas que tenham boa cultura de crescimento e respeito à diversidade. Sou um homem transgênero com grau leve de autismo, o que me permite ver e sentir o mundo de um jeito diferente -- não estranho demais, nem normal demais, só diferente.</p>
-            </div>
-            <div class="about__toolbox">
-                <div class="toolbox__icons">
-                    <h2>Front-end</h2>
-                    <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-css3-plain colored"></i>
-                    <i class="devicon-javascript-plain colored"></i>
-                    <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-jquery-plain colored"></i>
-                    D3
-                    React
-                    Vue
-                    <i class="devicon-figma-plain colored"></i>
-                    <i class="devicon-git-plain colored"></i>
-                    <i class="devicon-jest-plain colored"></i>
-                </div>
-                <div id="js-toolbox-description">
-                    <!-- Descrições das Skills -->
-                </div>
-            </div>
-        </article>
+            <nav>
+                <a href="#" target="_blank">
+                    <span class="category">Work</span>
+                    <span class="title">Projects Built at LDNA's</span>
+                </a>
+                <a href="#" target="_blank">
+                    <span class="category">Showcase</span>
+                    <span class="title">Frontend Mentor Projects</span>
+                </a>
+                <a href="#" target="_blank">
+                    <span class="category">Practice</span>
+                    <span class="title">Traversy's 50 Days of JS</span>
+                </a>
+            </nav>
+        </section>
 
-        <article>
+        <section class="page__projects">
             <header>
-                <h1>Trabalho</h1>
+                <h2>Things I Enjoy to Study</h2>
             </header>
-            <div class="about__job">
-                <header>
-                    <h2>Londrina S/A</h2>
-                    <h3>Desenvolvedor Front-End Júnior</h3>
-                </header>
-                <p>Atuação no desenvolvimento front-end de sites instuicionais, blogs e landing pages, a partir dos protótipos desenvolvidos pelo time de UI/UX. Uso de HTML5, CSS3, Bootstrap, Less, JavaScript, jQuery, assim como algumas ferramentas de design e bibliotecas específicas de JS.</p>
-            </div>
-            <div class="about__job">
-                <header>
-                    <h2>Ark Mídia</h2>
-                    <h3>Desenvolvedor de Conteúdo Digital</h3>
-                </header>
-            </div>
-            <div class="about__job">
-                <header>
-                    <h2>Freelancer</h2>
-                    <h3>Desenvolvimento Web</h3>
-                </header>
-            </div>
-        </article>
-    </section>
+            <nav>
+                <a href="#" target="_blank">
+                    <span class="category">Showcase</span>
+                    <span class="title">FreeCodeCamp Projects</span>
+                </a>
+                <a href="#" target="_blank">
+                    <span class="category">Experimental</span>
+                    <span class="title">Storytelling Based Game</span>
+                </a>
+            </nav>
+        </section>
 
-    <section class="page__portfolio">
+        <footer class="page__footer">
+            <p>&copy; Leo Thomas Monteiro, 2022.</p>
+        </footer>
 
-    </section>
+    </div>
 
-    <section class="page__contact">
-        <a href=""></a>
-    </section>
-
-    <!-- libraries: popper, bootstrap, chart.js -->
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js" integrity="sha512-TW5s0IT/IppJtu76UbysrBH9Hy/5X41OTAbQuffZFU6lQ1rdcLHzpU5BzVvr/YFykoiMYZVWlr/PX1mDcfM9Qg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-    <!-- scripts -->
-    <script src="assets/js/toolbox.js"></script>
-
-</body>
+    <!-- Bootstrap 4.6.1 -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+</body> 
 </html>

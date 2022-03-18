@@ -1,2 +1,3 @@
-## _30/12/2021_  
-* Added certifications folder.
+# Changelog
+## 18/02/2022
+* Complete change
