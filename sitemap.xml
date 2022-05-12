@@ -75,6 +75,54 @@
 	</url>
 
 	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | FREECODECAMP -->
+		<loc>https://anotherleo.github.io/leo-projects/studies/freecodecamp/index.html</loc>
+		<lastmod>2021-09-09</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | FREECODECAMP, PROJETO TRIBUTO -->
+		<loc>https://anotherleo.github.io/leo-projects/studies/freecodecamp/responsive-web-design/tribute-page/index.html</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | FREECODECAMP, PROJETO DOCUMENTAÇÃO -->
+		<loc>https://anotherleo.github.io/leo-projects/studies/freecodecamp/responsive-web-design/technical-doc-page/index.html</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | FREECODECAMP, PROJETO PORTFOLIO -->
+		<loc>https://anotherleo.github.io/leo-projects/studies/freecodecamp/responsive-web-design/portfolio-page/index.html</loc>
+		<lastmod>2021-09-07</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | FREECODECAMP, PROJETO LANDING PAGE -->
+		<loc>https://anotherleo.github.io/leo-projects/studies/freecodecamp/responsive-web-design/landing-page/index.html</loc>
+		<lastmod>2021-09-06</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | FREECODECAMP, PROJETO FORM -->
+		<loc>https://anotherleo.github.io/leo-projects/studies/freecodecamp/responsive-web-design/form-page/index.html</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
 		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | GAME EXPERIMENTAL -->
 		<loc>https://anotherleo.github.io/leo-projects/projects/experimental/storytelling-based-game/test-05/index.html</loc>
 		<lastmod>2021-09-13</lastmod>
