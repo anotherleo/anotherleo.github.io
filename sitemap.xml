@@ -1,13 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
 	<url>
 		<!-- HOMEPAGE -->
 		<loc>https://anotherleo.github.io</loc>
+		<xhtml:link
+        	rel="canonical"
+            hreflang="pt-br"
+            href="https://anotherleo.github.io"/>
+		<xhtml:link
+        	rel="alternate"
+            hreflang="en-US"
+            href="https://anotherleo.github.io/pages/index.en.html"/>
 		<lastmod>2022-05-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
+	</url>
+
+	<url>
+		<!-- HOMEPAGE EM INGLÊS -->
+		<loc>https://anotherleo.github.io/pages/index.en.html</loc>
+		<xhtml:link
+        	rel="canonical"
+            hreflang="pt-br"
+            href="https://anotherleo.github.io"/>
+		<xhtml:link
+        	rel="alternate"
+            hreflang="en-US"
+            href="https://anotherleo.github.io/pages/index.en.html"/>
+		<lastmod>2022-05-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<!-- SHOWCASE | WORK-SNIPPETS -->
+		<loc>https://anotherleo.github.io/work-front-snippets</loc>
+		<lastmod>2022-05-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+
+	<url>
+		<!-- SHOWCASE | FRONTENDMENTOR -->
+		<loc>https://anotherleo.github.io/showcase-frontend-mentor/</loc>
+		<lastmod>2022-05-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.9</priority>
+	</url>
+
+	<url>
+		<!-- SHOWCASE | FRONTENDMENTOR, P.1 -->
+		<loc>https://anotherleo.github.io/showcase-frontend-mentor/projects/ch01/order-summary-component-v1/index.html</loc>
+		<lastmod>2022-05-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS -->
+		<loc>https://anotherleo.github.io/leo-projects/</loc>
+		<lastmod>2022-05-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | TRPG COMPANION -->
+		<loc>https://anotherleo.github.io/leo-projects/projects/trpg-companion/index.html</loc>
+		<lastmod>2021-12-18</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | GAME EXPERIMENTAL -->
+		<loc>https://anotherleo.github.io/leo-projects/projects/experimental/storytelling-based-game/test-05/index.html</loc>
+		<lastmod>2021-09-13</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.4</priority>
+	</url>
+
+	<url>
+		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | WEIRD WIZARD -->
+		<loc>https://anotherleo.github.io/leo-projects/projects/various-projects/rpg/weird-wizard/index.html</loc>
+		<lastmod>2021-08-30</lastmod>
+		<changefreq>never</changefreq>
+		<priority>0.3</priority>
+	</url>
+	
+	<url>
+		<!-- FUNNY | THOMAS E UM ESPECTRO -->
+		<loc>https://anotherleo.github.io/thomas-e-um-espectro/</loc>
+		<lastmod>2021-12-24</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+	<url>
+		<!-- FUNNY | THOMAS E UM ESPECTRO, FICHA 2 -->
+		<loc>https://anotherleo.github.io/thomas-e-um-espectro/sheets/002.html</loc>
+		<lastmod>2021-12-24</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
 	</url>
 
 </urlset>
