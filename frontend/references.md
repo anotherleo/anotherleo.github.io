@@ -1,5 +1,8 @@
 # ANOTHERLEO, References
 
+## Tech
+* https://json-ld.org/
+
 ## Exemplo de Política de Privacidade
 * https://www.smashingmagazine.com/privacy-policy/
 
