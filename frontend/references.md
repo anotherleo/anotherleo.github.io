@@ -13,6 +13,7 @@
 
 ## SEO
 * https://resultadosdigitais.com.br/marketing/backlinks/
+* https://ahrefs.com/blog/anchor-text/
 ### SEO Open Graph
 * https://ogp.me/
 * https://www.knownly.net/community/guides/open-graph-for-social-sharing/index.html
