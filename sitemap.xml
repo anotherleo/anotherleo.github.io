@@ -62,7 +62,7 @@
 		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | TRPG COMPANION -->
 		<loc>https://anotherleo.github.io/leo-projects/projects/trpg-companion/index.html</loc>
 		<lastmod>2021-12-18</lastmod>
-		<changefreq>yearly</changefreq>
+		<changefreq>anual</changefreq>
 		<priority>0.5</priority>
 	</url>
 
@@ -70,7 +70,7 @@
 		<!-- REPOSITORIO DE ESTUDOS | LEO-PROJECTS | FREECODECAMP -->
 		<loc>https://anotherleo.github.io/leo-projects/studies/freecodecamp/index.html</loc>
 		<lastmod>2021-09-09</lastmod>
-		<changefreq>yearly</changefreq>
+		<changefreq>anual</changefreq>
 		<priority>0.5</priority>
 	</url>
 
@@ -134,7 +134,7 @@
 		<!-- FUNNY | THOMAS E UM ESPECTRO -->
 		<loc>https://anotherleo.github.io/thomas-e-um-espectro/</loc>
 		<lastmod>2021-12-24</lastmod>
-		<changefreq>yearly</changefreq>
+		<changefreq>anual</changefreq>
 		<priority>0.8</priority>
 	</url>
 
@@ -142,7 +142,7 @@
 		<!-- FUNNY | THOMAS E UM ESPECTRO, FICHA 2 -->
 		<loc>https://anotherleo.github.io/thomas-e-um-espectro/sheets/002.html</loc>
 		<lastmod>2021-12-24</lastmod>
-		<changefreq>yearly</changefreq>
+		<changefreq>anual</changefreq>
 		<priority>0.8</priority>
 	</url>
 
