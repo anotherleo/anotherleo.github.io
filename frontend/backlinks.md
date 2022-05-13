@@ -2,10 +2,10 @@
 
 ## Backlinks
 ### Externos
-* GitHub 
+* GitHub >> ok
 * Facebook
 * Instagram
-* Pinterest
+* Pinterest >> ok
 * Medium
 * FlowCode (decidir)
 
