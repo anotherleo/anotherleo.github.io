@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 	<url>
 		<!-- HOMEPAGE -->
 		<loc>https://anotherleo.github.io</loc>
-		<xhtml:link
-        	rel="canonical"
-            hreflang="pt-br"
-            href="https://anotherleo.github.io"/>
-		<xhtml:link
-        	rel="alternate"
-            hreflang="en-US"
-            href="https://anotherleo.github.io/pages/index.en.html"/>
 		<lastmod>2022-05-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
@@ -21,14 +13,6 @@
 	<url>
 		<!-- HOMEPAGE EM INGLÊS -->
 		<loc>https://anotherleo.github.io/pages/index.en.html</loc>
-		<xhtml:link
-        	rel="canonical"
-            hreflang="pt-br"
-            href="https://anotherleo.github.io"/>
-		<xhtml:link
-        	rel="alternate"
-            hreflang="en-US"
-            href="https://anotherleo.github.io/pages/index.en.html"/>
 		<lastmod>2022-05-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
