@@ -10,6 +10,11 @@
         "postalCode": "95590-000",
         "streetAddress": "Avenida Atlântica 1810 - Sala 210"
     },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "3"
+    },
     "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": "Serviços Digitais",
