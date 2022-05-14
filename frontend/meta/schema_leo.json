@@ -8,6 +8,12 @@
     "url": "https://anotherleo.github.io",
     "image": "https://scontent-gru2-1.cdninstagram.com/v/t51.2885-15/240944076_226592255947581_2997647381854652333_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-gru2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=iitKMxopc8IAX8384Tu&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjY1MjUxOTI2OTk5MDY2MjUxMA%3D%3D.2-ccb7-4&oh=00_AT-0JSbO2DWydVIokxz6eCyYe81vaowca-x93dd8GQkTPQ&oe=6285F989&_nc_sid=30a2ef",
     "jobTitle": "Desenvolvedor Web",
+    "memberOf": {
+        "@type": "Organization",
+        "name": "Leo Thomas Web Dev",
+        "url": "anotherleo.github.io",
+        "logo": "https://raw.githubusercontent.com/anotherleo/anotherleo.github.io/master/assets/img/black-otter.webp"
+    },
     "hasOccupation": {
         "@type": "Occupation",
         "name": "Desenvolvedor Web",
@@ -22,9 +28,19 @@
                 "name": "Descomplica",
                 "url": "https://descomplica.com.br/"
             }
-        }            
+        }       
     },
-    "hasOfferCatalog": {},
+    "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+            "@type": "Service",
+            "serviceType": "Criação de Sites"
+        },
+        "areaServed": {
+            "@type": "Place",
+            "name": "Brasil"
+        }
+    },
     "colleague": [
         "https://fabiviegas.github.io"
     ],
@@ -34,5 +50,10 @@
         "addressRegion": "RS",
         "postalCode": "95590-000",
         "streetAddress": "Avenida Atlântica 1810 - Sala 210"
+    },
+    "knowsLanguage": {
+        "@type": "Language",
+        "name": "Portuguese",
+        "alternateName": "pt-br"
     }
 }
