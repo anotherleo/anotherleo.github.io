@@ -12,6 +12,9 @@
   font-display: swap;
   src: url('../fonts/kube-vertiko-regular.ttf') format('truetype');
 }
+body {
+  font-size: 16px;
+}
 a {
   display: inline-block;
   text-decoration: none;
@@ -20,8 +23,8 @@ a:hover {
   text-decoration: none;
 }
 .page__header {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 .page__header h1 {
   margin-top: 250px;
@@ -46,13 +49,13 @@ a:hover {
   text-align: center;
   color: #000000;
 }
-.page__header nav {
+.page__header menu {
   display: flex;
   margin-top: 1.5rem;
   justify-content: center;
   align-items: center;
 }
-.page__header nav a {
+.page__header menu a {
   display: block;
   width: fit-content;
   border: 1px solid #000000;
@@ -62,31 +65,27 @@ a:hover {
   color: #000000;
   text-align: center;
 }
-.page__header nav a:hover {
+.page__header menu a:hover {
   transition: all linear 0.8s;
   background-color: #000000;
   color: #ffffff;
-  padding: 0.7em 4em;
-}
-.page__header nav a:hover span {
-  display: none;
 }
 @media screen and (min-width: 1200px) {
   .page__header h1 {
-    margin-top: 125px;
+    margin-top: 80px;
   }
 }
 .page__projects {
-  padding-top: 2rem;
+  padding-top: 32px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
+  gap: 32px;
 }
 .page__projects header {
-  padding-top: 1rem;
-  padding-bottom: 0.5rem;
+  padding-top: 16px;
+  padding-bottom: 8px;
 }
 .page__projects header h2 {
   font: 400 2rem 'Kube Vertiko', monospace;
@@ -114,7 +113,8 @@ a:hover {
 .page__projects nav a .category {
   display: block;
   margin-bottom: 0.5rem;
-  font: 400 1rem 'Kube Vertiko', monospace;
+  font: 400 1.1rem 'Kube Vertiko', monospace;
+  letter-spacing: 1px;
   color: #000000;
   text-align: right;
 }

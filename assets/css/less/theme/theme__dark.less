@@ -2,10 +2,13 @@
 
 body { 
     min-height: 100vh; 
-    background-image: url('../img/bg.jpg'), url('../img/bg2.png');
-    background-repeat: no-repeat, no-repeat;
-    background-position: bottom -125px left 0, top 50px right 12%;
-    background-size: 450px, 200px;
+    background-image: url('../img/city-black.jpg'), 
+        url('../img/otter-black.png');
+    background-position: bottom -125px left 0, 
+        top 50px right 12%;
+    background-size: 450px, 
+        200px;
+    background-repeat: no-repeat;
     background-color: @white;
 
     &.theme__dark {
@@ -20,5 +23,9 @@ body {
                 color: @white;
             }
         }
+    }
+
+    @supports (background-image: url('../img/otter-black.webp')) {
+        background-image: url('../img/city-black.webp'), url('../img/otter-black.webp');
     }
 }

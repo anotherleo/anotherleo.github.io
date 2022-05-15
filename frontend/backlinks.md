@@ -4,7 +4,7 @@
 ### Externos
 * GitHub >> ok
 * Facebook
-* Instagram
+* Instagram >> ok
 * Pinterest >> ok
 * Medium
 * FlowCode (decidir)
