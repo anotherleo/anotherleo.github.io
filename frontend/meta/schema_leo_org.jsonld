@@ -4,5 +4,12 @@
     "name": "Leo Thomas Monteiro",
     "description": "Desenvolvedor web especializado em front-end.",
     "url": "anotherleo.github.io",
-    "logo": "https://anotherleo.github.io/img/otter-black.webp"
+    "logo": "https://anotherleo.github.io/img/otter-black.webp",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tramandaí",
+        "addressRegion": "RS",
+        "postalCode": "95590-000",
+        "streetAddress": "Avenida Atlântica 1810 - Sala 210"
+    }
 }
