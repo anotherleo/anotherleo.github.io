@@ -65,11 +65,62 @@
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "Organization",
+            "@type": "Person",
             "name": "Leo Thomas Monteiro",
+            "alternateName": "neo.punk",
             "description": "Desenvolvedor web especializado em front-end.",
             "url": "anotherleo.github.io",
-            "logo": "https://anotherleo.github.io/img/otter-black.webp"
+            "image": "https://anotherleo.github.io/portrait.jpg",
+            "gender": "male",
+            "hasOccupation": {
+                "@type": "Occupation",
+                "name": "Desenvolvedor Web",
+                "responsibilities": "Desenvolvimento front-end de websites."
+                "skills": "Programação",
+            },
+            "hasOfferCatalog": {
+                "@type": "OfferCatalog",
+                "name": "Criação de Websites",
+                "itemListElement": [{
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Site Landing Page"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Site Institucional"
+                    }
+                },
+            ]},
+            "jobTitle": "Desenvolvedor Web",
+            "knowsLanguage": {[
+                "@type": "Language",
+                "name": "Portuguese",
+                ],[
+                "@type": "Language",
+                "name": "English",
+            ]},
+            "workLocation": {
+                "@type": "Place",
+                "addressLocality": "Londrina",
+                "addressRegion": "PR",
+                "postalCode": "86060-510",
+                "streetAddress": "Rua Ibiporã, 529, Aurora"
+            }
+            "worksFor": {
+                "@type": "Organization",
+                "name": "Agência Digital Londrina S/A",
+                "url": "https://www.londrinasa.com.br/",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4,9",
+                    "reviewCount": "40"
+                }
+            }
         }
     </script>
 
@@ -92,10 +143,10 @@
                     <br>desenvolvedor web!
                 </h2>
                 <p>Trabalho com CSS, JavaScript, React e amo o que eu faço.</p>
-                <p>Sou Front-End na equipe de tecnologia da Agência Digital Londrina S/A. Em meu tempo livre escuto Imagine Dragons, leio HQs e trabalho em projetos paralelos.</p>
+                <p>Sou Front-End na equipe de tecnologia da <a href="https://www.londrinasa.com.br/">Agência Digital Londrina S/A</a>. Em meu tempo livre escuto Imagine Dragons, leio HQs e trabalho em projetos paralelos.</p>
                 <a href="#" class="intro__contact">Entrar em Contato</a>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3 pt-5">
                 <img src="portrait.jpg" alt="retrato de Leo Thomas" class="img-fluid portrait">
                 <div class="social">
                     <a href="#" title="linkedin">
@@ -260,6 +311,7 @@
                 </div>
             </div>
         </div>
+        <div class="cta"></div>
         <div class="portfolio">
             <div class="container">
                 <div class="row justify-content-center">

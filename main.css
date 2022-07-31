@@ -43,6 +43,14 @@ body {
   font-family: 'Prompt', sans-serif;
   font-weight: 300;
 }
+.introduction .intro__text p a {
+  color: #2189CE;
+  text-decoration: none;
+  transition: all linear 0.4s;
+}
+.introduction .intro__text p a:hover {
+  color: #FFF300;
+}
 .introduction .intro__text .intro__contact {
   display: block;
   width: fit-content;
