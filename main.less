@@ -231,11 +231,50 @@ body {
         color: whitesmoke;
     }
 
+    .cta {
+        display: block;
+        width: fit-content;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border: 3px solid @yellow1;
+        color: @yellow1;
+        padding: 15px 45px;
+        font: 400 26px 'Bangers', sans-serif;
+        letter-spacing: 1.2px;
+        text-decoration: none;
+        transition: all linear .4s;
+        text-align: center;
+
+        svg {
+            transition: all linear .4s;
+            height: 27px;
+            padding-left: 10px;
+            path {
+                fill: greenyellow;
+            }
+        }
+
+        &:hover {
+            border: 3px solid transparent;
+            background-image: linear-gradient(@yellow1, @pink2);
+            background-repeat: no-repeat;
+            color: black;
+            transform: translateY(-6px);
+
+            svg {
+                path {
+                    fill: black;
+                }
+            }
+        }
+    }
+
     .card {
         font-family: 'Prompt', sans-serif;
         background-color: black;
         border-radius: 0;
         transition: all linear .4s;
+        border-bottom: 3px solid transparent;
 
         .card-img-top {
             object-fit: cover;
@@ -258,6 +297,7 @@ body {
         &:hover {
             cursor: pointer;
             transform: translateY(-4px);
+            border-bottom: 3px solid @yellow1;
             .card-title {
                 color: @yellow1;
             }
