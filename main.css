@@ -208,23 +208,12 @@ body {
   transition: all linear 0.4s;
   text-align: center;
 }
-.about .cta svg {
-  transition: all linear 0.4s;
-  height: 27px;
-  padding-left: 10px;
-}
-.about .cta svg path {
-  fill: greenyellow;
-}
 .about .cta:hover {
   border: 3px solid transparent;
   background-image: linear-gradient(#FFF300, #F81F72);
   background-repeat: no-repeat;
   color: black;
   transform: translateY(-6px);
-}
-.about .cta:hover svg path {
-  fill: black;
 }
 .about .card {
   font-family: 'Prompt', sans-serif;
