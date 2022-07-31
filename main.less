@@ -230,6 +230,39 @@ body {
     p {
         color: whitesmoke;
     }
+
+    .card {
+        font-family: 'Prompt', sans-serif;
+        background-color: black;
+        border-radius: 0;
+        transition: all linear .4s;
+
+        .card-img-top {
+            object-fit: cover;
+            object-position: center;
+            height: 150px;
+            border-radius: 0;
+        }
+
+        .card-title {
+            font-size: 20px;
+            color: @blue2;
+            font-family: 'Bangers', sans-serif; 
+        }
+
+        .card-text {
+            font-size: 13px;
+            color: whitesmoke;
+        }
+
+        &:hover {
+            cursor: pointer;
+            transform: translateY(-4px);
+            .card-title {
+                color: @yellow1;
+            }
+        }
+    }
 }
 
 footer {

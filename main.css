@@ -194,6 +194,34 @@ body {
 .about p {
   color: whitesmoke;
 }
+.about .card {
+  font-family: 'Prompt', sans-serif;
+  background-color: black;
+  border-radius: 0;
+  transition: all linear 0.4s;
+}
+.about .card .card-img-top {
+  object-fit: cover;
+  object-position: center;
+  height: 150px;
+  border-radius: 0;
+}
+.about .card .card-title {
+  font-size: 20px;
+  color: #2189CE;
+  font-family: 'Bangers', sans-serif;
+}
+.about .card .card-text {
+  font-size: 13px;
+  color: whitesmoke;
+}
+.about .card:hover {
+  cursor: pointer;
+  transform: translateY(-4px);
+}
+.about .card:hover .card-title {
+  color: #FFF300;
+}
 footer .colored-line {
   background-image: linear-gradient(to left, #FFF300, #F81F72, #0060AC);
   background-repeat: no-repeat;
