@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'Bangers';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/bangers/v20/FeVQS0BTqb0h60ACL5k.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/prompt/v10/-W__XJnvUD7dzB26Zw.ttf) format('truetype');
+}
+body {
+  background-color: #1b1b1b;
+  margin: 0;
+}
+.page__header .colored-line {
+  background-image: linear-gradient(to right, #FFF300, #F81F72, #0060AC);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 10px;
+}
+.introduction .intro__text {
+  color: whitesmoke;
+}
+.introduction .intro__text h2 {
+  font-family: 'Bangers', sans-serif;
+  text-transform: uppercase;
+  color: #2189CE;
+  font-size: 36px;
+}
+.introduction .intro__text h2 span {
+  color: #FFF300;
+}
+@media screen and (min-width: 768px) {
+  .introduction .intro__text h2 {
+    font-size: 42px;
+  }
+}
+.introduction .intro__text p {
+  font-family: 'Prompt', sans-serif;
+  font-weight: 300;
+}
+.introduction .portrait {
+  padding-right: 30px;
+  padding-bottom: 30px;
+  background-image: linear-gradient(#FFF300, #F81F72, #2189CE);
+  background-repeat: no-repeat;
+  background-position: left 30px top 30px;
+}
+.introduction .social {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.introduction .social a {
+  display: block;
+  width: 30px;
+  height: 30px;
+}
+.introduction .social a path {
+  fill: #FFF300;
+}
+.introduction .social a:hover path {
+  fill: #F81F72;
+}
+.introduction .social a[title="github"] {
+  width: 35px;
+  height: 35px;
+}
+.tech-stack h3 {
+  color: #0060AC;
+  font: 400 36px 'Bangers', sans-serif;
+}
+.tech-stack .skills__carousel path {
+  fill: #FFF300;
+}
+footer {
+  background-color: #0060AC;
+  color: whitesmoke;
+}

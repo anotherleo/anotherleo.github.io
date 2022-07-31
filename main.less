@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Prompt&display=swap');
+
+
+@yellow1: #FFF300;
+@pink1: #EF69A4;
+@pink2: #F81F72;
+@blue1: #0060AC;
+@blue2: #2189CE;
+
+body {
+    background-color: rgb(27, 27, 27);
+    margin: 0;
+}
+
+.page__header {
+    .colored-line {
+        background-image: linear-gradient(to right, @yellow1, @pink2, @blue1);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 10px;
+    }
+}
+
+.introduction {
+    .intro__text {
+        color: whitesmoke;
+    
+        h2 {
+            font-family: 'Bangers', sans-serif;
+            text-transform: uppercase;
+            color: @blue2;
+            span {
+                color: @yellow1;
+            }
+    
+            font-size: 36px;
+            @media screen and (min-width: 768px) {
+                font-size: 42px;
+            }
+        }
+
+        p {
+            font-family: 'Prompt', sans-serif;
+            font-weight: 300;
+        }
+    }
+    
+    .portrait {
+        padding-right: 30px;
+        padding-bottom: 30px;
+    
+        background-image: linear-gradient(@yellow1, @pink2, @blue2);
+        background-repeat: no-repeat;
+        background-position: left 30px top 30px;
+    }
+
+    .social {
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+
+        a {
+            display: block;
+            width: 30px;
+            height: 30px;
+
+            path {
+                fill: @yellow1;
+            }
+            &:hover {
+                path {
+                    fill: @pink2;
+                }
+            }
+            &[title="github"] {
+                width: 35px;
+                height: 35px;
+            }
+        }
+    }
+}
+
+.tech-stack {
+    h3 {
+        color: @blue1;
+        font: 400 36px 'Bangers', sans-serif;
+    }
+
+    .skills__carousel {
+        path {
+            fill: @yellow1;
+        }
+    }
+}
+
+footer {
+    background-color: @blue1;
+    color: whitesmoke;
+}

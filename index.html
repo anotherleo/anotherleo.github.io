@@ -55,8 +55,11 @@
     <meta name="color-scheme" content="only light">
 
     <!-- stylesheets -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="libs/owl.carousel.min.css">
+    <link rel="stylesheet" href="libs/owl.theme.default.min.css">
+    <link rel="stylesheet" href="main.css">
 
     <!-- SEO IV | Schema & Google -->
     <script type="application/ld+json">
@@ -76,114 +79,91 @@
 </head>
 
 <body>
-    <div class="container">
+    <header class="page__header">
+        <div class="colored-line"></div>
+    </header>
 
-        <header class="page__header">
-            <h1>Leo Thomas Monteiro</h1>
-            <h2>Front-End Web Developer</h2>
+    <main class="container">
+        <section class="row align-items-center justify-content-center p-5 introduction">
+            <div class="col-md-4 intro__text">
+                <h2 class="animate__animated animate__tada">
+                    Oi, 
+                    <br>eu sou <span>Leo Thomas</span> --
+                    <br>desenvolvedor web!
+                </h2>
+                <p>Trabalho com CSS, JavaScript, React e amo o que eu faço.</p>
+                <p>Sou Front-End na equipe de tecnologia da Agência Digital Londrina S/A. Em meu tempo livre escuto Imagine Dragons, leio HQs e trabalho em projetos paralelos.</p>
+                <button>Entrar em Contato</button>
+            </div>
+            <div class="col-md-3">
+                <img src="portrait.jpg" alt="retrato de Leo Thomas" class="img-fluid portrait">
+                <div class="social">
+                    <a href="#" title="linkedin">
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path fill="yellow" d="M27.26 27.271h-4.733v-7.427c0-1.771-.037-4.047-2.475-4.047c-2.468 0-2.844 1.921-2.844 3.916v7.557h-4.739V11.999h4.552v2.083h.061c.636-1.203 2.183-2.468 4.491-2.468c4.801 0 5.692 3.161 5.692 7.271v8.385zM7.115 9.912a2.75 2.75 0 0 1-2.751-2.756a2.753 2.753 0 1 1 2.751 2.756zm2.374 17.359H4.74V12h4.749zM29.636 0H2.36C1.057 0 0 1.031 0 2.307v27.387c0 1.276 1.057 2.307 2.36 2.307h27.271c1.301 0 2.369-1.031 2.369-2.307V2.307C32 1.031 30.932 0 29.631 0z"/></svg>
+                    </a>
+                    <a href="#" title="instagram">
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32"><path d="M16 0c-4.349 0-4.891.021-6.593.093c-1.709.084-2.865.349-3.885.745a7.847 7.847 0 0 0-2.833 1.849A7.757 7.757 0 0 0 .84 5.52C.444 6.54.179 7.696.095 9.405c-.077 1.703-.093 2.244-.093 6.593s.021 4.891.093 6.593c.084 1.704.349 2.865.745 3.885a7.847 7.847 0 0 0 1.849 2.833a7.757 7.757 0 0 0 2.833 1.849c1.02.391 2.181.661 3.885.745c1.703.077 2.244.093 6.593.093s4.891-.021 6.593-.093c1.704-.084 2.865-.355 3.885-.745a7.847 7.847 0 0 0 2.833-1.849a7.716 7.716 0 0 0 1.849-2.833c.391-1.02.661-2.181.745-3.885c.077-1.703.093-2.244.093-6.593s-.021-4.891-.093-6.593c-.084-1.704-.355-2.871-.745-3.885a7.847 7.847 0 0 0-1.849-2.833A7.716 7.716 0 0 0 26.478.838c-1.02-.396-2.181-.661-3.885-.745C20.89.016 20.349 0 16 0zm0 2.88c4.271 0 4.781.021 6.469.093c1.557.073 2.405.333 2.968.553a4.989 4.989 0 0 1 1.844 1.197a4.931 4.931 0 0 1 1.192 1.839c.22.563.48 1.411.553 2.968c.072 1.688.093 2.199.093 6.469s-.021 4.781-.099 6.469c-.084 1.557-.344 2.405-.563 2.968c-.303.751-.641 1.276-1.199 1.844a5.048 5.048 0 0 1-1.844 1.192c-.556.22-1.416.48-2.979.553c-1.697.072-2.197.093-6.479.093s-4.781-.021-6.48-.099c-1.557-.084-2.416-.344-2.979-.563c-.76-.303-1.281-.641-1.839-1.199c-.563-.563-.921-1.099-1.197-1.844c-.224-.556-.48-1.416-.563-2.979c-.057-1.677-.084-2.197-.084-6.459c0-4.26.027-4.781.084-6.479c.083-1.563.339-2.421.563-2.979c.276-.761.635-1.281 1.197-1.844c.557-.557 1.079-.917 1.839-1.199c.563-.219 1.401-.479 2.964-.557c1.697-.061 2.197-.083 6.473-.083zm0 4.907A8.21 8.21 0 0 0 7.787 16A8.21 8.21 0 0 0 16 24.213A8.21 8.21 0 0 0 24.213 16A8.21 8.21 0 0 0 16 7.787zm0 13.546c-2.948 0-5.333-2.385-5.333-5.333s2.385-5.333 5.333-5.333c2.948 0 5.333 2.385 5.333 5.333S18.948 21.333 16 21.333zM26.464 7.459a1.923 1.923 0 0 1-1.923 1.921a1.919 1.919 0 1 1 0-3.838c1.057 0 1.923.86 1.923 1.917z"/></svg>
+                    </a>
+                    <a href="#" title="github">
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid meet" viewBox="-2 -2 24 24"><path d="M18.88 1.099C18.147.366 17.265 0 16.233 0H3.746C2.714 0 1.832.366 1.099 1.099C.366 1.832 0 2.714 0 3.746v12.487c0 1.032.366 1.914 1.099 2.647c.733.733 1.615 1.099 2.647 1.099H6.66c.19 0 .333-.007.429-.02a.504.504 0 0 0 .286-.169c.095-.1.143-.245.143-.435l-.007-.885c-.004-.564-.006-1.01-.006-1.34l-.3.052c-.19.035-.43.05-.721.046a5.555 5.555 0 0 1-.904-.091a2.026 2.026 0 0 1-.872-.39a1.651 1.651 0 0 1-.572-.8l-.13-.3a3.25 3.25 0 0 0-.41-.663c-.186-.243-.375-.407-.566-.494l-.09-.065a.956.956 0 0 1-.17-.156a.723.723 0 0 1-.117-.182c-.026-.061-.004-.111.065-.15c.07-.04.195-.059.378-.059l.26.04c.173.034.388.138.643.311a2.1 2.1 0 0 1 .631.677c.2.355.44.626.722.813c.282.186.566.28.852.28c.286 0 .533-.022.742-.065a2.59 2.59 0 0 0 .585-.196c.078-.58.29-1.028.637-1.34a8.907 8.907 0 0 1-1.333-.234a5.314 5.314 0 0 1-1.223-.507a3.5 3.5 0 0 1-1.047-.872c-.277-.347-.505-.802-.683-1.365c-.177-.564-.266-1.215-.266-1.952c0-1.049.342-1.942 1.027-2.68c-.32-.788-.29-1.673.091-2.652c.252-.079.625-.02 1.119.175c.494.195.856.362 1.086.5c.23.14.414.257.553.352a9.233 9.233 0 0 1 2.497-.338c.859 0 1.691.113 2.498.338l.494-.312a6.997 6.997 0 0 1 1.197-.572c.46-.174.81-.221 1.054-.143c.39.98.424 1.864.103 2.653c.685.737 1.028 1.63 1.028 2.68c0 .737-.089 1.39-.267 1.957c-.177.568-.407 1.023-.689 1.366a3.65 3.65 0 0 1-1.053.865c-.42.234-.828.403-1.223.507a8.9 8.9 0 0 1-1.333.235c.45.39.676 1.005.676 1.846v3.11c0 .147.021.266.065.357a.36.36 0 0 0 .208.189c.096.034.18.056.254.064c.074.01.18.013.318.013h2.914c1.032 0 1.914-.366 2.647-1.099c.732-.732 1.099-1.615 1.099-2.647V3.746c0-1.032-.367-1.914-1.1-2.647z"/></svg>
 
-            <menu>
-                <div class="navbar__hamburguer" role="button">
-                    <i class="fa-solid fa-bars"></i>
+                    </a>
                 </div>
-
-                <div class="navbar__overlay">
-                    <div class="overlay__content">
-                        <div class="overlay__close" role="button">
-                            <i class="fa-solid fa-xmark"></i>
-                        </div>
-
-                        <div class="overlay__logo"></div>
-
-                        <div class="overlay__about">
-                            <img src="assets/img/portrait.jpeg" alt="Leo Thomas Monteiro">
-                            <p>Sou um desenvolvedor web especializado em front-end.</p>
-                        </div>
-                        <nav class="overlay__links" aria-label="navegação de páginas">
-                            <a href="pages/sobre.html">Sobre</a>
-                            <a href="pages/projetos.html">Projetos</a>
-                        </nav>
-                        <nav class="overlay__buttons" aria-label="botões de ação">
-
-                        </nav>
-                        <nav class="overlay__social" aria-label="links sociais">
-
-                        </nav>
+            </div>
+        </section>
+        <aside class="row tech-stack">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-8">
+                        <h3>Skills</h3>
                     </div>
                 </div>
-            </menu>
-        </header>
+                <div class="row justify-content-center">
+                    <div class="col-md-8">
+                        <div class="owl-carousel owl-theme skills__carousel">
+                            <div class="item">
+                                <svg viewBox="0 0 128 128">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M122.301 58.635c-.6-1.299-.89-2.836-.952-4.283-.154-3.561-.023-7.135-.184-10.696-.144-3.189-1.282-6.063-4.344-7.707-2.696-1.447-5.821-1.591-8.821-1.625v5.691c1 .034.754.065.998.078 4.029.198 5.379 1.476 5.43 5.473.038 2.972.012 5.946.06 8.917.059 3.605.597 7.046 3.894 9.322.056.039.051.182.083.348-1.678 1.192-3.006 2.727-3.392 4.822a34.53 34.53 0 00-.54 5.153c-.096 3.118.003 6.243-.086 9.361-.07 2.442-1.227 3.588-3.604 4.132-.895.206-1.843.279-2.843.406v5.677c2-.12 3.017-.199 4.387-.347 5.156-.558 8.059-3.241 8.654-8.243.186-1.568.165-3.166.2-4.75.066-2.969.032-5.952.298-8.903.271-3.011 2.461-4.675 5.461-4.509v-5.951c-2 .358-3.843-.507-4.699-2.366zM28.314 70.768C28.313 59.219 28 47.67 28 36.122v-1.817c-3 0-6.226-.029-9.391.014-1.285.017-2.418.127-3.692.301-4.877.664-7.228 2.953-8.092 7.812-.25 1.402-.2 2.859-.221 4.293-.039 2.726.039 5.453-.005 8.178-.055 3.432-1.672 6.092-5.172 6.294-.124.007.573.15-.427.236v5.305c4 .628 5.273 2.243 5.539 5.959.042.592.053 1.189.059 1.784.034 3.32-.004 6.645.146 9.959.141 3.093.828 5.857 3.751 7.48C13.225 93.436 17 93.559 19 93.638v-5.664c0-.048-.21-.092-.405-.104-4.339-.265-5.317-1.443-5.343-5.785-.017-2.875.106-5.75.06-8.625-.058-3.612-.586-7.038-3.856-9.324-.05-.035-.001-.183-.017-.383 2.199-1.39 3.368-3.516 3.686-6.094.176-1.422.235-2.864.26-4.299.05-2.973-.003-5.949.078-8.92.057-2.088 1.39-3.61 3.091-3.952 1.612-.325 2.446-.315 5.446-.466v2.056c0 10.31-.367 20.619-.313 30.929.019 3.531.41 7.012 4.195 8.537 2.058.829 4.263 1.084 6.627 1.642.395-2.312.524-4.23.847-6.128-4.357-1.25-5.042-1.898-5.042-6.29zm26.674-19.893c-7.34-3.51-16.248-.441-19.666 6.921-2.574 5.544-2.482 11.25-.216 16.872 1.229 3.048 3.45 5.33 6.473 6.672 5.904 2.621 11.879 1.984 17.832.144.321-.1.731-.718.692-1.046-.203-1.661-.54-3.306-.841-5.021-1.417.357-2.601.722-3.811.949-3.197.601-6.401.6-9.512-.637-3.072-1.22-5.135-4.73-4.622-7.73h20.872c.255-3 .154-7.125-1.123-10.536-1.14-3.049-3.108-5.167-6.078-6.588zM54.944 63H41.228c.007-4 3.264-7.59 7.537-7.508 3.753.072 6.349 3.508 6.179 7.508zm56.108 12.279c.492-5.054-1.034-7.898-5.534-10.094-1.596-.779-3.29-1.356-4.916-2.078-1.217-.54-2.442-1.087-3.58-1.771-1.108-.665-1.572-1.769-1.408-3.062.161-1.277.982-2.119 2.168-2.359 1.437-.292 2.943-.542 4.388-.424 2.042.167 4.056.69 6.163 1.075l1.332-5.818c-2.851-.434-5.509-.995-8.195-1.207-2.987-.235-5.896.261-8.63 1.67-5.777 2.977-5.883 12.116-.574 15.116 1.586.896 3.283 1.596 4.933 2.38 1.737.827 3.537 1.546 5.199 2.504 1.262.727 1.713 1.996 1.375 3.475-.313 1.375-1.354 1.988-2.577 2.105-1.86.177-3.768.347-5.609.128-2.217-.264-4.387-.937-6.658-1.451l-1.158 5.79c5.333 2.002 10.61 2.33 15.938 1.149 4.459-.988 6.999-3.596 7.343-7.128zm-28.415-9.452c-1.959-1.039-4.066-1.797-6.088-2.723-1.255-.575-2.584-1.074-3.69-1.871-2.127-1.533-1.731-4.472.746-5.258 1.421-.452 3.028-.592 4.521-.48 2.034.153 4.041.679 6.162 1.063l1.258-5.546c-1.077-.293-2.052-.612-3.051-.822-3.971-.836-7.963-1.16-11.874.215-3.36 1.182-5.691 3.392-6.152 7.11-.516 4.152.861 7.43 4.696 9.402 1.535.79 3.18 1.363 4.747 2.095 1.564.73 3.161 1.427 4.614 2.343 1.111.7 1.549 1.885 1.236 3.255-.311 1.358-1.301 2.042-2.533 2.169-1.86.191-3.769.368-5.611.153-2.226-.26-4.403-.935-6.714-1.455-.341 1.613-.741 3.238-.99 4.885-.054.358.345 1.046.681 1.163 5.384 1.866 10.864 2.134 16.34.521 3.27-.962 5.557-3.051 6.018-6.623.523-4.055-.444-7.544-4.316-9.596z"></path>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </main>
 
-        <section class="page__projects">
-            <header>
-                <h2>Meus projetos<br>mais acessados</h2>
-            </header>
-            <nav>
-                <a href="https://anotherleo.github.io/work-front-snippets">
-                    <span class="category">Trabalho</span>
-                    <span class="title">Snippets de Front-End</span>
-                </a>
-                <a href="https://anotherleo.github.io/showcase-frontend-mentor">
-                    <span class="category">Showcase</span>
-                    <span class="title">Desafios Escalados Frontend Mentor</span>
-                </a>
-                <a href="#">
-                    <span class="category">Exercícios</span>
-                    <span class="title">Traversy's 50 Days of JS</span>
-                </a>
-            </nav>
-        </section>
+    <footer>
+        <div class="container">
+            Leo Thomas Monteiro &copy; 2022.
+        </div>
+    </footer>
 
-        <section class="page__projects">
-            <header>
-                <h2>Tecnologias
-                    <br>Que tenho domínio</h2>
-            </header>
+    <!-- Bootstrap 5.2 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 
-            <nav>
-                <a href="pages/projetos.html#landing_pages">
-                    <span class="category">Fundamentais</span>
-                    <span class="title">HTML5, CSS3, JavaScript, SEO</span>
-                </a>
-                <a href="pages/projetos.html#css">
-                    <span class="category">CSS Expandido</span>
-                    <span class="title">Bootstrap, Less, Sass</span>
-                </a>
-                <a href="pages/projetos.html#vue">
-                    <span class="category">Frameworks JavaScript</span>
-                    <span class="title">Vue.js</span>
-                </a>
-                <a href="pages/projetos.html#js_libraries">
-                    <span class="category">Bibliotecas JavaScript</span>
-                    <span class="title">D3.js, Chart.js</span>
-                </a>
-            </nav>
-        </section>
-
-        <footer class="page__footer">
-            <p>&copy; Leo Thomas Monteiro, 2020-2022. Todos os direitos reservados. Esse site não usa cookies e não coleta suas informações pessoais.</p>
-            <img src="assets/img/footer-logo.webp" alt="logo">
-        </footer>
-
-    </div>
-
-    <!-- Bootstrap 4.6.1 -->
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
-
-    <noscript class="page__noscript">
-        <p>
-            Opa, algo deu errado!
-            <br>Parece que você não consegue executar scripts,
-            <br>que são essenciais para algumas funções do site
-            <br>(como abrir o menu, por exemplo).
-        </p>
-            
-        <p>Se deseja entrar em contato comigo
-            <br>use meu perfil do LinkedIn,
-            <br>ou veja mais projetos no GitHub:
-            <a href="#">LinkedIn</a> | <a href="#">GitHub</a>
-        </p>
-    </noscript>
-</body> 
-</html>
+    <!-- owl carousel controls -->
+    <script src="libs/owl.carousel.min.js"></script>
+    <script>
+        $('.skills__carousel').owlCarousel({
+            animateIn: 'animate__slideInRight',
+            loop: true,
+            nav: false,
+            dots: true,
+            autoplay: true,
+            autoplayTimeout: 4000,
+            autoplayHoverPause: true,
+            smartSpeed: 350,
+            responsive:{
+                0: {
+                    items: 1,
+                    margin: 15,
+                },
+                1200: {
+                    items: 6,
+                    margin: 15,
+                }
+            }
+        });
+    </script>
+</body>
