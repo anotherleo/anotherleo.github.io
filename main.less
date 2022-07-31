@@ -2,13 +2,14 @@
 
 
 @yellow1: #FFF300;
+@orange: #FC9831;
 @pink1: #EF69A4;
 @pink2: #F81F72;
 @blue1: #0060AC;
 @blue2: #2189CE;
 
 body {
-    background-color: rgb(27, 27, 27);
+    background-color: rgb(31, 31, 31);
     margin: 0;
 }
 
@@ -43,6 +44,29 @@ body {
             font-family: 'Prompt', sans-serif;
             font-weight: 300;
         }
+
+        .intro__contact {
+            display: block;
+            width: fit-content;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            border: 3px solid @yellow1;
+            color: @yellow1;
+            padding: 15px 45px;
+            font: 400 26px 'Bangers', sans-serif;
+            letter-spacing: 1.2px;
+            text-decoration: none;
+            transition: all linear .4s;
+            text-align: center;
+
+            &:hover {
+                border: 3px solid transparent;
+                background-image: linear-gradient(@yellow1, @pink2);
+                background-repeat: no-repeat;
+                color: black;
+                transform: translateY(-6px);
+            }
+        }
     }
     
     .portrait {
@@ -67,13 +91,15 @@ body {
             display: block;
             width: 30px;
             height: 30px;
+            transition: all linear .4s;
 
             path {
-                fill: @yellow1;
+                fill: @blue2;
             }
             &:hover {
+                transform: translateY(-4px);
                 path {
-                    fill: @pink2;
+                    fill: @yellow1;
                 }
             }
             &[title="github"] {
@@ -86,18 +112,128 @@ body {
 
 .tech-stack {
     h3 {
-        color: @blue1;
+        color: @blue2;
         font: 400 36px 'Bangers', sans-serif;
     }
 
     .skills__carousel {
-        path {
-            fill: @yellow1;
+        
+    }
+}
+
+.experience {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    h3 {
+        color: @blue2;
+        font: 400 36px 'Bangers', sans-serif;
+    }
+
+    .numberbox {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        margin-bottom: 20px;
+        .number {
+            font: 400 42px 'Bangers', sans-serif;
+        }
+        p {
+            margin: 0;
+            font: 400 20px/18px 'Bangers', sans-serif;
+        }
+
+        &.pink {
+            color: @pink1;
+        }
+
+        &.yellow {
+            color: @yellow1;
         }
     }
 }
 
+.portfolio {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    h3 {
+        color: @blue2;
+        font: 400 36px 'Bangers', sans-serif;
+    }
+
+    .row {
+        .cover {
+            img {
+                transition: all linear 0.4s;
+                padding-right: 7px;
+                padding-bottom: 7px;
+                background-color: transparent;
+                background-image: linear-gradient(@blue2, @blue1);
+                background-position: left 7px top 7px;
+                background-repeat: no-repeat;
+                &:hover {
+                    padding-right: 20px;
+                    padding-bottom: 20px;
+                    background-position: left 20px top 20px;
+                }
+            }
+        }
+        .description {
+            h4 {
+                padding-top: 15px;
+                color: @blue2;
+                font: 400 30px 'Bangers', sans-serif;
+            }
+            p {
+                color: whitesmoke;
+                font: 300 15px 'Prompt', sans-serif;
+            }
+
+            .live {
+                margin-top: 30px;
+                display: block;
+                width: fit-content;
+                margin-left: auto;
+                padding: 10px 20px;
+                border: 2px solid @yellow1;
+                color: @yellow1;
+                font: 500 16px 'Prompt', sans-serif;
+                text-transform: uppercase;
+                text-decoration: none;
+                transition: all linear .4s;
+                &:hover {
+                    transform: translateY(-4px);
+                    background-image: linear-gradient(@yellow1, @orange);
+                    color: black;
+                    border: 2px solid transparent;
+                }
+            }
+        }
+    }
+
+    
+}
+
+.about {
+    h3 {
+        color: @blue2;
+        font: 400 36px 'Bangers', sans-serif;
+    }
+
+    p {
+        color: whitesmoke;
+    }
+}
+
 footer {
-    background-color: @blue1;
-    color: whitesmoke;
+    .colored-line {
+        background-image: linear-gradient(to left, @yellow1, @pink2, @blue1);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 10px;
+    }
+    p {
+        font: 400 16px 'Prompt', sans-serif;
+        text-align: center;
+        color: whitesmoke;
+    }
 }
