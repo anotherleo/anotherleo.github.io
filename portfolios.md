@@ -4,6 +4,7 @@ https://anotherleo.github.io/leo-projects/studies/frontend-mentor/
 
 ## TO-DO
 https://github.com/anotherleo/leo-projects/tree/main/studies/traversy/traversy-50days-js-course
+* https://anotherleo.github.io/leo-projects/studies/traversy/traversy-50days-js-course/
 
 
 ## DESCREVER E INCLUIR
