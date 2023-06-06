@@ -1,0 +1,107 @@
+// out: false
+
+.page__projects {
+    //padding-bottom: 60px;
+    background-color: rgb(18, 18, 18);
+    display: grid;
+    place-items: center;
+
+    .projects__heading {
+        padding-top: 36px;
+        padding-bottom: 36px;
+
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+
+        h2 {    
+            color: whitesmoke;
+            font: 700 46px @font;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        p {
+            color: whitesmoke;
+            font: 400 18px @font;
+            padding-left: 30px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border-left: 2px solid #F35151;
+        }
+
+        @media screen and (min-width: 768px) {
+            flex-direction: row;
+        }
+    }
+
+    .projects__grid {
+        display: grid;
+        width: 100%;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        gap: 20px;
+
+        .project__card {
+            figure {
+                display: block;
+                position: relative;
+                overflow: hidden;
+                height: 220px;
+                .cover {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                    object-position: center;
+                    transition: all linear .15s;
+                    filter: saturate(0);
+                }
+                .overlay {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    width: 100%;
+                    height: 100%;
+                    background-color: rgba(243, 81, 81, .4);
+                    transition: all linear .15s;
+                }
+            }
+
+            h3 {
+                display: none;
+                text-align: center;
+                color: whitesmoke;
+                font: 700 26px @font;
+                text-align: center;
+                padding: 0 16px;
+                text-transform: uppercase;
+            }
+
+            &:hover {
+                figure {
+                    .cover {
+                        transform: scale(1.1);
+                        filter: none;
+                    }
+                    .overlay {
+                        opacity: 0;
+                    }
+                }
+            }
+        }
+
+        @media screen and (min-width: 768px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        @media screen and (min-width: 1200px) {
+            grid-template-columns: repeat(4, 1fr);
+            gap: 0;
+
+            .project__card {
+                figure {
+                    height: 490px;
+                }
+            }
+        }
+    }
+}
