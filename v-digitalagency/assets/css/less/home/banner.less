@@ -1,0 +1,130 @@
+// out: false
+ 
+.page__banner {    
+    position: relative;
+    z-index: 1;
+
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    .overlay {
+        z-index: 2;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.95));
+    }
+    
+    .banner__contents {
+        position: relative;
+        z-index: 3;
+        padding-top: 100px;
+        padding-bottom: 100px;
+
+        .profile {
+            display: block;
+            max-width: 160px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 36px;
+        }
+
+        h1 {
+            display: none;            
+        }
+        h2 {
+            color: whitesmoke;
+            font: 600 32px @font;
+            text-align: center;
+            span {
+                color: #F35151;
+            }
+        }
+        p {
+            color: whitesmoke;
+            font: 600 24px/34px @font;
+            padding: 0 30px;
+            text-align: center;
+            span {
+                color: #F35151;
+            }
+            br {
+                display: none;
+            }
+        }
+
+        .buttons {
+            margin-top: 100px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+
+            a {
+                display: block;
+                padding: 20px 40px;
+                width: fit-content;
+                color: whitesmoke;
+                background-color: transparent;
+                text-transform: uppercase;
+                font: 500 16px @font;
+                border: 2px solid whitesmoke;
+                transition: all linear .15s;
+
+                &:hover {
+                    background-color: #F35151;
+                    border-color: #F35151;
+                }
+            }
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        background-image: url('../img/background.jpg');
+        background-repeat: no-repeat;
+        background-position: left 0 top -200px;
+        background-attachment: fixed;
+        background-size: cover;
+        
+        .banner__contents {
+            .profile {
+                max-width: 200px;
+                margin-bottom: 60px;
+                margin-left: 0;
+                margin-right: 0;
+            }
+
+            h1 {
+                display: block;
+                color: whitesmoke;
+                font: 400 18px @font;
+                text-transform: uppercase;
+                text-align: left;
+            }
+
+            h2,
+            p {
+                text-align: left;
+            }
+
+            h2 {
+                font: 600 63px/80px @font;
+            }
+
+            p {
+                padding: 0;
+                font: 600 55px/70px @font;
+                br {
+                    display: block;
+                }
+            }
+
+            .buttons {
+                flex-direction: row;
+            }
+        }
+    }
+}

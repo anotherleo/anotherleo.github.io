@@ -1,0 +1,58 @@
+// out: false
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+body, 
+p, h1, h2, h3, h4, h5, h6, 
+figure, iframe {
+    margin: 0;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+address {
+    font-style: normal;
+    margin-bottom: 0;
+}
+
+iframe {
+    border: none;
+}
+
+mark {
+    padding: 0;
+    background-color: transparent;
+}
+
+menu {
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+// ! FALLBACK older browsers
+section, article, aside, details, 
+figcaption, figure, 
+header, footer, menu, nav {
+	display: block;
+}

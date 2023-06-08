@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Leo Thomas | Web Developer</title>
+
+    <link rel="stylesheet" href="assets/libs/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/libs/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body>
+    <header class="page__header">
+        <nav class="languages">
+            <ul>
+                <li>PT</li>
+                <li>EN</li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page__banner">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="banner__contents">
+                <img src="assets/img/profile.png" alt="" class="profile">
+                <h1>Bem-vind@!</h1>
+                <h2>
+                    Eu sou <span>Leo Thomas,</span>
+                </h2>
+                <p>
+                    Front-end especialista
+                    <br> em sites <span>super responsivos.</span>
+                </p>
+                <div class="buttons">
+                    <a href="#">Contato</a>
+                    <a href="#">Ver Portfolio</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="page__about">
+        <div class="container">
+            <header class="about__heading">
+                <h2>SOBRE</h2>
+            </header>
+
+            <div class="owl-carousel owl-theme about__carousel">
+                <div class="item">
+                    <div class="about__text">
+                        <p>Eu sou <span>Leo Thomas Monteiro</span>, um desenvolvedor front-end que vive no sul do Brasil.
+                        </p>
+                        <p>Com foco em entregar resultados de <span>alta qualidade</span>, eu colaborei em muitos projetos web
+                            para clientes diversos. Minha experiência gira em torno de <span>50
+                                projetos</span> profissionais até o momento.</p>
+                        <p>Meus esforços se concentram em fazer o melhor em todos os serviços, vendo os <span>desafios como caminhos</span> para ultrapassar limites e melhorar habilidades.</p>
+                        <p>Eu trabalho remoto e full-time para a <span>LDNA S/A</span>, a melhor agência digital de Londrina, e uso meu tempo livre em projetos freelance e estudando novas tecnologias. Tudo que conquisto é com paixão,
+                        muito <span>café forte</span> e suporte da minha esposa incrível.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="page__projects">
+        <header class="projects__heading">
+            <h2>PORTFOLIO</h2>
+            <p>
+                Projetos desenvolvidos
+                <br>com atenção e precisão.
+            </p>
+        </header>
+
+        <div class="projects__grid">
+            <a class="project__card">
+                <figure>
+                    <img src="assets/img/project-wanderlust.jpg" alt="project" class="cover">
+                    <div class="overlay"></div>
+                </figure>
+                <h3>Wanderlust Dream</h3>
+            </a>
+            <a class="project__card">
+                <figure>
+                    <img src="assets/img/project-photography.jpg" alt="project" class="cover">
+                    <div class="overlay"></div>
+                </figure>
+                <h3>Photography Showcase</h3>
+            </a>
+            <a class="project__card">
+                <figure>
+                    <img src="assets/img/project-realestate.jpg" alt="project" class="cover">
+                    <div class="overlay"></div>
+                </figure>
+                <h3>Real Estate Solutions</h3>
+            </a>
+            <a class="project__card">
+                <figure>
+                    <img src="assets/img/project-music.jpg" alt="project" class="cover">
+                    <div class="overlay"></div>
+                </figure>
+                <h3>Music Fest</h3>
+            </a>
+        </div>
+    </section>
+
+    <section class="page__blog">
+        <div class="container">
+            <header class="blog__heading">
+                <h2>BLOG</h2>
+                <p>Pensamentos e ideias sobre
+                    <br>CSS e desenvolvimento web.
+                </p>
+            </header>
+            <div class="owl-carousel owl-theme blog__carousel">
+                <div class="item">
+                    <a href="#">
+                        Techniques of Responsive Web Design with CSS
+                    </a>
+                    <span class="date">May 16, 2023</span>
+                </div>
+                <div class="item">
+                    <a href="#">
+                        CSS Grid Layout: Page Layouts with Flexibility and Precision
+                    </a>
+                    <span class="date">May 16, 2023</span>
+                </div>
+                <div class="item">
+                    <a href="#">
+                        Maintainable CSS Architecture with Sass or Less
+                    </a>
+                    <span class="date">May 16, 2023</span>
+                </div>
+                <div class="item">
+                    <a href="#">
+                        CSS BEM Methodology with Sass or Less
+                    </a>
+                    <span class="date">May 16, 2023</span>
+                </div>
+                <div class="item">
+                    <a href="#">
+                        HTML, CSS and Accessibility: Ensuring Inclusive Design and User Experience
+                    </a>
+                    <span class="date">May 16, 2023</span>
+                </div>
+            </div>
+            <footer class="blog__footer">
+                <a href="#">More Posts</a>
+            </footer>
+        </div>
+    </section>
+
+    
+
+
+    <section class="page__footer">
+        2023. Leo Thomas Monteiro.
+    </section>
+
+    <script src="assets/libs/jquery-3.7.0.min.js"></script>
+    <script src="assets/libs/owl.carousel.min.js"></script>
+    <script src="assets/libs/counterup2.js"></script>
+    <script>
+        $('.about__carousel').owlCarousel({
+            loop: true,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 30
+                }
+            }
+        });
+        $('.blog__carousel').owlCarousel({
+            loop: true,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 30
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>
