@@ -1,0 +1,40 @@
+// out: false
+
+.float__whatsapp {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    box-shadow: 0 0 26px rgba(255, 0, 0, 0.2);
+    background-color: #121212;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    z-index: 2999;
+    transition: all linear .15s;
+    animation: effect--pulse_shadow 3s linear infinite;
+
+    &:hover {
+        background-color: white;
+        box-shadow: 0 0 26px rgba(0, 0, 0, 0.2);
+        img {
+            filter: brightness(0) saturate(100%) invert(54%) sepia(56%) saturate(4964%) hue-rotate(332deg) brightness(101%) contrast(91%);
+        }
+    }
+}
+
+@keyframes effect--pulse_shadow {
+    0% {
+        box-shadow: 0 0 6px rgba(255, 0, 0, 0.2);
+    }
+    
+    50% {
+        box-shadow: 0 0 16px rgba(243, 81, 81, .8);
+    }
+    100% {
+        box-shadow: 0 0 6px rgba(255, 0, 0, 0.2);
+    }
+}

@@ -1,0 +1,33 @@
+// out: false
+
+.page__projects--3 {
+    .control {
+        background-color: whitesmoke;
+        padding: 30px 0;
+        overflow: hidden;
+        h2 {
+            color: #121212;
+            font: 700 46px @font;
+            text-align: left;
+            text-transform: uppercase;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: all linear .2s;
+
+            svg {
+                display: block;
+                width: 46px;
+                overflow: initial;
+            }
+        }
+        &:hover {
+            cursor: pointer;
+            background-color: #F35151;
+            h2 {
+                letter-spacing: 2px;
+                color: #121212;
+            }
+        }
+    }
+}

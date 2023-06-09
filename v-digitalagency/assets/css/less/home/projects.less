@@ -14,7 +14,7 @@
         flex-direction: column;
         gap: 30px;
 
-        h2 {    
+        h2 {
             color: whitesmoke;
             font: 700 46px @font;
             text-align: center;
@@ -43,65 +43,96 @@
         gap: 20px;
 
         .project__card {
+            cursor: pointer;
             figure {
                 display: block;
                 position: relative;
                 overflow: hidden;
                 height: 220px;
+
                 .cover {
                     width: 100%;
                     height: 100%;
                     object-fit: cover;
                     object-position: center;
-                    transition: all linear .15s;
+                    transition: all linear .4s;
                     filter: saturate(0);
                 }
+
                 .overlay {
+                    z-index: 1;
                     position: absolute;
                     left: 0;
                     top: 0;
                     width: 100%;
                     height: 100%;
-                    background-color: rgba(243, 81, 81, .4);
-                    transition: all linear .15s;
+                    background-color: rgba(243, 81, 81, .6);
+                    transition: all linear .5s;
                 }
-            }
 
-            h3 {
-                display: none;
-                text-align: center;
-                color: whitesmoke;
-                font: 700 26px @font;
-                text-align: center;
-                padding: 0 16px;
-                text-transform: uppercase;
+                .project__title {
+                    z-index: 2;
+                    position: absolute;
+                    bottom: -100%;
+                    left: 0;
+                    opacity: 0;
+                    display: block;
+                    text-align: center;
+                    width: 100%;
+                    transition: all ease-in-out .5s;
+                    .name {
+                        width: 100%;
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        padding: 30px 30px 6px 30px;
+                        background-color: #121212;
+                        color: whitesmoke;
+                        font: 700 26px @font;
+                        text-transform: uppercase;
+                    }
+                    .tech {
+                        padding-bottom: 10px;
+                        color: #c5c5c5;
+                        font: 400 16px @font;
+                        background-color: #121212;
+                        width: 100%;
+                        display: block;
+                    }
+                }
             }
 
             &:hover {
                 figure {
                     .cover {
-                        transform: scale(1.1);
+                        transform: scale(1.2);
                         filter: none;
                     }
+
                     .overlay {
                         opacity: 0;
+                    }
+
+                    .project__title {
+                        opacity: 1;
+                        bottom: 0;
                     }
                 }
             }
         }
-
         @media screen and (min-width: 768px) {
             grid-template-columns: repeat(2, 1fr);
         }
+    
         @media screen and (min-width: 1200px) {
-            grid-template-columns: repeat(4, 1fr);
+            grid-template-columns: 2fr 1fr 1fr 1fr;
             gap: 0;
-
+    
             .project__card {
                 figure {
                     height: 490px;
                 }
             }
         }
-    }
+    }    
 }
