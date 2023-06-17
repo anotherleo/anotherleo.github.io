@@ -157,6 +157,12 @@ nav {
   margin-left: auto;
   margin-right: auto;
 }
+.container-medium {
+  width: 100%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .page__banner {
   position: relative;
   z-index: 1;
@@ -588,11 +594,105 @@ nav {
 }
 @media screen and (min-width: 1200px) {
   .page__projects .projects__grid {
-    grid-template-columns: 2fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
     gap: 0;
   }
   .page__projects .projects__grid .project__card figure {
-    height: 490px;
+    height: 400px;
+  }
+}
+.page__projects .projects__grid--highlighted {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  gap: 20px;
+}
+.page__projects .projects__grid--highlighted .project__card {
+  cursor: pointer;
+}
+.page__projects .projects__grid--highlighted .project__card figure {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  height: 220px;
+}
+.page__projects .projects__grid--highlighted .project__card figure .cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition: all linear 0.4s;
+  filter: saturate(0);
+}
+.page__projects .projects__grid--highlighted .project__card figure .overlay {
+  z-index: 1;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(243, 81, 81, 0.6);
+  transition: all linear 0.5s;
+}
+.page__projects .projects__grid--highlighted .project__card figure .project__title {
+  z-index: 2;
+  position: absolute;
+  bottom: -100%;
+  left: 0;
+  opacity: 0;
+  display: block;
+  text-align: center;
+  width: 100%;
+  transition: all ease-in-out 0.5s;
+}
+.page__projects .projects__grid--highlighted .project__card figure .project__title .name {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 30px 6px 30px;
+  background-color: #121212;
+  color: whitesmoke;
+  font: 700 26px 'Saira', sans-serif;
+  text-transform: uppercase;
+}
+.page__projects .projects__grid--highlighted .project__card figure .project__title .tech {
+  padding-bottom: 10px;
+  color: #c5c5c5;
+  font: 400 16px 'Saira', sans-serif;
+  background-color: #121212;
+  width: 100%;
+  display: block;
+}
+.page__projects .projects__grid--highlighted .project__card:hover figure .cover {
+  transform: scale(1.2);
+  filter: none;
+}
+.page__projects .projects__grid--highlighted .project__card:hover figure .overlay {
+  opacity: 0;
+}
+.page__projects .projects__grid--highlighted .project__card:hover figure .project__title {
+  opacity: 1;
+  bottom: 0;
+}
+@media screen and (min-width: 768px) {
+  .page__projects .projects__grid--highlighted {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (min-width: 1200px) {
+  .page__projects .projects__grid--highlighted {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+  }
+  .page__projects .projects__grid--highlighted .project__card figure {
+    height: 400px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .page__projects .projects__grid--highlighted {
+    grid-template-columns: 1fr 1fr;
   }
 }
 .page__blog {
@@ -751,4 +851,45 @@ nav {
   .page__contact form {
     padding: 0;
   }
+}
+.project__detail {
+  min-height: 100vh;
+  background-color: #7D99AB;
+  overflow: hidden;
+}
+.project__detail .project__cover {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+.project__detail .effect {
+  width: 100vw;
+  position: absolute;
+  overflow: hidden;
+  z-index: 3;
+  left: 0;
+  top: 60px;
+  font: 900 300px/300px 'Saira', sans-serif;
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+}
+.project__detail .container-medium {
+  position: relative;
+  z-index: 2;
+  margin-top: -160px;
+}
+.project__detail .container-medium .header {
+  min-height: 50vh;
+  background-color: #121212;
+  color: whitesmoke;
+  padding: 30px 30px;
+  text-align: center;
+}
+.project__detail .container-medium .header h2 {
+  font: 600 46px 'Saira', sans-serif;
+}
+.project__detail .container-medium .header h3 {
+  font: 600 32px 'Saira', sans-serif;
 }
