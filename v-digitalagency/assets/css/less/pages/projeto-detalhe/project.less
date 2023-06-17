@@ -1,0 +1,44 @@
+// out: false
+ 
+.project__detail {
+    min-height: 100vh;
+    background-color: #7D99AB;
+    overflow: hidden;
+    .project__cover {
+        position: relative;
+        z-index: 1;
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+    }
+    .effect {
+        width: 100vw;
+        position: absolute;
+        overflow: hidden;
+        z-index: 3;
+        left: 0;
+        top: 60px;
+        font: 900 300px/300px @font;
+        color: rgba(255,255,255,.6);
+        text-align: center;
+    }
+    .container-medium {
+        position: relative;
+        z-index: 2;
+        margin-top: -160px;
+
+        .header {
+            min-height: 50vh;
+            background-color: #121212;
+            color: whitesmoke;
+            padding: 30px 30px;
+            text-align: center;
+            h2 {
+                font: 600 46px @font;
+            }
+            h3 {
+                font: 600 32px @font;
+            }
+        }
+    }
+}
