@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/bangers/v20/FeVQS0BTqb0h60ACL5k.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/bangers/v21/FeVQS0BTqb0h60ACL5k.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Prompt';
@@ -193,6 +193,9 @@ body {
 }
 .about p {
   color: whitesmoke;
+}
+.about .portrait__about {
+  box-shadow: 10px 10px 0 #F81F72;
 }
 .about .cta {
   display: block;
