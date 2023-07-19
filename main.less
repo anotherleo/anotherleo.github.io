@@ -30,19 +30,18 @@ body {
             font-family: 'Bangers', sans-serif;
             text-transform: uppercase;
             color: @blue2;
+            font-size: 36px;
+            text-align: center;
             span {
                 color: @yellow1;
             }
     
-            font-size: 36px;
-            @media screen and (min-width: 768px) {
-                font-size: 42px;
-            }
         }
 
         p {
             font-family: 'Prompt', sans-serif;
             font-weight: 300;
+            text-align: center;
             a {
                 color: @blue2;
                 text-decoration: none;
@@ -73,6 +72,17 @@ body {
                 background-repeat: no-repeat;
                 color: black;
                 transform: translateY(-6px);
+            }
+        }
+
+        @media (min-width: 768px) {
+            h2,
+            p {
+                text-align: left;
+            }
+
+            h2 {
+                font-size: 42px;
             }
         }
     }
@@ -122,10 +132,13 @@ body {
     h3 {
         color: @blue2;
         font: 400 36px 'Bangers', sans-serif;
+        text-align: center;
     }
 
-    .skills__carousel {
-        
+    @media (min-width: 768px) {
+        h3 {
+            text-align: left;
+        }
     }
 }
 
@@ -135,11 +148,13 @@ body {
     h3 {
         color: @blue2;
         font: 400 36px 'Bangers', sans-serif;
+        text-align: center;
     }
 
     .numberbox {
         display: flex;
         align-items: center;
+        justify-content: center;
         gap: 15px;
         margin-bottom: 20px;
         .number {
@@ -158,6 +173,15 @@ body {
             color: @yellow1;
         }
     }
+
+    @media (min-width: 768px) {
+        h3 {
+            text-align: left;
+        }
+        .numberbox {
+            justify-content: flex-start;
+        }
+    }
 }
 
 .portfolio {
@@ -166,6 +190,7 @@ body {
     h3 {
         color: @blue2;
         font: 400 36px 'Bangers', sans-serif;
+        text-align: center;
     }
 
     .row {
@@ -218,17 +243,23 @@ body {
         }
     }
 
-    
+    @media (min-width: 768px) {
+        h3 {
+            text-align: left;
+        }
+    }
 }
 
 .about {
     h3 {
         color: @blue2;
         font: 400 36px 'Bangers', sans-serif;
+        text-align: center;
     }
 
     p {
         color: whitesmoke;
+        text-align: center;
     }
 
     .portrait__about {
@@ -292,6 +323,15 @@ body {
             }
         }
     }
+
+    @media (min-width: 768px) {
+        h3 {
+            text-align: left;
+        }
+        p {
+            text-align: left;
+        }
+    }
 }
 
 footer {
@@ -302,6 +342,7 @@ footer {
         height: 10px;
     }
     p {
+        margin-top: 60px;
         font: 400 16px 'Prompt', sans-serif;
         text-align: center;
         color: whitesmoke;
