@@ -1,0 +1,109 @@
+// out: false
+
+.page__portfolio {
+    background-color: @black;
+    color: @white;
+
+    .header__portfolio {
+        padding: 60px 0 40px 0;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px;
+
+        h2 {
+            width: fit-content;
+            text-align: center;
+            font: 700 46px @font;
+        }
+
+        p {
+            width: fit-content;
+            border-left: 1px solid @red;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            padding-left: 20px;
+            font: 400 16px/25px @font;
+        }
+    }
+
+    .projects__grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+        .project__card {
+            overflow: hidden;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 300px;
+
+            font: 700 26px @font;
+
+            transition: all linear .15s;
+
+            .background {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                object-position: center;
+                z-index: 0;
+                transition: all linear .15s;
+                filter: grayscale(1);
+            }
+
+            .overlay {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 1;
+                transition: all linear .15s;
+                background: linear-gradient(@red, @red);
+                opacity: .7;
+            }
+
+            .name {
+                width: 0;
+                opacity: 0;
+                position: relative;
+                z-index: 2;
+                transition: all linear .2s;
+                font: 700 26px @font;
+                color: transparent;
+                text-align: center;
+            }
+
+            &:hover {
+                cursor: pointer;
+
+                .background {
+                    transform: scale(1.1);
+                    filter: grayscale(0);
+                }
+
+                .name {
+                    opacity: 1;
+                    color: @white;
+                    background-color: @black;
+                    width: 100%;
+                }
+
+                .overlay {
+                    opacity: 0;
+                }
+            }
+        }
+
+        @media (min-width: 1200px) {
+            grid-template-columns: repeat(4, 1fr);
+        }
+    }
+}

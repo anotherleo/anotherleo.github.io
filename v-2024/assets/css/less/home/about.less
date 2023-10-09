@@ -1,0 +1,122 @@
+// out: false
+
+.page__about {
+    padding-bottom: 100px;
+    background-color: whitesmoke;
+
+    .about__heading {
+        padding: 60px 0 40px 0;
+
+        h2 {
+            color: #121212;
+            font: 700 46px @font;
+            text-align: center;
+        }
+    }
+
+    .about__text {
+        color: #121212;
+        max-width: 430px;
+        width: 100%;
+        padding: 0 30px;
+
+        p {
+            color: #121212;
+            font: 400 18px/25px @font;
+            margin-bottom: 16px;
+            text-align: center;
+
+            span {
+                font-weight: 700;
+                color: #F35151;
+            }
+        }
+
+        @media screen and (min-width: 1200px) {
+            padding: 0;
+        }
+    }
+
+    .about__numbers {
+
+        div {
+            margin-bottom: 40px;
+
+            p {
+                text-align: center;
+
+                &:nth-child(1) {
+                    font: 700 46px @font;
+                }
+
+                &:nth-child(2) {
+                    font: 700 16px @font;
+                }
+            }
+        }
+    }
+
+    // ! Carousel
+    .owl-carousel.owl-theme.about__carousel {
+        max-width: 430px;
+        width: 100%;
+
+        .owl-dots {
+            margin-top: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            height: 20px;
+
+            .owl-dot {
+                span {
+                    background-color: #121212;
+                    width: 30px;
+                    border-radius: 0;
+                    height: 8px;
+                    transition: all linear .15s;
+                }
+
+                &.active {
+                    span {
+                        height: 16px;
+                    }
+                }
+            }
+        }
+    }
+
+    @media (min-width: 768px) {
+        background-image: url('../img/home/background-about.jpg');
+        background-repeat: no-repeat;
+        background-position: right 0 top -200px;
+        background-attachment: fixed;
+        background-size: 50% auto;
+
+        .about__heading {
+            h2 {
+                text-align: left;
+            }
+        }
+
+        .about__text {
+            p {
+                text-align: left;
+            }
+        }
+
+        .owl-carousel.owl-theme.about__carousel {
+            .owl-dots {
+                justify-content: flex-start;
+
+                .owl-dot {
+                    &:nth-child(1) {
+                        span {
+                            margin-left: 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
