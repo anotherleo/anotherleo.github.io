@@ -171,6 +171,7 @@
         </div>
     </section>
 
+    <!--
     <section class="page__portfolio">
         <div class="header__portfolio">
             <h2>PORTFOLIO</h2>
@@ -225,6 +226,70 @@
             </div>
         </section>
     </section>
+    -->
+
+    <section class="page__portfolio--2">
+        <div class="header__portfolio">
+            <h2>PORTFOLIO</h2>
+            <p>Projetos completos desenvolvidos
+                <br>com atenção e precisão.
+            </p>
+        </div>
+        <section class="projects__display">
+            <div class="owl-carousel owl-theme projects__carousel">
+                <div class="item">
+                    <div class="project__composition">
+                        <div class="project__image">
+                            <img src="assets/img/home/projects-magnus-mock-4.png" alt="">
+                        </div>
+                        <div class="project__text">
+                            <h3>MAGNUS
+                                <span>Landing page</span>
+                            </h3>
+                            <p>Desenvolvimento front-end de landing page para a empresa Magnus. Website responsivo
+                                construído com HTML5, CSS3, Less e JavaScript.</p>
+                            </p>
+                            <a href="#">Ver Projeto</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="project__composition">
+                        <div class="project__image">
+                            <img src="assets/img/home/projects-magnus-mock-4.png" alt="">
+                        </div>
+                        <div class="project__text">
+                            <h3>MAGNUS
+                                <span>Landing page</span>
+                            </h3>
+                            <p>Desenvolvimento front-end de landing page para a empresa Magnus. Website responsivo
+                                construído com HTML5, CSS3, Less e JavaScript.</p>
+                            </p>
+                            <a href="#">Ver Website</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
+
+    <section class="page__urbanedge">
+        <img src="assets/img/home/urbanedge.png" alt="UrbanEdge">
+        <div class="container">
+            <div class="urbanedge__text">
+                <h2>Template HTML
+                    <br>UrbanEdge
+                </h2>
+                <p>Um projeto pessoal que desenvolvi para praticar minhas habilidades de front-end e design. O UrbanEdge
+                    é um
+                    template responsivo construído com HTML5, CSS3, Less e JavaScript.</p>
+                <p>O template apresenta um design moderno, com foco na usabilidade e acessibilidade. Inclui várias
+                    seções, como exibição de portfólio, membros da equipe e header com um botão de call to action. O
+                    modelo é totalmente personalizável e pode ser usado para diversos fins, como site pessoal, portfólio
+                    ou site comercial.</p>
+                <a href="#">Em Desenvolvimento</a>
+            </div>
+    </section>
 
     <section class="page__team">
         <div class="container">
@@ -273,6 +338,16 @@
     <script src="assets/libs/owl.carousel.min.js"></script>
     <script>
         $('.about__carousel').owlCarousel({
+            loop: true,
+            dots: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 30
+                }
+            }
+        });
+        $('.projects__carousel').owlCarousel({
             loop: true,
             dots: true,
             responsive: {

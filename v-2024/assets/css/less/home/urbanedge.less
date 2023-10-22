@@ -1,0 +1,44 @@
+// out: false
+
+.page__urbanedge {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+    place-items: center;
+    gap: 60px;
+
+    img {
+        max-width: 100%;
+    }
+
+    .urbanedge__text {
+        display: flex;
+        flex-direction: column;
+        gap: 26px;
+
+        h2 {
+            font: 700 36px/38px @font;
+            color: @red;
+        }
+
+        p {
+            font: 400 18px/25px @font;
+            color: @black;
+        }
+
+        a {
+            cursor: none;
+            width: fit-content;
+            padding: 12px 26px;
+            border: 1px solid gray;
+            font: 500 16px @font;
+            color: gray;
+            text-transform: uppercase;
+        }
+    }
+}

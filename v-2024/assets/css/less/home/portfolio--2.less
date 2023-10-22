@@ -1,0 +1,110 @@
+// out: false
+
+.page__portfolio--2 {
+    background-color: @white;
+
+    .header__portfolio {
+        background-color: @black;
+        padding: 40px 0 40px 0;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px;
+
+        h2 {
+            width: fit-content;
+            text-align: center;
+            font: 700 46px @font;
+            color: @white;
+        }
+
+        p {
+            width: fit-content;
+            border-left: 1px solid @white;
+            padding-top: 6px;
+            padding-bottom: 6px;
+            padding-left: 20px;
+            font: 400 16px/25px @font;
+            color: @white;
+        }
+    }
+
+    .projects__display {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        max-width: 1200px;
+        margin: 0 auto;
+
+        .owl-carousel.owl-theme.projects__carousel {
+            .project__composition {
+                @media (min-width: 1200px) {
+                    padding-left: 100px;
+                    padding-right: 100px;
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    gap: 100px;
+
+                    .project__text {
+                        display: flex;
+                        flex-direction: column;
+                        gap: 20px;
+
+                        h3 {
+                            color: @red;
+                            font: 700 36px @font;
+
+                            span {
+                                display: block;
+                                font: italic 400 12px @font;
+                                margin-top: -4px;
+                                color: @black;
+                                text-transform: uppercase;
+                            }
+                        }
+
+                        p {
+                            color: @black;
+                            font: 400 18px/25px @font;
+                        }
+
+                        a {
+                            width: fit-content;
+                            padding: 12px 26px;
+                            border: 1px solid @black;
+                            font: 500 16px @font;
+                            color: @black;
+                            text-transform: uppercase;
+
+                        }
+                    }
+                }
+            }
+
+            .owl-dots {
+                margin-top: 30px;
+                display: flex;
+                justify-content: center;
+                align-items: flex-end;
+                height: 20px;
+
+                .owl-dot {
+                    span {
+                        background-color: #121212;
+                        width: 30px;
+                        border-radius: 0;
+                        height: 8px;
+                        transition: all linear .15s;
+                    }
+
+                    &.active {
+                        span {
+                            height: 16px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
