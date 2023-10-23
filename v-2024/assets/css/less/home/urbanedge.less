@@ -7,16 +7,43 @@
     margin-left: auto;
     margin-right: auto;
 
-    display: grid;
-    grid-template-columns: 4fr 3fr;
-    place-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     gap: 60px;
 
-    img {
-        max-width: 100%;
+    .carousel__wrapper {
+        max-width: 600px;
+
+        .owl-carousel.owl-theme.template__carousel {
+            .owl-dots {
+                margin-top: 30px;
+                display: flex;
+                justify-content: center;
+                align-items: flex-end;
+                height: 20px;
+
+                .owl-dot {
+                    span {
+                        background-color: @red;
+                        width: 30px;
+                        border-radius: 0;
+                        height: 8px;
+                        transition: all linear .15s;
+                    }
+
+                    &.active {
+                        span {
+                            height: 16px;
+                        }
+                    }
+                }
+            }
+        }
     }
 
     .urbanedge__text {
+        max-width: 500px;
         display: flex;
         flex-direction: column;
         gap: 26px;
@@ -24,6 +51,11 @@
         h2 {
             font: 700 36px/38px @font;
             color: @red;
+
+            span {
+                font-size: 30px;
+                font-weight: 600;
+            }
         }
 
         p {
@@ -39,6 +71,12 @@
             font: 500 16px @font;
             color: gray;
             text-transform: uppercase;
+
+            span {
+                color: @black;
+                font-size: 12px;
+                font-style: italic;
+            }
         }
     }
 }

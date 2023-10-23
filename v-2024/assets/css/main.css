@@ -115,6 +115,27 @@ nav {
   margin-left: auto;
   margin-right: auto;
 }
+.page__header {
+  position: absolute;
+  z-index: 100;
+  top: 30px;
+  left: 0;
+  width: 100%;
+}
+.page__header .container {
+  display: flex;
+  justify-content: center;
+  max-width: 1260px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width: 768px) {
+  .page__header {
+    top: 40px;
+  }
+}
 .page__banner {
   position: relative;
   z-index: 1;
@@ -406,15 +427,33 @@ nav {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  display: grid;
-  grid-template-columns: 4fr 3fr;
-  place-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   gap: 60px;
 }
-.page__urbanedge img {
-  max-width: 100%;
+.page__urbanedge .carousel__wrapper {
+  max-width: 600px;
+}
+.page__urbanedge .carousel__wrapper .owl-carousel.owl-theme.template__carousel .owl-dots {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 20px;
+}
+.page__urbanedge .carousel__wrapper .owl-carousel.owl-theme.template__carousel .owl-dots .owl-dot span {
+  background-color: #F35151;
+  width: 30px;
+  border-radius: 0;
+  height: 8px;
+  transition: all linear 0.15s;
+}
+.page__urbanedge .carousel__wrapper .owl-carousel.owl-theme.template__carousel .owl-dots .owl-dot.active span {
+  height: 16px;
 }
 .page__urbanedge .urbanedge__text {
+  max-width: 500px;
   display: flex;
   flex-direction: column;
   gap: 26px;
@@ -422,6 +461,10 @@ nav {
 .page__urbanedge .urbanedge__text h2 {
   font: 700 36px/38px 'Saira', sans-serif;
   color: #F35151;
+}
+.page__urbanedge .urbanedge__text h2 span {
+  font-size: 30px;
+  font-weight: 600;
 }
 .page__urbanedge .urbanedge__text p {
   font: 400 18px/25px 'Saira', sans-serif;
@@ -435,6 +478,11 @@ nav {
   font: 500 16px 'Saira', sans-serif;
   color: gray;
   text-transform: uppercase;
+}
+.page__urbanedge .urbanedge__text a span {
+  color: #121212;
+  font-size: 12px;
+  font-style: italic;
 }
 .page__team {
   padding-bottom: 60px;
@@ -458,8 +506,8 @@ nav {
   gap: 20px;
 }
 .page__team .team__members .team__card {
-  border: 1px solid black;
-  box-shadow: 6px 6px 0 #F35151;
+  border: 1px solid #121212;
+  box-shadow: 6px 6px 0 #121212;
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -497,4 +545,230 @@ nav {
   .page__team .team__members .team__card {
     padding: 30px 40px;
   }
+}
+.page__interest {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #121212;
+  color: whitesmoke;
+  text-align: center;
+}
+.page__interest .contents {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.page__interest .contents h2 {
+  font: 700 36px/38px 'Saira', sans-serif;
+  color: #F35151;
+}
+.page__interest .contents p {
+  font: 400 18px/24px 'Saira', sans-serif;
+}
+.page__interest .contents a {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  padding: 12px 26px;
+  border: 1px solid white;
+  font: 500 16px 'Saira', sans-serif;
+  color: white;
+  text-transform: uppercase;
+  gap: 12px;
+}
+.page__interest .contents .buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.page__interest .detail {
+  display: none;
+}
+@media (min-width: 992px) {
+  .page__interest {
+    position: relative;
+    overflow: hidden;
+  }
+  .page__interest .contents {
+    max-width: 992px;
+    margin: 0 auto;
+    align-items: flex-start;
+  }
+  .page__interest .detail {
+    display: block;
+    position: absolute;
+    right: 200px;
+    top: -30px;
+  }
+  .page__interest .detail svg {
+    width: 300px;
+    height: 300px;
+  }
+}
+.page__blog {
+  padding-bottom: 60px;
+  background-color: whitesmoke;
+}
+.page__blog .blog__heading {
+  padding: 60px 0 40px 0;
+}
+.page__blog .blog__heading h2 {
+  color: #121212;
+  font: 700 46px 'Saira', sans-serif;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.page__blog .blog__heading p {
+  color: #121212;
+  font: 400 18px 'Saira', sans-serif;
+  padding-left: 30px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-left: 2px solid #121212;
+}
+.page__blog .owl-carousel.owl-theme.blog__carousel {
+  max-width: 380px;
+  width: 100%;
+}
+.page__blog .owl-carousel.owl-theme.blog__carousel .item a {
+  color: #F35151;
+  font: 700 20px 'Saira', sans-serif;
+}
+.page__blog .owl-carousel.owl-theme.blog__carousel .item .date {
+  margin-top: 16px;
+  color: #121212;
+  font: 500 14px 'Saira', sans-serif;
+}
+.page__blog .owl-carousel.owl-theme.blog__carousel .owl-dots {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 20px;
+}
+.page__blog .owl-carousel.owl-theme.blog__carousel .owl-dots .owl-dot span {
+  background-color: #121212;
+  width: 30px;
+  border-radius: 0;
+  height: 8px;
+  transition: all linear 0.15s;
+}
+.page__blog .owl-carousel.owl-theme.blog__carousel .owl-dots .owl-dot.active span {
+  height: 16px;
+}
+.page__blog .blog__footer {
+  margin-top: 46px;
+}
+.page__blog .blog__footer a {
+  display: block;
+  padding: 20px 40px;
+  width: fit-content;
+  color: #121212;
+  background-color: transparent;
+  text-transform: uppercase;
+  font: 500 16px 'Saira', sans-serif;
+  border: 2px solid #121212;
+  transition: all linear 0.15s;
+}
+.page__blog .blog__footer a:hover {
+  background-color: #F35151;
+  border-color: #F35151;
+}
+@media screen and (min-width: 768px) {
+  .page__blog {
+    background-image: url('../img/home/background-9.jpg');
+    background-repeat: no-repeat;
+    background-position: right 0 bottom -140px;
+    background-attachment: fixed;
+    background-size: 50% auto;
+  }
+  .page__blog .blog__heading h2 {
+    text-align: left;
+  }
+  .page__blog .owl-carousel.owl-theme.blog__carousel .owl-dots {
+    justify-content: flex-start;
+  }
+  .page__blog .owl-carousel.owl-theme.blog__carousel .owl-dots .owl-dot:nth-child(1) span {
+    margin-left: 0;
+  }
+}
+.page__contact {
+  padding-bottom: 60px;
+  background-color: #121212;
+}
+.page__contact .contact__heading {
+  padding: 60px 0 40px 0;
+}
+.page__contact .contact__heading h2 {
+  color: whitesmoke;
+  font: 700 46px 'Saira', sans-serif;
+  text-align: center;
+}
+.page__contact form {
+  padding: 0 30px;
+  max-width: 430px;
+}
+.page__contact form input,
+.page__contact form textarea {
+  margin-bottom: 16px;
+  width: 100%;
+  padding: 12px 20px;
+  background-color: #121212;
+  color: whitesmoke;
+  font: 500 16px 'Saira', sans-serif;
+  border: 2px solid whitesmoke;
+}
+.page__contact form textarea {
+  height: 200px;
+}
+.page__contact form button {
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  margin-top: 16px;
+  appearance: none;
+  display: block;
+  padding: 20px 40px;
+  width: fit-content;
+  color: whitesmoke;
+  background-color: transparent;
+  text-transform: uppercase;
+  font: 500 16px 'Saira', sans-serif;
+  border: 2px solid whitesmoke;
+  transition: all linear 0.15s;
+}
+.page__contact form button:hover {
+  background-color: #F35151;
+  border-color: #F35151;
+}
+@media screen and (min-width: 768px) {
+  .page__contact {
+    background-image: url('../img/home/background-6.jpg');
+    background-repeat: no-repeat;
+    background-position: right 0 bottom 0;
+    background-attachment: fixed;
+    background-size: 50% auto;
+  }
+  .page__contact .contact__heading h2 {
+    text-align: left;
+  }
+  .page__contact form button {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .page__contact form {
+    padding: 0;
+  }
+}
+.page__footer {
+  background-color: black;
+  padding: 30px;
+  color: whitesmoke;
+  font: 400 16px 'Saira', sans-serif;
+  text-align: center;
 }

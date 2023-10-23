@@ -1,0 +1,23 @@
+// out: false
+
+.page__header {
+    position: absolute;
+    z-index: 100;
+    top: 30px;
+    left: 0;
+    width: 100%;
+
+    .container {
+        display: flex;
+        justify-content: center;
+        max-width: 1260px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    @media (min-width: 768px) {
+        top: 40px;
+    }
+}
