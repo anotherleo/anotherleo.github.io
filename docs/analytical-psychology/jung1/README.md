@@ -80,47 +80,37 @@
 
 以上几方面对荣格思想的概述是极其粗浅的，不过意在为读者勾勒出大致的线索罢了。该书的文字要远比这深刻、细致微妙得多。读者只有反复阅读，认真揣摸，方可领会到全书的精髓。我衷心期待，荣格这本经典名作能在我国思想界产生应有的影响。
 
-吴康
-
-1987年冬序于长沙德雅村
+吴康<br/>1987年冬序于长沙德雅村
 
 ## FOREWORD TO THE FIRST SWISS EDITION
 
-This book is the fruit of nearly twenty years’ work in the domain of practical psychology. It grew gradually in my thoughts, taking shape from the countless impressions and experiences of a psychiatrist in the treatment of nervous illnesses, from intercourse with men and women of all social levels, from my personal dealings with friend and foe alike, and, finally, from a critique of my own psychological peculiarity.
+This book is the fruit of nearly twenty years’ work in the domain of practical psychology. It grew gradually in my thoughts, taking shape from the countless impressions and experiences of a psychiatrist in the treatment of nervous illnesses, from intercourse[^1] with men and women of all social levels, from my personal dealings with friend and foe[^2] alike, and, finally, from a critique of my own psychological peculiarity[^3].
 
 本书是我在实用心理学（practical psychology）领域工作近二十年的成果，它渐次在我的思考中成形，取材自我在精神疾病治疗上的无数印象和经验，取材自我与社会各阶层男男女女的沟通和接触，取材自我个人与朋友和宿敌打交道的结果；最后，它也取材自我对自己心理特质的批判。
 
-It is not my intention to burden the reader with case material; my concern is rather to show how the ideas I have abstracted from my practical work can be linked up, both historically and terminologically, with an existing body of knowledge. I have done this not so much from a need for historical justification as from a desire to bring the experiences of a medical specialist out of their narrow professional setting into a more general context, a context which will enable the educated layman to derive some profit from them. I would never have embarked upon this amplification, which might easily be misunderstood as an encroachment upon other spheres, were I not convinced that the psychological views presented in this book are of wide significance and application, and are therefore better treated in a general frame of reference than left in the form of a specialized scientific hypothesis.
+It is not my intention to burden the reader with case material; my concern is rather to show how the ideas I have abstracted from my practical work can be linked up[^4], both historically and terminologically, with an existing body of knowledge. I have done this not so much from a need for historical justification as from a desire to bring the experiences of a medical specialist out of their narrow professional setting into a more general context, a context which will enable the educated layman[^5] to derive some profit from them. I would never have embarked[^6] upon this amplification[^7], which might easily be misunderstood as an encroachment[^8] upon other spheres[^9], were I not convinced that the psychological views presented in this book are of wide significance and application, and are therefore better treated in a general frame of reference than left in the form of a specialized scientific hypothesis.
 
 我并不打算用个案材料来增加读者的负担，我所关心的是，从我的实践工作中所呈现出来的观念，如何能在历史学的和术语学的层面上，与既有的知识相关联。我这样做与其说是想借历史来支持我的论证，不如说是想把一个医学专家的经验带出狭窄的专业领域，使它进入一种更普遍的联系中，使受过教育的外行人也能够从中获益。假如我不坚信本书所表现的心理学观点具有广泛的意义和适用性，并因此而在一般的关系中要比留在专业化科学假设的形式中获得更好的处理的话，我是绝不敢斗胆进行这种延伸的，因为这有可能被误解为是在侵犯其他的领域。
 
-With this aim in view I have confined myself to examining the ideas of comparatively few workers in this field, and have refrained from mentioning all that has already been said concerning our problem in general. Apart from the fact that even an approximately complete catalogue of the relevant material and opinions would far exceed my powers, such a compilation would not make any fundamental contribution to the discussion and development of the problem. Without regret, therefore, I have omitted much that I have collected in the course of the years, and confined myself as far as possible to essentials. A valuable document that was of very great help to me has also had to be sacrificed. This is a bulky correspondence which I exchanged with my friend Dr. Hans Schmid[1](vol_06_fm02-fn.html#vol_06_fm02-fn1), of Basel, on the question of types. I owe a great deal of clarification to this interchange of ideas, and much of it, though of course in altered and greatly revised form, has gone into my book. The correspondence belongs essentially to the preparatory stage of the work, and its inclusion would create more confusion than clarity. Nevertheless, I owe it to the labours of my friend to express my thanks to him here.
+With this aim in view I have confined myself to examining the ideas of comparatively few workers in this field, and have refrained from mentioning all that has already been said concerning our problem in general. Apart from the fact that even an approximately complete catalogue[^10] of the relevant material and opinions would far exceed my powers, such a compilation would not make any fundamental contribution to the discussion and development of the problem. Without regret, therefore, I have omitted much that I have collected in the course of the years, and confined myself as far as possible to essentials. A valuable document that was of very great help to me has also had to be sacrificed. This is a bulky[^11] correspondence which I exchanged with my friend Dr. Hans Schmid, of Basel, on the question of types. I owe a great deal of clarification to this interchange of ideas, and much of it, though of course in altered and greatly revised form, has gone into my book. The correspondence belongs essentially to the preparatory[^12] stage of the work, and its inclusion would create more confusion than clarity. Nevertheless, I owe it to the labours of my friend to express my thanks to him here.
 
 从此目的出发，我把自己限定在检视这一领域相对来说少数几位著作家的思想范围内，而非处理所有与我们的问题有关的讨论。即使只是概略编列相关材料和观点的目录，也是我力所难及的，何况这样的编纂，对问题的讨论和进展并不会有任何根本性的贡献。因此，我毫不遗憾地省去我在多年的研究过程中所搜集的许多材料，从而尽可能地限于本质性问题的讨论。有一批曾给我巨大帮助而最有价值的文献也只得忍痛割爱，这就是我与在巴塞尔的朋友汉斯·斯米德（Hans Schmid）博士就类型问题进行切磋的大批通信。这种观念的交流对我们思想的厘清助益甚大，我把它们的大部分内容写进了本书中，尽管在形式上已经过理所当然的改头换面。这些通信属于本书的准备阶段，若将其直接纳入书中，恐怕会制造更多的混乱而不是清晰。但无论如何，还是多亏我朋友的辛劳才得以写成本书，在此谨向他表示衷心的感谢！
 
-C. G. JUNG
+C. G. JUNG<br/>*Küsnacht/Zurich*
 
-*Küsnacht/Zurich*
-
-C. G. 荣格
-
-1920年春于苏黎世，库斯纳契
+C. G. 荣格<br/>1920年春于苏黎世，库斯纳契
 
 ### FOREWORD TO THE SEVENTH SWISS EDITION
 
 This new edition appears unaltered, which is not to say that the book is not in need of further additions, improvements, and supplementary material. In particular, the somewhat terse descriptions of the types could have been expanded. Also, a consideration of works on typology by psychologists since this book first appeared would have been desirable. But the present scope of the book is already so great that it ought not to be augmented unless urgently necessary. Moreover, there is little practical purpose in making the problems of typology still more complicated when not even the elements have been properly understood. Critics commonly fall into the error of assuming that the types were, so to speak, fancy free and were forcibly imposed on the empirical material. In face of this assumption I must emphasize that my typology is the result of many years of practical experience—experience that remains completely closed to the academic psychologist. I am first and foremost a doctor and practising psychotherapist, and all my psychological formulations are based on the experiences gained in the hard course of my daily professional work. What I have to say in this book, therefore, has, sentence by sentence, been tested a hundredfold in the practical treatment of the sick and originated with them in the first place. Naturally, these medical experiences are accessible and intelligible only to one who is professionally concerned with the treatment of psychic complications. It is therefore not the fault of the layman if certain of my statements strike him as strange, or if he thinks my typology is the product of idyllically undisturbed hours in the study. I doubt, however, whether this kind of ingenuousness is a qualification for competent criticism.
 
-*September 1937*
-
-C. G. JUNG
+*September 1937*<br/>C. G. JUNG
 
 ### FOREWORD TO THE EIGHTH SWISS EDITION
 
 The new edition again appears unaltered in essentials, but this time many small, long-necessary corrections have been made in the details. Also a new index has been compiled. I am especially indebted to Mrs. Lena Hurwitz-Eisner for this irksome work.
 
-*June 1949*
-
-C. G. JUNG
+*June 1949*<br/>C. G. JUNG
 
 ## FOREWORD TO THE ARGENTINE EDITION
 
@@ -130,11 +120,7 @@ This fundamental tendency in my work has often been overlooked, and far too many
 
 It is now my pleasant duty to express my sincerest thanks to Madame Victoria Ocampo for her great help in securing the publication of this book, and to Señor Ramón de la Serna for his work of translation.
 
-*Küsnacht/Zurich*
-
-C. G. JUNG
-
-*October 1934*
+*Küsnacht/Zurich*<br/>C. G. JUNG<br/>*October 1934*
 
 ---
 
@@ -175,3 +161,27 @@ These contrary attitudes are in themselves no more than correlative mechanisms: 
 The hypothesis of introversion and extraversion allows us, first of all, to distinguish two large groups of psychological individuals. Yet this grouping is of such a superficial and general nature that it permits no more than this very general distinction. Closer investigation of the individual psychologies that fall into one group or the other will at once show great differences between individuals who nevertheless belong to the same group. If, therefore, we wish to determine wherein lie the differences between individuals belonging to a definite group, we must take a further step. Experience has taught me that in general individuals can be distinguished not only according to the broad distinction between introversion and extraversion, but also according to their basic psychological functions. For in the same measure as outer circumstances and inner disposition cause either introversion or extraversion to predominate, they also favour the predominance of one definite basic function in the individual. I have found from experience that the basic psychological functions, that is, functions which are genuinely as well as essentially different from other functions, prove to be *thinking, feeling, sensation*, and *intuition*. If one of these functions habitually predominates, a corresponding type results. I therefore distinguish a thinking, a feeling, a sensation, and an intuitive type. *Each of these types may moreover be either introverted or extraverted*, depending on its relation to the object as we have described above. In my preliminary work on psychological types I did not carry out this differentiation, but identified the thinking type with the introvert and the feeling type with the extravert. A deeper study of the problem has shown this equation to be untenable. In order to avoid misunderstandings, I would ask the reader to bear in mind the differentiation I have developed here. For the sake of clarity, which is essential in such complicated matters, I have devoted the last chapter of this book to the definition of my psychological concepts.
 
 内倾和外倾的假设使我们首先能区分出两大群心理个体。但这种划分太浅薄而笼统，它只不过能让我们作出大致的区别。只要对这两类个体心理作更为准确的考察就会立即发现，即使是同一类个体之间也存在极大的差异。如果我们希望确定该类个体之间到底存在哪些差异，就必须再前进一步。经验告诉我，个体的区分除了根据外倾和内倾这种普遍的差异外，还得根据个体的基本心理功能。因为外在情境和内在气质不但会导致外倾或内倾其中之一占据优势，也会在个体身上导致某种特定的心理功能占据优势。我从经验中发现，基本心理功能，亦即那些真正从根本上彼此相区分的功能，它们包括思维（thinking）、情感（feeling）、感觉（sesation）和直觉（intuition）。如果其中一种功能成为习惯性的优势功能，那么相应的类型就产生了。这些类型都可以根据上述同客体的关系而成为内倾的或外倾的。在我早先论述心理类型的文章中，我并没有作这种区分，而是把思维型的人等同于内倾者，把情感型的人等同于外倾者。但对这一问题进行更深入的思考后，证实这种等同是站不住脚的。为了避免误解，我请求读者记住我在这里所指出的区别。为了保证这些繁杂的东西能获得必要的清晰，我特意用此书最后一章来专门讨论我所使用的心理学概念的意义。
+
+[^1]: **N-UNCOUNT**交际;交往;往来<br/>Social **intercourse** is communication between people as they spend time together.
+
+[^2]: **N-COUNT**敌人;对头<br/>Someone's **foe** is their enemy.
+
+[^3]: **N-COUNT**独特之处；特性；个性<br/>A **peculiarity** is a characteristic or quality which belongs or relates only to one person or thing.
+
+[^4]: **PHRASAL VERB**连接；接合<br/>If one thing **is linked up to** another, the two things are connected to each other.
+
+[^5]: **N-COUNT**外行；门外汉<br/>A **layman** is a person who is not trained, qualified, or experienced in a particular subject or activity.
+
+[^6]: **VERB**着手；开始做<br/>If you **embark on** something new, difficult, or exciting, you start doing it.
+
+[^7]: amplify: **VERB**增强；加强<br/>To **amplify** something means to increase its strength or intensity.
+
+[^8]: encroach: **N-VAR**侵占;侵蚀;蚕食<br/>You can describe the action or process of encroaching on something as **encroachment** .
+
+[^9]: **N-COUNT**(社会地位或兴趣等相同的)人群，阶层，圈子<br/>A **sphere of** people is a group of them who are similar in social status or who have the same interests.
+
+[^10]: **N-COUNT**目录;名录;目录簿<br/>A **catalogue** is a list of things such as the goods you can buy from a particular company, the objects in a museum, or the books in a library.
+
+[^11]: **ADJ-GRADED**庞大的；笨重的<br/>Something that is **bulky** is large and heavy. Bulky things are often difficult to move or deal with.
+
+[^12]: **ADJ**预备的；准备的；筹备的<br/>**Preparatory[prɪˈpærətɔːri]** actions are done before doing something else as a form of preparation or as an introduction.
