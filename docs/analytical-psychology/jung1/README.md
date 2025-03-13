@@ -114,9 +114,9 @@ The new edition again appears unaltered in essentials, but this time many small,
 
 ## FOREWORD TO THE ARGENTINE EDITION
 
-No book that makes an essentially new contribution to knowledge enjoys the privilege of being thoroughly understood. Perhaps it is most difficult of all for new psychological insights to make any headway. A psychology that is grounded on experience always touches upon personal and intimate matters and thus arouses everything that is contradictory and unclarified in the human psyche. If one is plunged, as I am for professional reasons, into the chaos of psychological opinions, prejudices, and susceptibilites, one gets a profound and indelible impression of the diversity of individual psychic dispositions, tendencies, and convictions, while on the other hand one increasingly feels the need for some kind of order among the chaotic multiplicity of points of view. This need calls for a critical orientation and for general principles and criteria, not too specific in their formulation, which may serve as *points de repère* in sorting out the empirical material. What I have attempted in this book is essentially a critical psychology.
+No book that makes an essentially new contribution to knowledge enjoys the privilege of being thoroughly understood. Perhaps it is most difficult of all for new psychological insights to make any headway[^19]. A psychology that is grounded on experience always touches upon personal and intimate matters and thus arouses everything that is contradictory and unclarified in the human psyche[^20]. If one is plunged[^21], as I am for professional reasons, into the chaos of psychological opinions, prejudices, and susceptibilites[^22], one gets a profound and indelible[^23] impression of the diversity of individual psychic dispositions[^24], tendencies, and convictions[^25], while on the other hand one increasingly feels the need for some kind of order among the chaotic multiplicity[^26] of points of view. This need calls for a critical orientation and for general principles and criteria, not too specific in their formulation, which may serve as *points de repère*[^27] in sorting out the empirical material. What I have attempted in this book is essentially a critical psychology.
 
-This fundamental tendency in my work has often been overlooked, and far too many readers have succumbed to the error of thinking that Chapter X (“General Description of the Types”) represents the essential content and purpose of the book, in the sense that it provides a system of classification and a practical guide to a good judgment of human character. Indeed, even in medical circles the opinion has got about that my method of treatment consists in fitting patients into this system and giving them corresponding “advice.” This regrettable misunderstanding completely ignores the fact that this kind of classification is nothing but a childish parlour game, every bit as futile as the division of mankind into brachycephalics and dolichocephalics. My typology is far rather a critical apparatus serving to sort out and organize the welter of empirical material, but not in any sense to stick labels on people at first sight. It is not a physiognomy and not an anthropological system, but a critical psychology dealing with the organization and delimitation of psychic processes that can be shown to be typical. For this reason I have placed the general typology and the Definitions at the end of the book, after having described, in chapters I to IX, the processes in question with the help of various examples. I would therefore recommend the reader who really wants to understand my book to immerse himself first of all in chapters II and V. He will gain more from them than from any typological terminology superficially picked up, since this serves no other purpose than a totally useless desire to stick on labels. 
+This fundamental tendency in my work has often been overlooked, and far too many readers have succumbed[^28] to the error of thinking that Chapter X (“General Description of the Types”) represents the essential content and purpose of the book, in the sense that it provides a system of classification and a practical guide to a good judgment of human character. Indeed, even in medical circles the opinion has got about that my method of treatment consists in fitting patients into this system and giving them corresponding “advice.” This regrettable misunderstanding completely ignores the fact that this kind of classification is nothing but a childish parlour[^29] game, every bit as futile as the division of mankind into brachycephalics[^30] and dolichocephalics[^31]. My typology is far rather a critical apparatus serving to sort out and organize the welter[^32] of empirical material, but not in any sense to stick labels on people at first sight. It is not a physiognomy[^33] and not an anthropological system, but a critical psychology dealing with the organization and delimitation[^34] of psychic processes that can be shown to be typical. For this reason I have placed the general typology and the Definitions at the end of the book, after having described, in chapters I to IX, the processes in question with the help of various examples. I would therefore recommend the reader who really wants to understand my book to immerse himself first of all in chapters II and V. He will gain more from them than from any typological terminology superficially picked up, since this serves no other purpose than a totally useless desire to stick on labels. 
 
 It is now my pleasant duty to express my sincerest thanks to Madame Victoria Ocampo for her great help in securing the publication of this book, and to Señor Ramón de la Serna for his work of translation.
 
@@ -197,3 +197,34 @@ The hypothesis of introversion and extraversion allows us, first of all, to dist
 [^17]: ingenuous: **ADJ-GRADED**坦率的;真诚的;单纯的<br/>If you describe someone as **ingenuous**, you mean that they are innocent, trusting, and honest.
 
 [^18]: **ADJ-GRADED**令人恼怒的;令人厌烦的;令人烦恼的<br/>If something is **irksome**, it irritates or annoys you.
+
+[^19]: **PHRASE**前进;取得进展If you **make headway**, you progress towards achieving something.
+
+[^20]: **N-COUNT**精神；心灵In psychology, your **psyche** is your mind and your deepest feelings and attitudes.
+
+[^21]: **V-ERG**（使）突然陷入；（使）突然遭受If a person or thing **is plunged into** a particular state or situation, or if they **plunge into** it, they are suddenly in that state or situation.
+
+[^22]: **N-PLURAL**感情脆弱之处;情感的要害A person's **susceptibilities** are feelings which can be easily hurt.
+
+[^23]: **ADJ-GRADED**难忘的;不可磨灭的If you say that something leaves an **indelible** impression, you mean that it is very unlikely to be forgotten.
+
+[^24]: **N-SING**倾向;意向A **disposition to** do something is a willingness to do it.
+[^25]: **N-COUNT**坚定的信念(或主张)A **conviction** is a strong belief or opinion.
+
+[^26]: **QUANT**大量;多种多样A **multiplicity of** things is a large number or a large variety of them.
+
+[^27]: point of reference; landmark
+
+[^28]: **VERB**屈从于，屈服于，抵挡不住(诱惑或压力)If you **succumb to** temptation or pressure, you do something that you want to do, or that other people want you to do, although you feel it might be wrong.
+
+[^29]: **N-COUNT**客厅；起居室<br/>A **parlour[ˈpɑrlɚ]** is a room in a house for sitting in.<br/>**N-COUNT**室内游戏（如猜谜或填字游戏）<br/>A **parlour game** is a game that is played indoors by families or at parties, for example a guessing game or word game.
+
+[^30]: brachycephalic/ˌbreɪkiˈsɛfəlɪks/: 短头型的，指头颅较宽且短的人或动物
+
+[^31]: dolichocephalic/ˌdɑːlɪkoʊˈsɛfəlɪks/: 长头型的，指头颅较长且窄的人或动物
+
+[^32]: **QUANT**杂乱的一堆A **welter of** something is a large quantity of it which occurs suddenly or in a confusing way.
+
+[^33]: **N-COUNT**（尤指被认为能表露真实性格的）相貌，面相Your **physiognomy[ˌfɪziˈɑːnəmi]** is your face, especially when it is considered to show your real character.
+
+[^34]: a line that indicates a boundary
