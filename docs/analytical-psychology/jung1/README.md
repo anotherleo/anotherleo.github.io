@@ -102,13 +102,13 @@ C. G. 荣格<br/>1920年春于苏黎世，库斯纳契
 
 ### FOREWORD TO THE SEVENTH SWISS EDITION
 
-This new edition appears unaltered, which is not to say that the book is not in need of further additions, improvements, and supplementary material. In particular, the somewhat terse descriptions of the types could have been expanded. Also, a consideration of works on typology by psychologists since this book first appeared would have been desirable. But the present scope of the book is already so great that it ought not to be augmented unless urgently necessary. Moreover, there is little practical purpose in making the problems of typology still more complicated when not even the elements have been properly understood. Critics commonly fall into the error of assuming that the types were, so to speak, fancy free and were forcibly imposed on the empirical material. In face of this assumption I must emphasize that my typology is the result of many years of practical experience—experience that remains completely closed to the academic psychologist. I am first and foremost a doctor and practising psychotherapist, and all my psychological formulations are based on the experiences gained in the hard course of my daily professional work. What I have to say in this book, therefore, has, sentence by sentence, been tested a hundredfold in the practical treatment of the sick and originated with them in the first place. Naturally, these medical experiences are accessible and intelligible only to one who is professionally concerned with the treatment of psychic complications. It is therefore not the fault of the layman if certain of my statements strike him as strange, or if he thinks my typology is the product of idyllically undisturbed hours in the study. I doubt, however, whether this kind of ingenuousness is a qualification for competent criticism.
+This new edition appears unaltered, which is not to say that the book is not in need of further additions, improvements, and supplementary material. In particular, the somewhat terse[^13] descriptions of the types could have been expanded. Also, a consideration of works on typology by psychologists since this book first appeared would have been desirable. But the present scope of the book is already so great that it ought not to be augmented unless urgently necessary. Moreover, there is little practical purpose in making the problems of typology still more complicated when not even the elements have been properly understood. Critics commonly fall into the error of assuming that the types were, so to speak, fancy free[^14] and were forcibly imposed on the empirical material. In face of this assumption I must emphasize that my typology is the result of many years of practical experience—experience that remains completely closed to the academic psychologist. I am first and foremost[^15] a doctor and practising psychotherapist, and all my psychological formulations are based on the experiences gained in the hard course of my daily professional work. What I have to say in this book, therefore, has, sentence by sentence, been tested a hundredfold in the practical treatment of the sick and originated with them in the first place. Naturally, these medical experiences are accessible and intelligible only to one who is professionally concerned with the treatment of psychic complications. It is therefore not the fault of the layman if certain of my statements strike him as strange, or if he thinks my typology is the product of idyllically[^16] undisturbed hours in the study. I doubt, however, whether this kind of ingenuousness[^17] is a qualification for competent criticism.
 
 *September 1937*<br/>C. G. JUNG
 
 ### FOREWORD TO THE EIGHTH SWISS EDITION
 
-The new edition again appears unaltered in essentials, but this time many small, long-necessary corrections have been made in the details. Also a new index has been compiled. I am especially indebted to Mrs. Lena Hurwitz-Eisner for this irksome work.
+The new edition again appears unaltered in essentials, but this time many small, long-necessary corrections have been made in the details. Also a new index has been compiled. I am especially indebted to Mrs. Lena Hurwitz-Eisner for this irksome[^18] work.
 
 *June 1949*<br/>C. G. JUNG
 
@@ -185,3 +185,15 @@ The hypothesis of introversion and extraversion allows us, first of all, to dist
 [^11]: **ADJ-GRADED**庞大的；笨重的<br/>Something that is **bulky** is large and heavy. Bulky things are often difficult to move or deal with.
 
 [^12]: **ADJ**预备的；准备的；筹备的<br/>**Preparatory[prɪˈpærətɔːri]** actions are done before doing something else as a form of preparation or as an introduction.
+
+[^13]: **ADJ-GRADED**（声明、评论）简短的,短促的,无礼的<br/>A **terse** statement or comment is brief and unfriendly.
+
+[^14]: fancy-free: free from emotional involvement or commitment to anyone.
+
+[^15]: **PHRASE**首先;首要的是<br/>You use **first and foremost** to emphasize the most important quality of something or someone.
+
+[^16]: idyllic: **ADJ-GRADED**安恬的;田园诗般的;质朴宜人的<br/>If you describe something as **idyllic**, you mean that it is extremely pleasant, simple, and peaceful without any difficulties or dangers.
+
+[^17]: ingenuous: **ADJ-GRADED**坦率的;真诚的;单纯的<br/>If you describe someone as **ingenuous**, you mean that they are innocent, trusting, and honest.
+
+[^18]: **ADJ-GRADED**令人恼怒的;令人厌烦的;令人烦恼的<br/>If something is **irksome**, it irritates or annoys you.
