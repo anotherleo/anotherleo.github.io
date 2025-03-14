@@ -1,0 +1,27 @@
+# 荣格与分析心理学
+
+Depth psychology has not yet taken root in China. One can speculate that it has to do with China's rich philosophical and religious traditions dating back 5 000 years. The wisdom inherent in Taoism, Buddhism, and Confucianism has given ample containment for the Chinese psyche throughout history. Many Western philosophers dating back to Leibniz, Schopenhauer, and more recently Nietzsche have been attracted to the philosophies of the East, mainly because they speak to the reality of the inner life and emphasize inner development.
+
+深度心理学到目前尚未能植根于中国。我们可以推测，这与中国5000年的丰富哲学与宗教传统有一定的关系。古往今来，从道教、佛教及儒家学说中继承的智慧，已经给中国人的心灵以充分的滋养。许多西方的哲学家，远至莱布尼兹、叔本华，到较近的尼采，都曾为东方的哲学所深深吸引，主要是因为它们能表达出内在生命的真实性，同时强调了内在的心性发展。
+
+C. G. Jung was one of the first depth psychologists to become seriously interested in these ancient Chinese traditions. He had had a long-standing general interest in the East when he met Richard Wilhelm in 1923 at the "School of Wisdom" in Darmstadt. Wilhelm was a Christian missionary who had spent years in China and had become deeply involved in the study of ancient Chinese texts. Through Wilhelm Jung became deeply involved in the I Ching, and he embarked on a series of experiments with the I Ching to obtain a better understanding of the Chinese psyche. As he put it, "all sorts of undeniably remarkable results [arose with] meaningful connections with my own thought processes which I could not explain to myself."[^1]  It had deeply personal meaning for him and presented him with a theoretical way of seeing the world in terms of the correlations of meaning rather than of scientific cause and effect; these influences led him to develop his theory of synchronicity, or meaningful coincidence.
+
+卡尔·荣格是最早认真思索古代中国传统意义的深度心理学家之一。当他1923年在（德国）达姆斯塔特的“智慧学院”遇到卫礼贤（Richard Wilhelm，又译作理查德·维尔海姆）的时候，已经是充满对东方的兴趣与渴望。卫礼贤是一位基督教传教士，在中国生活多年，并且对中国的古代文献有着深刻的研究。通过卫礼贤，荣格开始潜心于《易经》的研究，并且身体力行于《易经》的操作和实验，以便获得对于中国心灵的更加深入的理解。荣格曾写道：“每次实验都能获得无可否认的出人意料的结果。在我自己的思维过程和《易经》的回应之间，涌现着某种我不能解释的富有意义的联结。”这对于荣格来说具有深刻的个人意义，使他获得了一种用意义联结，而非科学的原因和结果来观察世界的理论方式，从而使其发展出了自己的共时性理论，或者称之为有意义之巧合理论。
+
+In 1928 Wilhelm introduced Jung to The Secret of the Golden Flower for which Jung wrote the commentary. The discovery of this alchemical work represented a major turning point in his life. It constituted, as he put it, "the first event which broke through my isolation" and it provided him with confirmation of the ideas concerning the human psyche in terms of the collective unconscious, archetypes, and individuation. Jung continued throughout his long life to read Chinese philosophical texts as they provided meaningful amplifications to his continually evolving ideas on the nature of the psyche. Jung's writings on Chinese philosophy and religion became known to psychology professor Heyong Shen who received two Fulbright scholarships to study in United States in the early 1990s. While in the United States he made contact with Murray Stein, a Jungian analyst in Chicago, who was serving as honorary secretary of the International Association for Analytical Psychology (IAAP) during my term as president. Dr. Stein encouraged me to visit Professor Shen in China. Together we made an initial visit in 1994. Ten years later Murray Stein is the President of the IAAP and the connections continue.
+
+1928年，卫礼贤把《金花的秘密》（《太乙金华密旨》、《慧命经》）介绍给了荣格，荣格为此撰写了评论。从这一炼金术著作中获得的发现代表着荣格一生的一次重大转变。正如荣格自己所说：其中包含着“使我破茧而出的第一个事件”，它使得荣格确信集体无意识、原型和自性化等关于人类心灵的概念的有效性。荣格一生都持续不断地阅读中国哲学文献，这对于他所发展的关于心灵本质的理论具有深远的意义。荣格关于中国哲学和宗教的著述，吸引了心理学教授申荷永。申荷永在20世纪90年代曾两次获得富布莱特学者奖，在美国深造。在此期间，他与芝加哥的荣格心理分析家默瑞·斯坦（Murray Stein）有了接触。默瑞·斯坦在我任国际分析心理学会（IAAP）主席期间，担任名誉秘书长。斯坦博士鼓励我去中国拜访申荷永教授。与默瑞·斯坦一起，我们在1994年完成了第一次访问。十年之后，默瑞·斯坦接任国际分析心理学会主席，继续与中国保持与发展着联系。
+
+Subsequently Professor Shen had the opportunity to study analytical psychology both in Zürich and in San Francisco, where he was enrolled as International Student for Analytical Psychology (2000—2002), where he had a Jungian analysis, saw clients under Jungian supervision, and attended numerous seminars on analytical psychology. He was elected to individual membership in the IAAP, becoming the first analytical psychologist in China. In addition, he has organized two conferences on the subject of "Analytical Psychology and Chinese Culture", and along with his wife Gao he has held several conferences teaching the technique of sandplay therapy.
+
+1994年之后，申教授获得在瑞士苏黎世和美国旧金山学习分析心理学的机会，曾加入了“分析心理学国际学者”（2000—2002）的项目。他经历了荣格心理分析，在荣格分析师的督导下为来访者做分析性心理治疗，同时参加了无数的关于分析心理学的课程和研讨。他被选和被接受为国际分析心理学会的个人会员，成为中国内地第一位分析心理学家。此外，申荷永 教授曾组织了两届关于“心理分析与中国文化”主题的国际研讨会，与其夫人高岚一起，组织了数次关于沙盘游戏治疗技术的研讨和培训。
+
+Professor Shen began a graduate program in analytical psychology which enrolls students at both the Masters and Ph. D. level upon return to his university position in Guangzhou. In addition to teaching he has written this splendid book on the fundamental aspects of analytical psychology. Professor Shen is the ideal person to introduce Analytical Psychology into modern-day China. The reader will have a chance to comprehend Jung from one who knows Jung both from the East and the West.
+
+申荷永教授返回中国之后，接任其在广州的大学教职，开始了心理分析方向的博士和硕士研究生培养。在教学的基础上，他撰写了这部关于分析心理学基本原理的杰出著作。申荷永教授是把分析心理学传入当代中国的理想人选。通过这位既能从东方也能从西方来理解荣格的作者，读者们会获得一个认识与欣赏荣格的机会。
+
+
+
+托马斯·科茨 (Thomas Kirsch)<br/>国际分析心理学会前任主席<br/>美国斯坦福大学兼职教授、资深荣格心理分析家
+
+[^1]: Jung C G. *Memories, Dreams, Reflections*. recorded and edited by Aniela Jaffe and translated by Clara and Richard Winston. N.Y.: Random House, 1963.
