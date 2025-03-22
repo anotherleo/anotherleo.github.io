@@ -1,0 +1,6 @@
+* [<font size=5>首页</font>](/)
+* [玄学](/metaphysics/)
+* [笔记](/metaphysics/notes/)
+  * [子平八字](/metaphysics/notes/bazi)
+  * [日柱](/metaphysics/notes/day-pillars/)
+  * [时柱](/metaphysics/notes/hour-pillars/)
