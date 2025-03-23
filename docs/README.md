@@ -1,7 +1,5 @@
 # Leo的另一个主页
 
-## Cheat sheet
-
 - 正则表达式：[PDF1](_asset/cheat-sheet/regex1.pdf ':ignore') [PDF2](_asset/cheat-sheet/regex2.pdf ':ignore')
 - 终端：
   - Mac: [Online: terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/) 

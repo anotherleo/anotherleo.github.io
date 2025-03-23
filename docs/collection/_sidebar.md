@@ -1,0 +1,5 @@
+* [<font size=5>首页</font>](/)
+* [收藏](/collection/)
+  * [类型学](/collection/typology)
+  * [运动](/collection/fitness)
+  * [中医](/collection/tcm)

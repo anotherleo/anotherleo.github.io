@@ -7,3 +7,4 @@
 * 其它
   * [IT实践](/IT-practice/)
   * [玄学](/metaphysics/)
+  * [收藏](/collection/)
