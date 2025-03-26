@@ -7,7 +7,7 @@
 - 搜索引擎： [PDF: Google Search Operators](_asset/cheat-sheet/google1.pdf ':ignore') 
 - 英语：[PDF: 雅思、托福总分换算表](_asset/cheat-sheet/english1.pdf ':ignore')
 - 类型学：[WEBP: Bebee模型十六人格八功能排序](_asset/cheat-sheet/bebee1.png.webp  ':ignore')
-- 子平八字：[Online](/others/notes/cheat-sheet)
+- 子平八字：[Online](/metaphysics/notes/cheat-sheet)
 
 ----
 
