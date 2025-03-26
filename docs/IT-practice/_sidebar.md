@@ -3,7 +3,7 @@
 * 机器使用
   * [Linux机器使用](/IT-practice/linux)
   * [网络](/IT-practice/network)
-  * [代理服务器](./proxy)
+  * [代理服务器](/IT-practice/proxy)
   * [常用命令行工具](/IT-practice/tools)
 * 文本处理
   * [正则表达式](/IT-practice/regex)
