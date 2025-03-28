@@ -4,7 +4,8 @@
   * [Linux机器使用](/IT-practice/linux)
   * [网络](/IT-practice/network)
   * [代理服务器](/IT-practice/proxy)
-  * [常用命令行工具](/IT-practice/tools)
+  * [命令行大工具(tools)](/IT-practice/terminal-tools)
+  * [命令行小工具(utils)](/IT-practice/terminal-utils)
 * 文本处理
   * [正则表达式](/IT-practice/regex)
   * [文本编辑器](/IT-practice/editors)
