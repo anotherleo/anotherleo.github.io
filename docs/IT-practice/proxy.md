@@ -36,6 +36,7 @@
   ```bash
   export http_proxy=http://proxy-server:port
   export https_proxy=http://proxy-server:port
+  export socks_proxy=socks5://proxy-server:port
   ```
   - 清除当前shell中的代理：
     ```bash
@@ -88,8 +89,6 @@
          proxy = http://127.0.0.1:7890
   ```
   
-  
-  
 - wget：通过`~/.wgetrc`配置
   ```bash
   echo "use_proxy=yes" >> ~/.wgetrc
@@ -98,6 +97,15 @@
   ```
   
 - curl：在命令中使用`curl -x http://proxy-server:port http://example.com`
+
+- ssh：通过`~/.ssh/config`配置
+
+  ```
+  Host <目标主机名>
+      ProxyCommand nc -X 5 -x <代理服务器地址>:<端口号> %h %p
+  ```
+
+  
 
 
 

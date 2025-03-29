@@ -12,3 +12,5 @@
 * 编程
   * [编译器](/IT-practice/compile)
   * [软件构建](/IT-practice/build)
+* 其它
+  * [常用脚本](/IT-practice/common-script)

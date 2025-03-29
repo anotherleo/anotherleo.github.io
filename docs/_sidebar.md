@@ -4,6 +4,7 @@
 * 书籍与学习笔记
   * [心理分析(荣格心理学)](/analytical-psychology/)
   * [语言](/languages/)
+  * [个人成长](/self-help/)
 * 其它
   * [IT实践](/IT-practice/)
   * [玄学](/metaphysics/)
