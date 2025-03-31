@@ -4,8 +4,8 @@
 * [Word Power Made Easy【Norman Lewis】](/languages/english/lewis1/)
 * PART 1: GETTING OFF TO A GOOD START
   * [1 HOW TO TEST YOUR PRESENT VOCABULARY](/languages/english/lewis1/1)
-  * [2](/languages/english/lewis1/2)
-  * [3](/languages/english/lewis1/3)
+  * [2 HOW TO START BUILDING YOUR VOCABULARY](/languages/english/lewis1/2)
+  * [3 HOW TO TALK ABOUT PERSONALITY TYPES](/languages/english/lewis1/3)
   * [4](/languages/english/lewis1/4)
   * [5](/languages/english/lewis1/5)
   * [6](/languages/english/lewis1/6)
