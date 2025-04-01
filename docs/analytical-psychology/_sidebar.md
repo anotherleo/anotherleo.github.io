@@ -4,4 +4,5 @@
   * [Memories, Dreams, Reflections【Carl Jung】](/analytical-psychology/jung2/)
   * [荣格与分析心理学【申永荷】](/analytical-psychology/shen1/)
   * [Decode Your Personality【Dario Nardi】](/analytical-psychology/nardi1/) 
+  * [类型与原型【John Beebe】](/analytical-psychology/Beebe1/)
 
