@@ -44,7 +44,7 @@
   | Se            | [【刷刷】Se大型专题](https://www.bilibili.com/video/BV1Rg411i7mk)<br />[【骨哥】Se演变史-ESTP和ESFP都享乐主义？荣格说绝对不是](https://www.bilibili.com/video/BV1jJSzYTEsc) |
   | Ti            | [【骨哥】Ti演变史（上）- 荣格定义的Ti](https://www.bilibili.com/video/BV1Yf421D7JS)<br />[【骨哥】Ti演变史（下）- 不同学者Ti描述大不同](https://www.bilibili.com/video/BV1Wb421p7Co)<br />[【刷刷】Ti大型专题](https://www.bilibili.com/video/BV1zj411M73T)<br />[【骨哥】Ti和Ni真的差很远](https://www.bilibili.com/video/BV1Lz421X74t)<br />[【大鹅】Ti精讲](https://www.bilibili.com/video/BV1kTkxYpEUQ) |
   | Te            | [【刷刷】Te大型专题](https://www.bilibili.com/video/BV1vo4y1K7VW)<br />[【大鹅】Te精讲](https://www.bilibili.com/video/BV1jACWY3EX2)<br />[【骨哥】Te演变史·ENTJ/ESTJ的高度理智和被压抑的情感](https://www.bilibili.com/video/BV18AKjeqEs4) |
-  | Fi            | [【骨哥】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR)<br />[【刷刷】Fi大型专题](https://www.bilibili.com/video/BV19v4y1b7uB)<br />[【刷刷】不同位置的Fi对比丨从INFP到ENTJ](https://www.bilibili.com/video/BV1HQ4y1473V) |
+  | Fi            | [【骨哥】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR)<br />[【骨哥】INFP & ISFP的「理性」和「情绪」](https://www.bilibili.com/video/BV1xx421178W)<br />[【刷刷】Fi大型专题](https://www.bilibili.com/video/BV19v4y1b7uB)<br />[【刷刷】不同位置的Fi对比丨从INFP到ENTJ](https://www.bilibili.com/video/BV1HQ4y1473V) |
   | Fe            | [【刷刷】Fe大型专题](https://www.bilibili.com/video/BV16T411n7sW)<br />[【骨哥】INTJ博主对Fe的偏见（ENFJ/ESFJ）](https://www.bilibili.com/video/BV1Hh4y1P7t6) |
 
   <br/>
@@ -77,7 +77,7 @@
   | INTJ | [【骨哥】1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[【骨哥】2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K)<br />[【骨哥】高智商战略家？INTJ隐藏的自我认同焦虑](https://www.bilibili.com/video/BV1aL411y7Mj)<br />[【骨哥】INTJ的完美主义焦虑](https://www.bilibili.com/video/BV1rg4y1d7eE) |
   | INFJ | [【刷刷】“永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[【骨哥】INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[【骨哥】网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[【骨哥】INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[【骨哥】理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[【骨哥】INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)<br />[【Frank James】7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[【Frank James】6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[【Frank James】INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[【Frank James】INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[【Frank James】INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
   | ISTP | [【刷刷】世上终究没有真正的酷哥](https://www.bilibili.com/video/BV1cT411t7eR)<br />[【骨哥】ISTP+INTJ+INTP八维全方位对比人格分析，谁是真正的孤勇者？](https://www.bilibili.com/video/BV18S4y1t7xM) |
-  | ISFP | [【骨哥】ISFP+INFP八维全方位对比人格分析，文艺青年大不同](https://www.bilibili.com/video/BV1kG4y1v7Jo) |
+  | ISFP | [【骨哥】ISFP+INFP八维全方位对比人格分析，文艺青年大不同](https://www.bilibili.com/video/BV1kG4y1v7Jo)<br />[【刷刷】我的心溢出来](https://www.bilibili.com/video/BV12H4y1P7MY)<br />[【骨哥】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR) |
   | ISTJ | [【骨哥】ISTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV1pg411Z7xs)<br />[【刷刷】用时间去证明可靠与深情](https://www.bilibili.com/video/BV1Sm4y1Y7ys) |
   | ISFJ | [【刷刷】我希望你看到的不只是温柔](https://www.bilibili.com/video/BV1hh4y1472t)<br />[【大鹅】霸气侧漏！ISFJ从来不是受气包](https://www.bilibili.com/video/BV1vEKKe2EFY) |
   | ENTP | [【刷刷】“跳脱的智者”](https://www.bilibili.com/video/BV1aB4y117L1)<br />[【骨哥】ENTP小恶魔确实有理论依据？（含镜像人格概念）](https://www.bilibili.com/video/BV1w24y1D7Yq)<br />[【骨哥】ENTP在大多数权威著作里都不是杠精](https://www.bilibili.com/video/BV1Pc411v7B2) |
@@ -157,4 +157,50 @@
 
 ## 文章/问答
 
+| 类型 | 文章/问答                                                    |
+| ---- | ------------------------------------------------------------ |
+| INTP |                                                              |
+| INFP |                                                              |
+| INTJ | [从相似性来说INTJ是与ENTJ更相似还是与INFJ更相似？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/494394981/answer/2723228898)<br/> |
+| INFJ | [现实中的INFJ是怎么样的？ - 没落园的回答 - 知乎](https://www.zhihu.com/question/549272292/answer/3635320419)<br/>[ISFP和INFJ相处会很矛盾吗？ - 張子佾的回答 - 知乎](https://www.zhihu.com/question/276094321/answer/386254645)<br/>[INFJ的神秘主义和气质有何特殊之处？ - 成哲夫的回答 - 知乎](https://www.zhihu.com/question/61184691/answer/187124696)<br/>[INFJ的性格内核——矛盾 - 宫野小褐的文章 - 知乎](https://zhuanlan.zhihu.com/p/511503897)<br/>[各位 INFJ 的动力都是从哪里来? - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/563796478/answer/2738909144)<br/>[infj会Se失控吗? - Bogie的回答 - 知乎](https://www.zhihu.com/question/460089891/answer/3146459294)<br/>[从相似性来说INTJ是与ENTJ更相似还是与INFJ更相似？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/494394981/answer/2723228898)<br/> |
+| ISTP |                                                              |
+| ISFP | [ISFP和INFJ相处会很矛盾吗？ - 張子佾的回答 - 知乎](https://www.zhihu.com/question/276094321/answer/386254645) |
+| ISTJ |                                                              |
+| ISFJ |                                                              |
+| ENTP |                                                              |
+| ENFP |                                                              |
+| ENTJ |                                                              |
+| ENFJ |                                                              |
+| ESTP |                                                              |
+| ESFP |                                                              |
+| ESTJ |                                                              |
+| ESFJ |                                                              |
+
+| 认知过程 | 文章/问答                                                    |
+| -------- | ------------------------------------------------------------ |
+| Ni       | [超简大白话-鹅译版《心理类型》—— Ni篇 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/611194572)<br/> |
+| Ne       |                                                              |
+| Ti       | [超简大白话-鹅译版《心理类型》—— Ti篇 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/613274314)<br/> |
+| Te       |                                                              |
+| Fi       | [超简大白话-鹅译版《心理类型》—— Fi篇 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/613153469)<br/> |
+| Fe       |                                                              |
+| Si       | [超简大白话-鹅译版《心理类型》—— Si篇 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/611596846)<br/> |
+| Se       |                                                              |
+
+OPS：
+
+- [MBTI新体系OPS（一） - 客观人格分类体系简介 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/570185920)
+- [MBTI新体系OPS（二）- 优势功能vs劣势功能 Savior vs Demon - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/570194184)
+- [MBTI新体系OPS（三）- 人类需求分类 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/570266601)
+- [MBTI新体系OPS（四）- 判断主导vs感知主导简述 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/570267170)
+- [如何区分Te和Ti——实例分析（OPS体系） - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/573979563)
+- [如何区分Fe和Fi——实例分析（OPS体系） - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/576322112)
+- [如何区分Ne和Ni——实例分析（OPS体系） - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/580238496)
+- [自判易全反？慕4？—— 劣势功能的炫耀性 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/590770619)
+- [客观再观察 - OPS体系下的荣格八维 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/590905612)
+
+其它：
+
 - [INFP Fi主导的共情能力是怎么运作的，和INFJ Fe的共情有什么差别？ - 知乎](https://www.zhihu.com/question/380932929/answer/2220366957)
+- [Ni使用者对Ni的个人主观体验分享 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/552814929)
+
