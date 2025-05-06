@@ -2,11 +2,14 @@
 * 我的想法
   * [想法](/thoughts/)
 * 书籍与学习笔记
+  * [学术研究](/research/)
   * [心理分析(荣格心理学)](/analytical-psychology/)
   * [语言](/languages/)
   * [个人成长](/self-help/)
   * [传统文化](/tradition/)
+  * [中医](/tcm/)
+  * [玄学](/metaphysics/)
 * 其它
   * [IT实践](/IT-practice/)
-  * [玄学](/metaphysics/)
   * [收藏](/collection/)
+  * [经验](/tips/)

@@ -1,7 +1,8 @@
 # 类型学
 
-## 频道
+## 视频
 
+频道：
 - Bilibili：[狐狸刷刷的类型学](https://space.bilibili.com/1869592347)（刷刷：ISTP）
 - Bilibili：[骨哥说](https://space.bilibili.com/1512455827)（骨哥：INTJ）
 - Bilibili：[说人话的OPS](https://space.bilibili.com/3546816048007765)（大鹅：ENTJ *or* FM-Te/Ni-BP/S(C)）(Also on [知乎](https://www.zhihu.com/people/gioeleli-wei-zheng))
@@ -9,14 +10,12 @@
 - Youtube: [Frank James](https://www.youtube.com/@FrankJames) （Frank James：INFJ）
 - Youtube: [Objective Personality](https://www.youtube.com/@ObjectivePersonality)
 
-## 视频
 
-- 入坑MBTI前了解
-  - [【骨哥】MBTI真的是伪科学吗？一次性总结十六型人格测试六大争议！](https://www.bilibili.com/video/BV1EZ4y117ju)
-  - [【刷刷】也许你一直误解了MBTI——荣格与科学的“试管婴儿”](https://www.bilibili.com/video/BV1kR4y1C7zo)
-  - [【刷刷】MBTI真相，99.99%的人都不知道……拜托来看看！（声嘶力竭）](https://www.bilibili.com/video/BV1jB4y1U7B4)
-  - [【雪力】"MBTI科學嗎？腦神經科學家談MBTI 和四種子類型 ft. Dario Nardi博士"](https://www.bilibili.com/video/BV15T4y1W7Bk)
-  
+入坑MBTI前了解：
+- [【骨哥】MBTI真的是伪科学吗？一次性总结十六型人格测试六大争议！](https://www.bilibili.com/video/BV1EZ4y117ju)
+- [【刷刷】也许你一直误解了MBTI——荣格与科学的“试管婴儿”](https://www.bilibili.com/video/BV1kR4y1C7zo)
+- [【刷刷】MBTI真相，99.99%的人都不知道……拜托来看看！（声嘶力竭）](https://www.bilibili.com/video/BV1jB4y1U7B4)
+- [【雪力】"MBTI科學嗎？腦神經科學家談MBTI 和四種子類型 ft. Dario Nardi博士"](https://www.bilibili.com/video/BV15T4y1W7Bk)
 - 四个维度的介绍
 
   | 维度 | 视频                                                         |
@@ -26,14 +25,12 @@
   | T/F  | [【刷刷】T 和 F 到底啥区别](https://www.bilibili.com/video/BV1Ur4y1u77B)<br />[【大鹅】T人和F人的区别](https://www.bilibili.com/video/BV11RPVe7EKE) |
   | J/P  | [【刷刷】最最深的J/P识别，真不是做不做计划！来监控你的脑子!](https://www.bilibili.com/video/BV18t4y1t7L2)<br />[【骨哥】最简洁清晰的J-P维度和荣格八维关系讲解](https://www.bilibili.com/video/BV1Le4y187tT) |
 
-  <br/>
-
 - 荣格八维
   - [【骨哥】MBTI荣格八维模型中的「原型」概念你接受吗？](https://www.bilibili.com/video/BV1G841177h8)
   - [【骨哥】MBTI荣格八维阴影功能详解｜告诉你五六功能为何爆表](https://www.bilibili.com/video/BV1z84y1C7i6)
   - [【骨哥】INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)
   - [【大鹅】OPS类型学简介](https://www.bilibili.com/video/BV145qAYDE8v)
-  
+
 - 8个认知过程/类型(types)
 
   | 认知过程/类型 | 视频                                                         |
@@ -47,10 +44,8 @@
   | Fi            | [【骨哥】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR)<br />[【骨哥】INFP & ISFP的「理性」和「情绪」](https://www.bilibili.com/video/BV1xx421178W)<br />[【刷刷】Fi大型专题](https://www.bilibili.com/video/BV19v4y1b7uB)<br />[【刷刷】不同位置的Fi对比丨从INFP到ENTJ](https://www.bilibili.com/video/BV1HQ4y1473V) |
   | Fe            | [【刷刷】Fe大型专题](https://www.bilibili.com/video/BV16T411n7sW)<br />[【骨哥】INTJ博主对Fe的偏见（ENFJ/ESFJ）](https://www.bilibili.com/video/BV1Hh4y1P7t6) |
 
-  <br/>
-
 - 8种原型(archetypes)
-  
+
   | 原型                           | 视频                                                         |
   | ------------------------------ | ------------------------------------------------------------ |
   | 1. 主导/英雄                   |                                                              |
@@ -61,13 +56,11 @@
   | 6. 批判(Critical)/长老(Witch)  |                                                              |
   | 7. 盲点/小丑(Trickster)        | [【骨哥】16人格第七功能并不盲？小丑原型深度讲解](https://www.bilibili.com/video/BV1QK421e78S) |
   | 8. 恶魔(Demon)                 |                                                              |
-  
-  <br/>
-  
+
 - 双高
   - [【骨哥】Ni和Ne可以双高吗？INTJ/INFJ/ENTP/ENFP的根本冲突](https://www.bilibili.com/video/BV1GV4y167zu)
   - [【骨哥】INTP/INFP/ISTP/ISFP的Ti和Fi「双高」问题一次讲清](INTP/INFP/ISTP/ISFP的Ti和Fi「双高」问题一次讲清)
-  
+
 - 16型人格
 
   | 类型 | 视频                                                         |
@@ -89,27 +82,24 @@
   | ESTJ |                                                              |
   | ESFJ | [【骨哥】ESFJ全方位专业人格分析](https://www.bilibili.com/video/BV1ig4y1P7wU)<br />[【刷刷】我愿做那冬日的暖阳，换来你的冰雪融化](https://www.bilibili.com/video/BV1WN411Y7Ah) |
 
-  <br/>
-
 - 相似类型
-  <br/>
-
+  
   | 类型(E/I)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
   | ENTJ & INTJ | [【骨哥说✖️雪力】我们习惯强悍的人设，却忘了脆弱的力量](https://www.bilibili.com/video/BV1Md1sYrEJr) |
   | ENFJ & INFJ | [【Frank James】INFJ vs ENFJ? How to Tell the Difference](https://www.bilibili.com/video/BV1Bv411i77t) |
   |             |                                                              |
   |             |                                                              |
-
-  <br/>
-
+  
+  
+  
   | 类型(F/T)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
   | INFJ & INTJ | [【Frank James】INTJ vs INFJ: Telling the Difference](https://www.bilibili.com/video/BV1tJ411c7jM)<br />[【Frank James】Se在第四功能是什么样](https://www.bilibili.com/video/BV1pN4y1G7fT) |
   |             |                                                              |
-
-  <br/>
-
+  
+  
+  
   | 类型(N/S)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
   | ISFJ & INFJ | [【骨哥】被低估的ISFJ & 被误解的INFJ](https://www.bilibili.com/video/BV1ev4y1R7kM) |
@@ -117,19 +107,18 @@
   | ENFJ & ESFJ | [【骨哥】INTJ博主对Fe的偏见（ENFJ/ESFJ）](https://www.bilibili.com/video/BV1Hh4y1P7t6) |
   |             |                                                              |
   |             |                                                              |
-
-  <br/>
-
+  
+  
+  
   | 类型(P/J)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
   | INFP & INFJ | [【Frank James】INFJ vs INFP Different Struggle](https://www.bilibili.com/video/BV1di4y1C7jt) |
   | INTP & INTJ | [【骨哥】INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU) |
   |             |                                                              |
   |             |                                                              |
-
-  <br/>
-
+  
 - 16型人格杂项
+  
   - [【骨哥】会把MBTI十六型人格逼疯的工作](https://www.bilibili.com/video/BV1M14y1V71F)
   - [【骨哥】MBTI爱情和友情官方数据，打了荣格八维理论的脸，吗？](https://www.bilibili.com/video/BV1u84y1y7Fu)
   - [【骨哥】不同专家对16人格首尾字母组合研究对比](https://www.bilibili.com/video/BV1vG41167qQ)
@@ -138,7 +127,7 @@
   - [【Dario Nardi】"Neuroscience of Personality" at Google](https://youtu.be/MGfhQTbcqmA?feature=shared)
   - [【Dario Nardi】"Neurosciences et Typologie"](https://youtu.be/vbtE7fpUbpQ?feature=shared), in English
   - [【雪力】"MBTI科學嗎？腦神經科學家談MBTI 和四種子類型 ft. Dario Nardi博士"](https://www.bilibili.com/video/BV15T4y1W7Bk)
-  
+
 - 其它
   - [【骨哥】内部互撕？MBTI各种流派大梳理+书单推荐!](https://www.bilibili.com/video/BV1Ye4y1t75b)
   - [荣格：分析心理学、用算卦治病、雌雄同体、叛徒、人格分裂、共时性、最讨厌数学课的大师…《荣格自传》](https://www.bilibili.com/video/BV1WU411f7X9)
@@ -160,9 +149,9 @@
 | 类型 | 文章/问答                                                    |
 | ---- | ------------------------------------------------------------ |
 | INTP |                                                              |
-| INFP |                                                              |
+| INFP | [infp的傲慢和infj的傲慢有什么区别？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/559903546/answer/2720987913)<br />[INFP Fi主导的共情能力是怎么运作的，和INFJ Fe的共情有什么差别？ - 知乎](https://www.zhihu.com/question/380932929/answer/2220366957) |
 | INTJ | [从相似性来说INTJ是与ENTJ更相似还是与INFJ更相似？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/494394981/answer/2723228898)<br/> |
-| INFJ | [现实中的INFJ是怎么样的？ - 没落园的回答 - 知乎](https://www.zhihu.com/question/549272292/answer/3635320419)<br/>[ISFP和INFJ相处会很矛盾吗？ - 張子佾的回答 - 知乎](https://www.zhihu.com/question/276094321/answer/386254645)<br/>[INFJ的神秘主义和气质有何特殊之处？ - 成哲夫的回答 - 知乎](https://www.zhihu.com/question/61184691/answer/187124696)<br/>[INFJ的性格内核——矛盾 - 宫野小褐的文章 - 知乎](https://zhuanlan.zhihu.com/p/511503897)<br/>[各位 INFJ 的动力都是从哪里来? - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/563796478/answer/2738909144)<br/>[infj会Se失控吗? - Bogie的回答 - 知乎](https://www.zhihu.com/question/460089891/answer/3146459294)<br/>[从相似性来说INTJ是与ENTJ更相似还是与INFJ更相似？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/494394981/answer/2723228898)<br/> |
+| INFJ | [现实中的INFJ是怎么样的？ - 没落园的回答 - 知乎](https://www.zhihu.com/question/549272292/answer/3635320419)<br/>[ISFP和INFJ相处会很矛盾吗？ - 張子佾的回答 - 知乎](https://www.zhihu.com/question/276094321/answer/386254645)<br/>[INFJ的神秘主义和气质有何特殊之处？ - 成哲夫的回答 - 知乎](https://www.zhihu.com/question/61184691/answer/187124696)<br/>[INFJ的性格内核——矛盾 - 宫野小褐的文章 - 知乎](https://zhuanlan.zhihu.com/p/511503897)<br/>[各位 INFJ 的动力都是从哪里来? - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/563796478/answer/2738909144)<br/>[infj会Se失控吗? - Bogie的回答 - 知乎](https://www.zhihu.com/question/460089891/answer/3146459294)<br/>[从相似性来说INTJ是与ENTJ更相似还是与INFJ更相似？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/494394981/answer/2723228898)<br/>  [infp的傲慢和infj的傲慢有什么区别？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/559903546/answer/2720987913)<br />[INFP Fi主导的共情能力是怎么运作的，和INFJ Fe的共情有什么差别？ - 知乎](https://www.zhihu.com/question/380932929/answer/2220366957) |
 | ISTP |                                                              |
 | ISFP | [ISFP和INFJ相处会很矛盾吗？ - 張子佾的回答 - 知乎](https://www.zhihu.com/question/276094321/answer/386254645) |
 | ISTJ |                                                              |
@@ -201,6 +190,15 @@ OPS：
 
 其它：
 
-- [INFP Fi主导的共情能力是怎么运作的，和INFJ Fe的共情有什么差别？ - 知乎](https://www.zhihu.com/question/380932929/answer/2220366957)
+- [中国mbti类型isxp和isxj哪个更为常见？我国人口中的sj比例是否远超欧美数据？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/413520152/answer/2826183481)
 - [Ni使用者对Ni的个人主观体验分享 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/552814929)
+- [荣格八维：从本质到核心表象，再到无效刻板印象 - 说人话的大鹅的文章 - 知乎](https://zhuanlan.zhihu.com/p/605325483)
+
+## 名人类型
+
+| Name                                  | Links                                                        |
+| ------------------------------------- | ------------------------------------------------------------ |
+| Elon Musk<br />INTP, FF-Ti/Si-SC/P(B) | [你们认为 elon musk 埃隆马斯克是哪种MBTI 人格？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/441313666/answer/2864237837)<br/> |
+|                                       |                                                              |
+|                                       |                                                              |
 

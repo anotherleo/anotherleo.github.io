@@ -1,6 +1,6 @@
 * [<font size=5>首页</font>](/)
 * [个人成长](/self-help/)
-* [Deep Work：Rules for focused success in a distracted world【Cal Newport】](/self-help/newport1/)
+* [Deep Work【Cal Newport】](/self-help/newport1/)
 * PART1: The Idea
   * [Ch1. Deep Work Is Valuable](/self-help/newport1/1)
   * [Ch2. Deep Work Is Rare](/self-help/newport1/2)
