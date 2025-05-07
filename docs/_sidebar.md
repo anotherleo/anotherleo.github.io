@@ -1,8 +1,10 @@
 * [<font size=5>首页</font>](/)
 * 我的想法
   * [想法](/thoughts/)
-* 书籍与学习笔记
+* 学术
   * [学术研究](/research/)
+  * [论文仓库](/paper/)
+* 书籍与学习笔记
   * [心理分析(荣格心理学)](/analytical-psychology/)
   * [语言](/languages/)
   * [个人成长](/self-help/)
