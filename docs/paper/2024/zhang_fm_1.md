@@ -27,6 +27,40 @@ The remainder of this paper is organized as follows.
 
 The source code for our tool, along with the benchmarks, is available in [50], which also includes a long version of the paper containing all missing proofs, design choices, implementation details, and additional experimental results.
 
+## Preliminaries
+
+### Review of DeepPoly
+
+The core idea of DeepPoly is to (approximately) represent the transformation of each layer using an abstract transformer, and compute lower/upper bounds for the output of each neuron. 
+
+- Fix a neuron $\mathbf{x}_{j}^{i}$, its **abstract element** $\mathcal{A}_{j}^{i,\#}$ is given by a tuple $⟨a_{j}^{i,\leq}, a_{j}^{i,\geq}, l_{j}^{i}, u_{j}^{i}⟩$, where 
+  - (1) $a_{j}^{i,\leq}$ (resp. ${a_{j}^{i,\geq}}$) is a **symbolic** **lower** (resp. **upper**) **bound** in the form of a **linear combination** of variables from its preceding layers, 
+  - (2) $l_{j}^{i}$ (resp. $u_{j}^{i}$) is the **concrete** **lower** (resp. **upper**) **bound** of $\mathbf{x}_{j}^{i}$.
+- We denote by $a^{i,\leq}$ (resp. $a^{i,\geq}$) the vector of symbolic bounds $a_{j}^{i,\leq}$  (resp. $a_{j}^{i,\geq}$) of the neurons $\mathbf{x}_{j}^{i}$’s in the $i$-th layer.
+- The **concretization** of $\mathcal{A}_{j}^{i,\#}$ is defined as: $γ(\mathcal{A}_{j}^{i,\#}) = \{\mathbf{x}_{j}^{i} ∈ \mathbb{R} | a_{j}^{i,\leq} ≤ \mathbf{x}_{j}^{i} ≤ {a_{j}^{i,\geq}} \}$.
+
+By repeatedly substituting each variable $\mathbf{x}_{j'}^{i'}$ in $a_{j}^{i,\leq}$ (resp. ${a_{j}^{i,\geq}}$) using $a_{j'}^{i',\leq}$ or ${a_{j'}^{i',\geq}}$ according to the coefficient of $\mathbf{x}_{j'}^{i'}$, until no further substitution is possible, $a_{j}^{i,\leq}$ (resp. ${a_{j}^{i,\geq}}$) will be a linear combination over the input variables of the DNN.
+
+- We denote by $f_{j}^{i,\leq}$  and $f_{j}^{i,\geq}$ the resulting linear combinations of $a_{j}^{i,\leq}$ and ${a_{j}^{i,\geq}}$ .
+- Then, the concrete lower bound $l_{j}^{i}$ (resp. concrete upper bound $u_{j}^{i}$) of the neuron $\mathbf{x}_{j}^{i}$ can be derived  using the input region $\mathcal{I}$ and $f_{j}^{i,\leq}$ (resp. $f_{j}^{i,\geq}$).
+- All the abstract elements $\mathcal{A}_{j}^{i,\#}$ are required to satisfy the domain invariant: $γ(\mathcal{A}_{j}^{i,\#})  ⊆ [l_{j}^{i}, u_{j}^{i}]$.
+- For an affine function $\mathbf{x}^i = \mathbf{W}^{i}\mathbf{x}^{i−1} + \mathbf{b}^i$,  the abstract affine transformer sets $a_{j}^{i,\leq} = {a_{j}^{i,\geq}} = \mathbf{W}^{i}\mathbf{x}^{i−1} + \mathbf{b}^i$.
+
+Given the abstract element $\mathcal{A}_{j}^{i,\#} = ⟨a_{j}^{i,\leq}, a_{j}^{i,\geq}, l_{j}^{i}, u_{j}^{i}⟩$ of the neuron $\mathbf{x}_{j}^{i}$ , $\mathcal{A}_{j}^{i+1,\#}$ of the neuron $\mathbf{x}_{j}^{i+1} = \mathrm{ReLU}(\mathbf{x}_{j}^{i})$ have three cases as follows (where $λ_{j}^{i} = \displaystyle \frac{u_{j}^{i} }{u_{j}^{i} − l_{j}^{i}}$): 
+
+1. if  $l_{j}^{i} ≥ 0$, then $a_{j}^{i+1,\leq} = a_{j}^{i+1,\geq} = \mathbf{x}_{j}^{i}$ , $l_{j}^{i+1} = l_{j}^{i} , u_{j}^{i+1} = u_{j}^{i}$;
+2. if $u_{j}^{i} ≤ 0$, then  $a_{j}^{i+1,\leq} = a_{j}^{i+1,\geq} = l_{j}^{i+1} = u_{j}^{i+1}= 0$;
+3. if $l_{j}^{i} u_{j}^{i} < 0$, then $a_{j}^{i+1,\geq} = λ_{j}^{i} (x_{j}^{i} − λ_{j}^{i})$,  $a_{j}^{i+1,\leq} = κ · x_{j}^{i}$, where $κ ∈ \{0, 1\}$ such that 
+   1. the area of resulting shape by $a_{j}^{i+1,\leq}$ and $a_{j}^{i+1,\geq}$ is minimal, 
+   2. $l_{j}^{i+1} = κ · l_{j}^{i}$ and 
+   3. $u_{j}^{i+1} = u_{j}^{i}$.
+
+?> case 1和case 2不完全disjoint，case 3则跟case 1和case 2的disjoint。
+
+## Our Approach
+
+
+
 ## Related Work
 
 Numerous methods have been proposed to verify (local) robustness of DNNs (e.g., [7,10,17,40,45,47]) and QNNs (e.g., [9,12,14,19,52–54]). Recently, backdoorfreeness verification for DNNs has been explored leveraging a similar hypothesis testing method [37]. Methods for verifying quantization error bound [30,35,36,51] and Top-1 equivalence [16] between DNNs and QNNs have also been proposed. Except for [16], these works only verify properties without adjusting quantization strategies for falsified properties. The concurrent work [16] iteratively searches for a quantization strategy and verifies Top-1 equivalence after quantization, refining strategies if equivalence is violated. However, it does not support general properties (e.g., backdoor freeness or robustness of multi-label classification [6]). Additionally, [16] requires frequent equivalence verification, which is computationally expensive and inefficient (e.g., networks with 100 neurons in 20 minutes). Comparison experiments are given in [50].

@@ -6,15 +6,15 @@
 
 ## QNN
 
-- [TCAD'24 Counterexample Guided Neural Network  Quantization Refinement](/paper/2024/matos_tcad_1)
-- 
+- [TCAD'24 Counterexample Guided Neural Network Quantization Refinement](/paper/2024/matos_tcad_1)
+- [FM'24 Certified Quantization Strategy Synthesis for Neural Networks](/paper/2024/zhang_fm_1)
 
 ## Verification (object)
 
 ### QNN
 
 - [OOPSLA'25 Verification of Bit-Flip Attacks against Quantized Neural Networks](/paper/2025/zhang_oopsla_1)
-- [SAIV'24 Parallel Verification for $δ$-Equivalence of  Neural Network Quantization](/paper/2024/huang_saiv_1)
+- [SAIV'24 Parallel Verification for $δ$-Equivalence of Neural Network Quantization](/paper/2024/huang_saiv_1)
 - [AAAI'24 Towards Efficient Verification of Quantized Neural Networks](/paper/2024/huang_aaai_1)
 - [CAV'23 QEBVerif: Quantization Error Bound Verification of Neural Networks](/paper/2023/zhang_cav_1)
 - [ASE'22 QVIP: An ILP-based Formal Verification Approach for Quantized Neural Networks](/paper/2022/zhang_ase_1)
