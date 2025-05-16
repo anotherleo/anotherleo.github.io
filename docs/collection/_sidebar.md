@@ -1,6 +1,7 @@
 * [<font size=5>首页</font>](/)
 * [收藏](/collection/)
   * [类型学](/collection/typology)
+  * [神经网络](/collection/nn)
   * [访谈](/collection/interviews)
   * [运动](/collection/fitness)
   * [中医](/collection/tcm)
