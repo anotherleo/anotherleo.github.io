@@ -2,3 +2,5 @@
 * [个人成长](/self-help/)
   * [Deep Work【Cal Newport】](/self-help/newport1/)
   * [The Time-Block Planner【Cal Newport】](/self-help/newport2/)
+  * 正念
+    * [Full Catastrophe Living【Jon Kabat-Zinn】](/self-help/kabat1/)

@@ -65,49 +65,74 @@
 
 有些软件可能不走环境变量的代理，或者需要单独走代理，此时需要为其单独配置代理。
 
-- apt：在`/etc/apt/apt.conf.d/95proxies`中添加以下内容
-  
+#### apt
+
+- 在`/etc/apt/apt.conf.d/95proxies`中添加以下内容
+
   ```bash
   Acquire::http::Proxy "http://proxy-server:port";
   Acquire::https::Proxy "http://proxy-server:port";
   ```
-  
-- Git：使用以下命令
-  
+
+#### Git
+
+- 使用以下命令
+
   ```bash
   git config --global http.proxy http://proxy-server:port
   git config --global https.proxy http://proxy-server:port
   ```
-  
+
   或者修改配置文件：
-  
+
   - 全局配置文件：`~/.gitconfig`
   - 当前仓库配置文件：`.git/config`
-  
+
   ```
   [http]
          proxy = http://127.0.0.1:7890
   ```
-  
-- wget：通过`~/.wgetrc`配置
+
+#### wget
+
+- 临时使用
+
+  ```bash
+  wget -e use_proxy=yes -e http_proxy=http://proxy-server:port -e https_proxy=http://proxy-server:port <target_url>
+  ```
+
+- 配置：`~/.wgetrc`
+
   ```bash
   echo "use_proxy=yes" >> ~/.wgetrc
   echo "http_proxy=http://proxy-server:port" >> ~/.wgetrc
   echo "https_proxy=http://proxy-server:port" >> ~/.wgetrc
   ```
-  
-- curl：在命令中使用`curl -x http://proxy-server:port http://example.com`
 
-- ssh：通过`~/.ssh/config`配置
+#### curl
+
+- 在命令中使用`curl -x http://proxy-server:port http://example.com`
+
+#### ssh
+
+- 通过`~/.ssh/config`配置
 
   ```
   Host <目标主机名>
-      ProxyCommand nc -X 5 -x <代理服务器地址>:<端口号> %h %p
+      ProxyCommand nc -X 5 -x <proxy-server>:<port> %h %p
+  ```
+
+### 其它
+
+- Python程序下载数据集：可以直接在代码中设置环境变量
+
+  ```python
+  import os
+  os.environ['HTTP_PROXY'] = 'http://your_proxy_address:port'
+  os.environ['HTTPS_PROXY'] = 'http://your_proxy_address:port'
   ```
 
   
-
-
 
 ## WSL2
 
@@ -162,4 +187,5 @@ Daemon的代理配置见[Daemon proxy configuration](https://docs.docker.com/eng
 
 ---
 [^1]: Use a proxy server with the Docker CLI: https://docs.docker.com/engine/cli/proxy/
+
 [^2]: http://mirror.nju.edu.cn/

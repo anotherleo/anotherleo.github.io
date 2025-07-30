@@ -12,3 +12,21 @@
 
 - 分离当前会话：前缀键+`d`
 - 创建新的窗口：前缀键+`c`
+
+## `git`
+
+- 设置用户信息（单个仓库）
+
+  ```
+  git config user.name "Your Name"
+  git config user.email "your.email@example.com"
+  ```
+
+  当多人共享一台服务器时，比较适合这个操作。
+
+- 设置用户信息（全局）
+
+  ```
+  git config --global user.name "Your Name"
+  git config --global user.email "your.email@example.com"
+  ```

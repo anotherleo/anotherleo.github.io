@@ -68,7 +68,7 @@
   | INTP | [【骨哥】INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU)<br />[【骨哥】INTP的「社恐」与「情绪」（含INTJ对比）](https://www.bilibili.com/video/BV1G841197P5) |
   | INFP | [【刷刷】INFP “愿望的力量”](https://www.bilibili.com/video/BV1Em4y1R7ki)<br />[【骨哥】INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN)<br />[【刷刷】鉴定infp网络热门memes，这图你给几分](https://www.bilibili.com/video/BV1UG4y1476r)<br />[【骨哥】INFP的疯狂与荒诞（盲点/小丑Se）](https://www.bilibili.com/video/BV1Az421Z757)<br />[【大鹅】惧怕人群的INFP，社恐的真实原因](https://www.bilibili.com/video/BV1ZqfEYiEkV)<br />[【骨哥】INFP：对抗的是这个世界，还是对抗的是自我？](https://www.bilibili.com/video/BV1xM9mYHEZi) |
   | INTJ | [【骨哥】1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[【骨哥】2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K)<br />[【骨哥】高智商战略家？INTJ隐藏的自我认同焦虑](https://www.bilibili.com/video/BV1aL411y7Mj)<br />[【骨哥】INTJ的完美主义焦虑](https://www.bilibili.com/video/BV1rg4y1d7eE) |
-  | INFJ | [【刷刷】“永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[【骨哥】INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[【骨哥】网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[【骨哥】INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[【骨哥】理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[【骨哥】INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)<br />[【Frank James】7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[【Frank James】6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[【Frank James】INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[【Frank James】INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[【Frank James】INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
+  | INFJ | [【刷刷】“永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[【骨哥】INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[【骨哥】网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[【骨哥】INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[【骨哥】理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[【骨哥】INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)<br />【Frank James】7 Signs You're an Unhealthy INFJ [Bilibili](https://www.bilibili.com/video/BV13Q4y167SX)<br />【Frank James】6 Ways to be a Healthier INFJ [Bilibili](https://www.bilibili.com/video/BV12f4y1w7r1)<br />【Frank James】INFJ: 3 Self-Motivation Secrets [Bilibili](https://www.bilibili.com/video/BV1e44y1e7ej)<br />【Frank James】INFJ Career Advice: 4 Things You Need to be Fulfilled [Bilibili](https://youtu.be/zgxN6GaiGbE?feature=shared)<br /> 【Frank James】INFJ Perfectionist Paralysis [Bilibili](https://www.bilibili.com/video/BV1uU4y1F7Jr)<br /> 【Frank James】INFJ Relationships: What INFJs Need in a Partner [Bilibili](https://www.bilibili.com/video/BV14t4y1Q7JX)<br />【Frank James】INFJ: 10 Reasons Why You're Still Single [Bilibili](https://www.bilibili.com/video/BV1ZK4y1s7vE)<br />【Frank James】Why the INFJ Ruins Relationships [Bilibili](https://www.bilibili.com/video/BV1ZK4y1s7vE)<br />【Frank James】How to Get Over A Crush and Stop Obsessing [Bilibili](https://www.bilibili.com/video/BV1ct4y1S7wn) |
   | ISTP | [【刷刷】世上终究没有真正的酷哥](https://www.bilibili.com/video/BV1cT411t7eR)<br />[【骨哥】ISTP+INTJ+INTP八维全方位对比人格分析，谁是真正的孤勇者？](https://www.bilibili.com/video/BV18S4y1t7xM) |
   | ISFP | [【骨哥】ISFP+INFP八维全方位对比人格分析，文艺青年大不同](https://www.bilibili.com/video/BV1kG4y1v7Jo)<br />[【刷刷】我的心溢出来](https://www.bilibili.com/video/BV12H4y1P7MY)<br />[【骨哥】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR) |
   | ISTJ | [【骨哥】ISTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV1pg411Z7xs)<br />[【刷刷】用时间去证明可靠与深情](https://www.bilibili.com/video/BV1Sm4y1Y7ys) |
@@ -87,7 +87,7 @@
   | 类型(E/I)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
   | ENTJ & INTJ | [【骨哥说✖️雪力】我们习惯强悍的人设，却忘了脆弱的力量](https://www.bilibili.com/video/BV1Md1sYrEJr) |
-  | ENFJ & INFJ | [【Frank James】INFJ vs ENFJ? How to Tell the Difference](https://www.bilibili.com/video/BV1Bv411i77t) |
+  | ENFJ & INFJ | 【Frank James】INFJ vs ENFJ? How to Tell the Difference [Youtube](https://www.youtube.com/watch?v=Rey1Fp5a5mI) [Bilibili](https://www.bilibili.com/video/BV1Bv411i77t) |
   |             |                                                              |
   |             |                                                              |
   
@@ -95,7 +95,7 @@
   
   | 类型(F/T)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
-  | INFJ & INTJ | [【Frank James】INTJ vs INFJ: Telling the Difference](https://www.bilibili.com/video/BV1tJ411c7jM)<br />[【Frank James】Se在第四功能是什么样](https://www.bilibili.com/video/BV1pN4y1G7fT) |
+  | INFJ & INTJ | 【Frank James】INTJ vs INFJ: Telling the Difference [Youtube](https://www.youtube.com/watch?v=LeWEYuH_Zmc) [Bilibili](https://www.bilibili.com/video/BV1tJ411c7jM)<br />【Frank James】What it's like to have Inferior Extraverted Sensing [Youtube](https://www.youtube.com/watch?v=p_f6gf0a0i4) [Bilibili](https://www.bilibili.com/video/BV1pN4y1G7fT) |
   |             |                                                              |
   
   
@@ -112,7 +112,7 @@
   
   | 类型(P/J)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
-  | INFP & INFJ | [【Frank James】INFJ vs INFP Different Struggle](https://www.bilibili.com/video/BV1di4y1C7jt) |
+  | INFP & INFJ | 【Frank James】INFJ vs INFP Different Struggle [Youtube](https://www.youtube.com/watch?v=Jt2vbPrsbj4) [Bilibili](https://www.bilibili.com/video/BV1di4y1C7jt) |
   | INTP & INTJ | [【骨哥】INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU) |
   |             |                                                              |
   |             |                                                              |
@@ -199,6 +199,6 @@ OPS：
 | Name                                  | Links                                                        |
 | ------------------------------------- | ------------------------------------------------------------ |
 | Elon Musk<br />INTP, FF-Ti/Si-SC/P(B) | [你们认为 elon musk 埃隆马斯克是哪种MBTI 人格？ - 说人话的大鹅的回答 - 知乎](https://www.zhihu.com/question/441313666/answer/2864237837)<br/> |
-|                                       |                                                              |
+| Frank James INFJ, FF-Ni/Fe-BS/C(P)    | Interview with Frank James [Youtube](https://www.youtube.com/watch?v=_9UdHZJaxeM) |
 |                                       |                                                              |
 
