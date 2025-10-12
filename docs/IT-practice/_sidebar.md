@@ -1,7 +1,7 @@
 * [<font size=5>首页</font>](/)
 * [IT实践](/IT-practice/)
 * 机器使用
-  * [Linux机器使用](/IT-practice/linux)
+  * [Linux机器管理](/IT-practice/linux)
   * [网络](/IT-practice/network)
     * [ssh](/IT-practice/ssh)
     * [代理服务器](/IT-practice/proxy)
@@ -13,6 +13,7 @@
   * [终端](/IT-practice/terminal)
 * 编程
   * [包管理](/IT-practice/packages)
+  * [conda](/IT-practice/conda)
   * [PyTorch](/IT-practice/pytorch)
   * [编译器](/IT-practice/compile)
   * [软件构建](/IT-practice/build)

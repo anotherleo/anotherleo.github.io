@@ -10,3 +10,4 @@
   * [访谈](/collection/interviews)
   * [运动](/collection/fitness)
   * [中医](/collection/tcm)
+  * [玄学](/collection/metaphysics.md)

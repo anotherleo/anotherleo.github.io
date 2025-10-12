@@ -7,5 +7,7 @@
   * 书籍
     * [八字命理學基礎教程【陸致極】](/metaphysics/lu1/)
     * [子平真诠评注【沈孝瞻】](/metaphysics/shen1/)
+    * [渊海子平【徐大升】](/metaphysics/xu1/)
+    * [滴天髓阐微【任铁樵】](/metaphysics/ren1/)
   * [笔记](/metaphysics/notes/)
   * [Cheat sheet](/metaphysics/notes/cheat-sheet)

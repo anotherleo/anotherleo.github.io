@@ -18,3 +18,5 @@
     * [中成药汇总](/tcm/drugs/patent-drug)
   * 其它
     * [问题](/tcm/questions)
+    * [陈玉琴理论](/tcm/chen)
+

@@ -2,6 +2,8 @@
 
 ## 文章
 
+- [脱发非独肾虚，原因有十【韩世荣】](https://mp.weixin.qq.com/s/Ck3ENqRBmZFAUIsYLww-Ew)
+
 ### 公众号
 
 - 药炉
@@ -28,11 +30,11 @@
 - 病症： 
   - 发烧：[范怨武1（常见类型）](https://mp.weixin.qq.com/s/LADHS2XfOrY3CTxEA1K2oQ) [范怨武2（虚人发烧）](https://mp.weixin.qq.com/s/Op6bJ4h646J85KTzPJkrng)
   - 腹泻：[文小叔](https://mp.weixin.qq.com/s/--6ekrIaXTQX1eFyRumb2A)
-  - 新冠：[范怨武1（加拿大读者）](https://mp.weixin.qq.com/s/1ZIaw9Wq55pIVJOqN-Ttxg) [范怨武（中成药见招拆招v3）](https://mp.weixin.qq.com/s/xQf0fbu5fHELllwnLniTsQ)
+  - 新冠：[范怨武1（加拿大读者）](https://mp.weixin.qq.com/s/1ZIaw9Wq55pIVJOqN-Ttxg) 范怨武（中成药见招拆招v1） [范怨武（中成药见招拆招v2）](https://mp.weixin.qq.com/s/QlAlR_YXXHqGYfwyakmcPQ) [范怨武（中成药见招拆招v3）](https://mp.weixin.qq.com/s/xQf0fbu5fHELllwnLniTsQ)
   - 小孩生长：[赵岩](https://mp.weixin.qq.com/s/2Tl_5v7rXqECRnOBzKQekg)
   - 喉炎：[范怨武1](https://mp.weixin.qq.com/s/oTuQeTe1OAWrmVAbeKDlpg)
   - 提神：[范怨武1](https://mp.weixin.qq.com/s/dzXVmQEmfLnyIvKpm-WmxQ)
-  - 心悸：[范怨武（自治心悸）](https://mp.weixin.qq.com/s/TpQnyzuMaAj-gbUfNg-DTQ)
+  - 心悸：[范怨武1](https://mp.weixin.qq.com/s/TpQnyzuMaAj-gbUfNg-DTQ) [范怨武2](https://mp.weixin.qq.com/s/7uHvg0st01Kc8_Ix-VhTqw)
   - 失眠：[范怨武1](https://mp.weixin.qq.com/s/Jc35EEQQi-5Cn2vyH1-4gQ) [范怨武2（催眠神穴）](https://mp.weixin.qq.com/s/l8YCg3T0Xpm4M5KkHgRaCw)
   - 生气：[范怨武1](https://mp.weixin.qq.com/s/0yqKQ6ejPmeP2Visp5Rm7Q) [范怨武2](https://mp.weixin.qq.com/s/U8SBr3w1p8n_dslnrSn34Q)
   - 头疼：[范怨武1](https://mp.weixin.qq.com/s/U8SBr3w1p8n_dslnrSn34Q) [范怨武2（天热头疼）](https://mp.weixin.qq.com/s/utjkF_fx6MCJm2DIrofvEg)
@@ -63,6 +65,12 @@
 - 病症
   - 反酸：[胃胀反酸](https://mp.weixin.qq.com/s/ayibqZn9SUIuK44R5YK3kQ)
   - 痰：[慢性咽炎](https://mp.weixin.qq.com/s/AJpQ1YtnxC7t89xeuqoC-g) 
+  - 感冒：[外感发热常见的几个类型](https://mp.weixin.qq.com/s/2gzZ9AK2fPhZds_s84XNeg) [风寒型流感的方便药](https://mp.weixin.qq.com/s/mrA34ott0NVOnOCkVWDMHg) [习惯性感冒——玉屏风散](https://mp.weixin.qq.com/s/9Z2WR9vYlTWCTd-TMEkseQ) [感冒发烧，我的首选方——加味香苏散](https://mp.weixin.qq.com/s/PVPVi3MDYmTr_GjO11ZFEg) [冬春季流感经验介绍](https://mp.weixin.qq.com/s/wUbh_E8T6lcJUnEqV0gttQ) 
+  - 咳嗽：[喉咙痒痒——呛咳](https://mp.weixin.qq.com/s/wBb8z9youJgBwF3ANtbe5Q) 
+- 看病须知
+  - [开完药后，我给您的煎药与忌口提醒](https://mp.weixin.qq.com/s/6p_r2O6cfQqwDEXXMJmECw)
+  - [问诊单（2025版）](https://mp.weixin.qq.com/s/ZgLVU4OJzXyyggFjaXzScA)
+  
 - 针灸与揿针：
   - [解穴](https://mp.weixin.qq.com/s/GRZzq_RbXKXZv8PQCg0how)
   - [针，不是随便扎的](https://mp.weixin.qq.com/s/wiGV0lb0UkBSFQcDqO4ieQ)
@@ -79,3 +87,51 @@
   - 体质：[改善儿童易感冒体质](https://mp.weixin.qq.com/s/PQdWnf79rqD0ojx-WDmrng) 
   - [怎么小孩就不能灸足三里了？](https://mp.weixin.qq.com/s/sqy6XXQu6-ssjyiH_FhfuQ) [十二个米粒灸医案](https://mp.weixin.qq.com/s/xeLXHCjCZU8K9NWLRUbcVQ) 
   - 肠炎：[顽固肠炎](https://mp.weixin.qq.com/s/3qP_TgvUBODy5YoUwRx7dg)
+- 食材：[芋头](https://mp.weixin.qq.com/s/Wh5NJP6fuY_2RW-uNgvF_g) 
+
+## 讲座
+
+### 陈玉琴
+
+2014年扶阳论坛：
+
+- [01 疾病来源、肺腺癌、憋气、脑间质癌、自学自救经历](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484267&idx=1&sn=a270a35560024ee43d05ed6e0ab43bff&scene=21#wechat_redirect)
+- [02 望诊、皮肤癌、肝炎、个子矮、吃辣、心脏不好的表现](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484278&idx=1&sn=97378dc52a65128ac5a701ed017aacb0&scene=21#wechat_redirect)
+- [03 新生儿黄疸、月子病、青春痘、便血](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484305&idx=1&sn=f8308ce8cc996ae38ff28173fee3a36f&scene=21#wechat_redirect)
+- [04 指甲月牙、肾结石、痛风、胆结石痛的中医指压调理](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484361&idx=1&sn=f68bc9909b5c3608ebef2f37fe6188a3&scene=21#wechat_redirect)
+- [05 肺结核、肺纵隔癌、股骨头坏死、肠癌的指压调养](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484464&idx=1&sn=7f693e263b8af95a7a132a791bef0e68&scene=21#wechat_redirect)
+- [06 洗肾、渐冻症、不孕症、妇科病、糖尿病中医调养](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484479&idx=1&sn=f3feba6349f8eee0b7eaf83a72cf686e&scene=21#wechat_redirect)
+- [07 糖尿病、痛风、牛皮癣、肝硬化、脂肪肝中医调养](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484511&idx=1&sn=e4f6b4d2b564e4ae7455cb8923bfa2df&scene=21#wechat_redirect)
+- [08 胰脏癌、排尿困难、绣球风、子宫颈癌、乳腺癌的中医指压调养](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484531&idx=1&sn=8cb8231a119e85480d78774ff0551b15&scene=21#wechat_redirect)
+- [09 肝癌、肝腹水、指压肝经演示、探查结节、指压力度](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484784&idx=1&sn=2bb44c235935b5cd4c88f182cf26bdfe&scene=21#wechat_redirect)
+- [10 指压肝经演示、肾囊肿、滑膜炎、身体自修理问道交流](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247484869&idx=1&sn=3eb852defc28498cb4822c77a8c0e4bd&scene=21#wechat_redirect)
+- [11 子宫癌、鼻咽癌、脑瘫、骨质疏松、憋气、肺纵隔癌、卵巢癌](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485139&idx=1&sn=5fd53187888e8796761cf071e709dc73&scene=21#wechat_redirect)
+- [12 血淋、肺癌、肺脓肿、肾经指压演示、头疼、老年痴呆](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485675&idx=1&sn=4b5115af430a585725a0e44e58e93aae&scene=21#wechat_redirect)
+- [13 重病重症压心包经时间分配方案、祛除心包积液、耳鸣、脑鸣、强直性脊椎炎](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485729&idx=1&sn=a41fe66a6cc142f7fbc6e1c8eb8ebceb&scene=21#wechat_redirect)
+- [14 压透膻中穴是关键、心脏心包指压演示、黑眼袋、精神病、嘴唇红、皮肤太白、迎风流泪、眼睛干涩](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485789&idx=1&sn=4dc836a7b01ba1ab157e53783de5c230&scene=21#wechat_redirect)
+- [15 儿童指压演示、心经心包经关系、心脏搭支架、心脏扩大、心肌肥大中医指压调养](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485885&idx=1&sn=06c70055b679c6c80388d7d63e86d6b4&scene=21#wechat_redirect)
+- [16 血尿、膀胱癌、红血病、白血病、血黏度高、人体自修理特点](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485910&idx=1&sn=d848a31ba8510c3b4d6280010e22194a&scene=21#wechat_redirect)
+- [17 无菌性心肌炎、中暑、心肌缺血、脚肿、法洛氏四联症、T波倒置的中医推拿按摩指压调理](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485944&idx=1&sn=38d56825acbc2dfc36379bc0bc18d291&scene=21#wechat_redirect)
+- [18 心脏自修理表现、肝硬化换肝、血尿、巧克力囊肿、心脏指压演示](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247485980&idx=1&sn=082c5db920fa0b1f0fa653f4148b9adc&scene=21#wechat_redirect)
+- [19 心脏指压演示、风寒外邪束肺、哮喘、肺咳、肝咳、肾咳、肠咳、奔豚气](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486003&idx=1&sn=9c6e9c8f61aab285853decaeeedecebe&scene=21#wechat_redirect)
+- [20肺结核、肺发烧、咳血、便秘、寒气与心肝肾的关系、心脏病黄疸](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486038&idx=1&sn=e228639727024604425d11d94fbccfcb&scene=21#wechat_redirect)
+- [21 指压得气演示、脾虚、脾不束肌、思伤脾、月经淋漓不尽、嘴唇变薄、白发转黑](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486076&idx=1&sn=c852a3b39ea27bb3b7c4c2f6bd810da3&scene=21#wechat_redirect)
+- [22 酒糟鼻、花粉症、鼻中隔肿、嗅觉失灵、食道癌、胃酸逆流、脑癌、眩晕](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486128&idx=1&sn=e98d096a545d3f993567cf1fb7c686ef&scene=21#wechat_redirect)
+- [23 嘴唇肿掉皮、口腔溃疡、胃酸逆流、食道癌、脑癌、口气重、狐臭、手指发麻](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486158&idx=1&sn=cee1df13887b47ee2f9c18940df6d47c&scene=21#wechat_redirect)
+- [24 发烧抽筋、癫痫、脑囊肿、脑瘤、手臂麻、颈椎病、腰椎病、坐骨神经痛](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486194&idx=1&sn=559876454c489af15a9d73fc5877abba&scene=21#wechat_redirect)
+- [25 儿童脑瘫、不孕不育、子宫肌瘤、巧克力囊肿、面瘫、大腿粗、房颤、肾不纳气](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486210&idx=1&sn=06802819151147882430511237112d55&scene=21#wechat_redirect)
+- [26 红斑狼疮、夹肌疗法、肠癌、指压顺序、里急后重、肺腺癌、放血疗法](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486259&idx=1&sn=e8d7a38dd15c0e38c60435b70049f949&scene=21#wechat_redirect)
+- [27 睾丸囊肿、睾丸癌、子宫癌、尖锐湿疣、肝硬化腹水、腰痛抽筋](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486294&idx=1&sn=d6c366b8ef2d62aff9772d141ea04b29&scene=21#wechat_redirect)
+- [28 慢性结肠炎、拉肚子（火克金还是木侮金）、大便带血、不孕不育](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486391&idx=1&sn=a912744d38a83345fb3174a7ee88c0d6&scene=21#wechat_redirect)
+- [29 望诊、肝炎、肝癌、心脏病、脐带绕颈与新生儿黄疸、夜哭郎、大汗淋漓、胃病](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486401&idx=1&sn=e6d75c6bf6f858d95b0eabc1418e3729&scene=21#wechat_redirect)
+- [30 长寿的两个条件（收支平衡与情绪稳定）、血上升还是下降的望诊判断](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486481&idx=1&sn=4bb81cf868e3c3f24f70b19f6f953061&scene=21#wechat_redirect)
+- [31 阴阳两虚的表现、孩子长不高、学习进步、脚脖子粗、大象腿、敲胆经生病的原因](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486563&idx=1&sn=670bfae8b52e668c0013898b31744f2a&scene=21#wechat_redirect)
+- [32 白血球与气的关系、胸水与腹水、肺积水、癫痫与二尖瓣、肺源性心脏病与三尖瓣](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486608&idx=1&sn=e31265c3e5c1e26f361de72329c13bb5&scene=21#wechat_redirect)
+- [33 中医和西医治疗的区别、望诊、生病的两大原因、脾虚湿困、秃顶、老年痴呆症](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486635&idx=1&sn=02de116f6a41ab96e179811c8e4d3bb8&scene=21#wechat_redirect)
+- [34 睡姿与经络淤堵、阻塞性肺癌、现场望诊、三尖瓣问题与体型、心脏启动修理表现](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486657&idx=1&sn=2e0cc74be890e3fed090d0af132b69da&scene=21#wechat_redirect)
+- [35 血尿是心脏、早搏是心包、不易入睡是心脏、白血球上升表现、乙肝小三阳](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486727&idx=1&sn=7b8bb2baba1843d263545d11ead47bc2&scene=21#wechat_redirect)
+- [36 糖尿病、三多一少、脉管炎、血尿、肾脏漏蛋白、大便出血、肠梗阻、肠癌](https://mp.weixin.qq.com/s?__biz=MzkzMzY1ODUwNA==&mid=2247486767&idx=1&sn=090f9bc8e0bf2b6c46ead3f2a183a76d&scene=21#wechat_redirect)
+
+其它：
+
+- 压心包经为什么能排积液[（一）](https://mp.weixin.qq.com/s/wWQGq1uqCBhFWvTcBpnWUA) [（二）](https://mp.weixin.qq.com/s/aceqVWi_layk4NSeCbBspA) [（三）](https://mp.weixin.qq.com/s/YZ5kbOLH8oDlE7LwZ6qBog)

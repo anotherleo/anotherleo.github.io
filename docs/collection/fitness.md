@@ -26,7 +26,7 @@
 
 - [【好人松松】健身新手的减肥减脂完全手册](https://www.bilibili.com/video/BV1AM411r7z3)
 
-## 文章
+## 文章【公众号】
 
 ### 肌本自然
 
@@ -53,12 +53,9 @@
 - 腘绳肌
   - [腘绳肌很弱，但别急着单独训练它](https://mp.weixin.qq.com/s/IiDyQfx2P111EdmPvg9z7w)
   - [腘绳肌紧张，源自对臀肌无力的代偿](https://mp.weixin.qq.com/s/mIgoUCCio0Zced-8wEi3eQ)
-
 - 足底
   - [足底失衡与脚掌功能的强化策略](https://mp.weixin.qq.com/s/Y8tNkf1wyJyXvTvITkPWDw)
   - [“臀肌无力”可能是脚趾在“摆烂”](https://mp.weixin.qq.com/s/0R2nPxgzrJKuWV3ID77Omg)
-
-
 
 
 - 深蹲
@@ -67,4 +64,15 @@
 ### Mixbarre
 
 - [为什么强化核心要优先选择等长训练？](https://mp.weixin.qq.com/s/evc3WmKp7yyiJeL2eVLd5w)
-- 
+
+## 文章【topic】
+
+- 臀肌
+  - [【卓叔增重】女生想要翘臀不粗腿，应该怎么练？](https://mp.weixin.qq.com/s/OdMik7Z5Dpg4WnimfS6Hlw)
+  - [【Mixbarre】强化臀大肌是万能处方吗？](https://mp.weixin.qq.com/s/wwajf_e0eOmgqWa8YszDCQ)
+
+- 深蹲
+  - [【肌本自然】深蹲很好，但不是现在就练](https://mp.weixin.qq.com/s/D0tjH0OEIU3iueTt-2vUfQ?exportid=export/UzFfAgtgekIEAQAAAAAAhvEz9cHa9QAAAAstQy6ubaLX4KHWvLEZgBPEw6NAPhxVRJiIzNPgMIssVLT5g0M2ebAK2f2e-YKq&sessionid=)
+  - [【Mixbarre】深蹲是一种内收肌训练动作](https://mp.weixin.qq.com/s/Fs9RJY-cb4q7MEB6FUAbwA)
+  - [【身体使用指南】深蹲动作标准的演变](https://mp.weixin.qq.com/s/dEWQPqX4_BV9i92tG5DuUg)
+  - 
