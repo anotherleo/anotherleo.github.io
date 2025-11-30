@@ -89,6 +89,11 @@
   - 肠炎：[顽固肠炎](https://mp.weixin.qq.com/s/3qP_TgvUBODy5YoUwRx7dg)
 - 食材：[芋头](https://mp.weixin.qq.com/s/Wh5NJP6fuY_2RW-uNgvF_g) 
 
+### 张洋
+
+- 病症
+  - 脱发：[20230424](https://mp.weixin.qq.com/s/95iNqblj9oBAFA09VUD72Q)
+
 ## 讲座
 
 ### 陈玉琴

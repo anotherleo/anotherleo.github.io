@@ -1,4 +1,4 @@
-# Linux机器管理
+# Linux服务器管理
 
 修改密码：
 
@@ -49,6 +49,7 @@ passwd: password updated successfully
 - CPU和内存：`htop`或者`top`
 - 磁盘空间：`df -h`
   - `sudo du -sh /home/*`：查看每个用户占用了多少空间
+  - `sudo du -h --max-depth=1 /path/to/... | sort -hr | head -n 10`：查看目标路径下占用空间最大的十个目录/文件
 - GPU：`nvidia-smi`
 - 资源限制：
   - 磁盘配额：配置 `quota`

@@ -75,4 +75,15 @@
   - [【肌本自然】深蹲很好，但不是现在就练](https://mp.weixin.qq.com/s/D0tjH0OEIU3iueTt-2vUfQ?exportid=export/UzFfAgtgekIEAQAAAAAAhvEz9cHa9QAAAAstQy6ubaLX4KHWvLEZgBPEw6NAPhxVRJiIzNPgMIssVLT5g0M2ebAK2f2e-YKq&sessionid=)
   - [【Mixbarre】深蹲是一种内收肌训练动作](https://mp.weixin.qq.com/s/Fs9RJY-cb4q7MEB6FUAbwA)
   - [【身体使用指南】深蹲动作标准的演变](https://mp.weixin.qq.com/s/dEWQPqX4_BV9i92tG5DuUg)
-  - 
+
+---
+
+- 髂胫束综合征
+  - [【联勤保障部队第945医院】医学科普 | 跑步膝—髂胫束综合征（ITBS）](https://mp.weixin.qq.com/s/jV865jyoRRKJUEDMdvgG3g)
+  - [【重启心动力】髂胫束摩擦综合征](https://mp.weixin.qq.com/s/pxfniLW9cyxqnK1yiL2-Cg)
+  - [【PDAU人体研究所】下肢力线：5种常见膝关节损伤的异常力线解析](https://mp.weixin.qq.com/s/TYy6pe5TfS8T1nr0AzPaWg)
+  - 【Mixbarre】
+    - [髂胫束综合征，炎症还是退行性损伤？](https://mp.weixin.qq.com/s/z4mic9fp0vtPFEGUAeEH9Q)
+    - [如何真正了解髂胫束是否紧张？](https://mp.weixin.qq.com/s/ZaL2-pQ4lE8Dl6MaOwqhow)
+    - [激活髂腰肌，快速缓解髂胫束综合征](https://mp.weixin.qq.com/s/8QZ_7RMV-6Kt2u8-O1M6GQ)
+    - 
