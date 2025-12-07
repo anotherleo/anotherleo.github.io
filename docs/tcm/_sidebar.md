@@ -1,6 +1,7 @@
 * [<font size=5>首页</font>](/)
 * 书籍与学习笔记
 * [中医](/tcm/)
+* [经验](/tcm/experiences)
 * [书籍](/tcm/books/)
 * 整理
   * 基础理论

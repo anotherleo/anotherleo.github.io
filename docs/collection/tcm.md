@@ -2,8 +2,6 @@
 
 ## 文章
 
-- [脱发非独肾虚，原因有十【韩世荣】](https://mp.weixin.qq.com/s/Ck3ENqRBmZFAUIsYLww-Ew)
-
 ### 公众号
 
 - 药炉
@@ -41,12 +39,13 @@
   - 便秘：[范怨武1](https://mp.weixin.qq.com/s/khZiGUHd_rUDgB8PnMr4Aw) [范怨武2（脾虚兼湿热）](https://mp.weixin.qq.com/s/ixjPz6X6z110ZXo-aI_gjg)
   - 中暑：[范怨武1](https://mp.weixin.qq.com/s/CYTmgqh8xLYVgRf8G8zLtA) 
   - 上火：[范怨武1（进补上火）](https://mp.weixin.qq.com/s/k1ybju5ZVQ8MLlF4qE3lrw) 
-  - 口腔溃疡：[范怨武1](https://mp.weixin.qq.com/s/HaZkmvoncXpX_q608Q873A) 
+  - 口腔溃疡：[范怨武1](https://mp.weixin.qq.com/s/HaZkmvoncXpX_q608Q873A)  
+  - 脱发：[【韩世荣】脱发非独肾虚，原因有十](https://mp.weixin.qq.com/s/Ck3ENqRBmZFAUIsYLww-Ew) [【张洋】20230424](https://mp.weixin.qq.com/s/95iNqblj9oBAFA09VUD72Q)
 - 中成药：[范怨武1（中成药印象）](https://mp.weixin.qq.com/s/ZZm9picmsDnohKI1i0yDbg) [范怨武2（保和丸搭配）](https://mp.weixin.qq.com/s/6Zt9ZX2XNsf5bbm2rLJrvA) [范怨武3（夏季备用）](https://mp.weixin.qq.com/s/eGqUm8nVak4oIpTGZLc5DQ) [范怨武4（腹泻）](https://mp.weixin.qq.com/s/hlSBllO0whryo9rYMxIDQg) [范怨武5（过年）](https://mp.weixin.qq.com/s/GyyIEZ3tI-ep4ClGdephfA) [范怨武6（我的提神药）](https://mp.weixin.qq.com/s/V-BVDZrpz1ni-B4RGMYXZw)
   - 参苓白术散/丸：[荷咏踏歌](https://mp.weixin.qq.com/s/wtUJCKEerue14_YxbUmvBw)
   - 藿香正气：[赵岩1](https://mp.weixin.qq.com/s/gpBvPkcTXZ5oD7dWO03h0Q) 
   - 生脉饮：[范怨武1](https://mp.weixin.qq.com/s/RGjV8hYWC67XKKqRYXkq7A)
-  - 保和丸：[范怨武1](https://mp.weixin.qq.com/s/LlbHtYZp50hVfdG3uvtsAw) [范怨武2](https://mp.weixin.qq.com/s/2fu_9SvOS43b3sMyuzQ2rg) [范怨武3](https://mp.weixin.qq.com/s/PUEh861yiW4t1zaTi4OaSA) [范怨武4（保和丸方便法门）](https://mp.weixin.qq.com/s/6Zt9ZX2XNsf5bbm2rLJrvA) [范怨武5](https://mp.weixin.qq.com/s/rM2LfaG10A70Vuy9D0Bv1w)
+  - 保和丸：[范怨武1（保和丸攒的文）](https://mp.weixin.qq.com/s/JEghGm0NXHhQA8NGxMRZAg) [范怨武2（保和丸又不是万能的）](https://mp.weixin.qq.com/s/2fu_9SvOS43b3sMyuzQ2rg) [范怨武3（肚腩小了一半）](https://mp.weixin.qq.com/s/PUEh861yiW4t1zaTi4OaSA) [范怨武4（保和丸方便法门）](https://mp.weixin.qq.com/s/6Zt9ZX2XNsf5bbm2rLJrvA) [范怨武5（孙俪老师，保和丸还有很多应用秘诀喔！）](https://mp.weixin.qq.com/s/rM2LfaG10A70Vuy9D0Bv1w)
 
 #### 针灸
 
@@ -65,7 +64,10 @@
 - 病症
   - 反酸：[胃胀反酸](https://mp.weixin.qq.com/s/ayibqZn9SUIuK44R5YK3kQ)
   - 痰：[慢性咽炎](https://mp.weixin.qq.com/s/AJpQ1YtnxC7t89xeuqoC-g) 
-  - 感冒：[外感发热常见的几个类型](https://mp.weixin.qq.com/s/2gzZ9AK2fPhZds_s84XNeg) [风寒型流感的方便药](https://mp.weixin.qq.com/s/mrA34ott0NVOnOCkVWDMHg) [习惯性感冒——玉屏风散](https://mp.weixin.qq.com/s/9Z2WR9vYlTWCTd-TMEkseQ) [感冒发烧，我的首选方——加味香苏散](https://mp.weixin.qq.com/s/PVPVi3MDYmTr_GjO11ZFEg) [冬春季流感经验介绍](https://mp.weixin.qq.com/s/wUbh_E8T6lcJUnEqV0gttQ) 
+  - 感冒：[外感发热常见的几个类型](https://mp.weixin.qq.com/s/2gzZ9AK2fPhZds_s84XNeg)    
+    - 风寒：[清鼻涕与浓鼻涕与绿鼻涕](https://mp.weixin.qq.com/s/BcCM4WeVMYwvkoq-QcNroQ)  [感冒发烧，我的首选方——加味香苏散](https://mp.weixin.qq.com/s/PVPVi3MDYmTr_GjO11ZFEg) [深圳感冒中年](https://mp.weixin.qq.com/s/mftdRDK9JyBkUKx6e5oHZQ) [着凉的随想](https://mp.weixin.qq.com/s/WJxdiDo6ThGRIBWhmgz9cg)
+    - 寒包火：[冬春季流感经验介绍](https://mp.weixin.qq.com/s/wUbh_E8T6lcJUnEqV0gttQ) [风寒型流感的方便药](https://mp.weixin.qq.com/s/mrA34ott0NVOnOCkVWDMHg) [看病讲三因制宜der](https://mp.weixin.qq.com/s/Vb3qW2-nvUO7QDFhWu2oGw) 
+    - 易感冒：[条件感冒3:一吹风就感冒](https://mp.weixin.qq.com/s/j7Nogwayi74UqHlxnclYwg) [习惯性感冒——玉屏风散](https://mp.weixin.qq.com/s/9Z2WR9vYlTWCTd-TMEkseQ) [讲个虚人感冒](https://mp.weixin.qq.com/s/3XAUBYLHBWrCpi_nn2RukQ) 
   - 咳嗽：[喉咙痒痒——呛咳](https://mp.weixin.qq.com/s/wBb8z9youJgBwF3ANtbe5Q) 
 - 看病须知
   - [开完药后，我给您的煎药与忌口提醒](https://mp.weixin.qq.com/s/6p_r2O6cfQqwDEXXMJmECw)
@@ -92,7 +94,19 @@
 ### 张洋
 
 - 病症
-  - 脱发：[20230424](https://mp.weixin.qq.com/s/95iNqblj9oBAFA09VUD72Q)
+  - 鼻炎：[20201015（体质）](https://mp.weixin.qq.com/s/-EmCtOFpj81j5mtVkfwEPg) [20220302（春天发作）](https://mp.weixin.qq.com/s/-MGaQTmWwvV-sfBRfvhbRA) [20220406（调脾肾）](https://mp.weixin.qq.com/s/nKA0HDthNIq3tjc391b8CQ) [20250226](https://mp.weixin.qq.com/s/StDhhOQfuId5oeUqMtvZ8A) 
+  - 流感：[20221217（辨证分型）](https://mp.weixin.qq.com/s/zF3SNUSi1l1R6xqG_CbmAg)
+- 调理
+  - 怕冷：[20220919（桂枝汤与玉屏风散）](https://mp.weixin.qq.com/s/Jol3BtOzADaqUqSOjMHvBA) [20240923（伤寒、中寒、虚寒）](https://mp.weixin.qq.com/s/jKjQWyfaNcW-nGRw4qL-Fg) [20230322（不能一味温阳）](https://mp.weixin.qq.com/s/kxfrJb8fh92fHQeUT1ZdmQ) 
+  - 夏天：[20250720（入伏）](https://mp.weixin.qq.com/s/oMt8O8D9ZRwzORbfNqHBYA)
+
+- 忌口：[20230104（鸡、甜食、牛奶、梨水、海鲜）](https://mp.weixin.qq.com/s/3iBo5ZhzXIdY-TyvA_urmg) [20230529（大枣、桂圆、枸杞）](https://mp.weixin.qq.com/s/0fXCZoYwY8BfVzlefvSDQQ) 
+- 锻炼：[20231030（夜跑）](https://mp.weixin.qq.com/s/mZc8gX8MdScbiz_gGgLxWQ)
+- 晒太阳：[20230423（晒太阳的度）](https://mp.weixin.qq.com/s/0SBJL4VkO880b2tKaCs4bQ)
+- 出汗：[20230309（多汗症、自汗、盗汗、更年期出汗）](https://mp.weixin.qq.com/s/BMcep51IMvzBCYA7xGnw6Q) [20250626（夏天出汗）](https://mp.weixin.qq.com/s/FqkMU1DISPwx48Tl15CULw) 
+- 
+- 气化：
+- 肾气：[20230309（壮阳、温肾阳、补肝肾、补肾精）](https://mp.weixin.qq.com/s/BMcep51IMvzBCYA7xGnw6Q)
 
 ## 讲座
 

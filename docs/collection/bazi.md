@@ -62,10 +62,15 @@
 - [【易理学研究】自刑](https://mp.weixin.qq.com/s/VwNSWkk6lnhV0c5NhWDS5w)
 - [【酉印文化】命犯自刑的人，有何种人生状态表现？](https://mp.weixin.qq.com/s/B1fd3ZIUs5YKn3UZPGlFgA)
 - [【酉印文化】八字的自刑关系中，为何“辰辰”自刑影响最大？](https://mp.weixin.qq.com/s/uYj9RvLKztdBSjHColXUvQ)
+- [【酉印文化】八字“丑未戌”三刑为同室操戈，土被越刑越旺到底有何影响，真的就一定有灾祸吗？](https://mp.weixin.qq.com/s/O64eGlvGNy8siddd6723uw)
 
 ### 破
 
 - [【易道与时代】细论“辰丑相破”，及衍生性象意](https://mp.weixin.qq.com/s/UpqND7A_OGrAT4DQQsjNtg)
+
+### 冲
+
+- [【酉印文化】八字“辰戌”冲为天门地户之冲，为何女命尤不喜？](https://mp.weixin.qq.com/s/ZKtyZUe-DKyPtnjieJPxJg)
 
 ## 喜忌分析
 
@@ -86,6 +91,9 @@
 
 ## 实操
 
+- [【酉印文化】八字到底什么样才是真正的好大运？](https://mp.weixin.qq.com/s/kG8gIC9QT0JX-cMDVuiGtQ)
+- [【酉印文化】八字大运和流年相比，到底哪一个更重要？](https://mp.weixin.qq.com/s/AbvI763Cpuy9DZ3wWtEOHw)
+
 ### 财官
 
 - [【浅叔易谈】中产阶层判定的命理法则](https://mp.weixin.qq.com/s/s-n1QViTuVLwcyaEvdZj-A)
@@ -102,6 +110,7 @@
 ### 学业
 
 - [【红鲤鱼遇于】同一个八字，为啥有人上985，有人连本科都够呛？  ——命理师聊“学问”和“学历”那点事儿](https://mp.weixin.qq.com/s/gyOoYZ15nr7_xG5dHJq-cw)
+- [【酉印文化】什么八字组合逢大考时容易超常发挥？](https://mp.weixin.qq.com/s/SWQtjIVWJCXlGoLQHzUJUw)
 
 ### 搬迁
 
