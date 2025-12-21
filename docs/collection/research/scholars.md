@@ -46,6 +46,7 @@ Senior:
 
 Senior: 
 
+- [Thomas W. Reps@University of Wisconsin-Madison](https://pages.cs.wisc.edu/~reps/)
 - [Yannis Smaragdakis@University of Athens](https://yanniss.github.io)
 
 ## SE
@@ -55,6 +56,7 @@ Senior:
 Senior: 
 
 - [Andreas Zeller@Saarland University](https://andreas-zeller.info)
+- [Sven Apel@Saarland University](https://www.se.cs.uni-saarland.de/apel/)
 - [Abhik Roychoudhury@NUS](https://abhikrc.com)
 - [Thomas Zimmermann@UC Irvine](https://thomas-zimmermann.com/)
 - [Mark Harman@UCL](https://profiles.ucl.ac.uk/29368-mark-harman/about)

@@ -8,6 +8,7 @@
   * [心理分析(荣格心理学)](/analytical-psychology/)
   * [语言](/languages/)
   * [个人成长](/self-help/)
+  * [心灵成长](/mental/)
   * [传记](/biography/)
   * [传统文化](/tradition/)
   * [中医](/tcm/)

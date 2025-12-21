@@ -20,6 +20,9 @@
 
 ### 内容
 
+- 症状
+  - 草莓舌：[范怨武（改善儿童易感冒体质）](https://mp.weixin.qq.com/s/PQdWnf79rqD0ojx-WDmrng) [范怨武（扁桃体缩小记）](https://mp.weixin.qq.com/s/kR7mEO9xEd-aoTVA1EjY5w) [范怨武（七白汤）](https://mp.weixin.qq.com/s/T3AKwDHv20aFuiiHNQWcKQ) [范怨武（胃阴真的超重要der）](https://mp.weixin.qq.com/s/TZvyYS-U1QRLPucDu_CulQ) 
+  
 - 证候：
   - 湿热：[范怨武1（兼脾虚，便秘）](https://mp.weixin.qq.com/s/ixjPz6X6z110ZXo-aI_gjg) [范怨武2（肠道湿热）](https://mp.weixin.qq.com/s/LOa73h9gAwPFTJbyHvJkUw) [范怨武3（湿热感冒）](https://mp.weixin.qq.com/s/dPtZ6g5jVsW2zMQRS-DStA) [范怨武4（少吃猪蹄）](https://mp.weixin.qq.com/s/y7ouVNXCFcUVhzZLHUVSEA) [范怨武5（顽固肠炎）](https://mp.weixin.qq.com/s/3qP_TgvUBODy5YoUwRx7dg) [范怨武6（脾虚湿热）](https://mp.weixin.qq.com/s/LYVOFqe_ySq3-K44u1l5kg) 
   - 肝郁：[范怨武1](https://mp.weixin.qq.com/s/0yqKQ6ejPmeP2Visp5Rm7Q) 

@@ -33,6 +33,12 @@
   - [【酉印文化】八字为何暴富的组合离不开“七杀”参与？“七杀”的吸金本性，你了解多少？](https://mp.weixin.qq.com/s/K_OO7x4u5i3-pYL_fvp3-A)
 - 比劫
   - [【玫瑰】比劫到底帮不帮身？比劫有什么作用？](https://zhuanlan.zhihu.com/p/1892612640209094332)
+  - [【酉印文化】八字“比肩”和“劫财”在感情里都容易“挖墙脚”，到底谁更容易破坏婚姻？](https://mp.weixin.qq.com/s/1sUbJilxkS146Fy1IDRASg)
+  - 比肩
+  - [【酉印文化】八字十神“比肩”星的底层逻辑，以及“比肩夺财”的意象解读](https://mp.weixin.qq.com/s/5VpeJI48bSz3szTUirFxaA)
+  - 劫财
+  - [【酉印文化】八字“劫财”的黑暗属性，它在不同的四柱宫位对人生都有哪些负面影响？](https://mp.weixin.qq.com/s/iq_VqB81irwP1YJ2PYmGzw)
+  - [【酉印文化】八字“劫财”配“七杀”，真的是如虎添翼吗？](https://mp.weixin.qq.com/s/mH98pz2auBkHGcQI9o_5TQ)
 - 印
   - 偏印
   - [偏印总论：枭印不仅仅只是夺食](https://mp.weixin.qq.com/s/Gf84MOgUbc1sgYPW7fP9MA)
@@ -66,11 +72,22 @@
 
 ### 破
 
-- [【易道与时代】细论“辰丑相破”，及衍生性象意](https://mp.weixin.qq.com/s/UpqND7A_OGrAT4DQQsjNtg)
+- 辰丑破
+  - [【易道与时代】细论“辰丑相破”，及衍生性象意](https://mp.weixin.qq.com/s/UpqND7A_OGrAT4DQQsjNtg)
+
+- 卯午破
+  - [【酉印文化】卯午破的意象解读](https://mp.weixin.qq.com/s/x-tpLv8ll0g0S0-Tm_zXwA)
+  - [【术数研究院】午卯相破的影响（丙午年运分析）](https://mp.weixin.qq.com/s/AoKemAOa2zduGwhRS0vv9A)
+
 
 ### 冲
 
-- [【酉印文化】八字“辰戌”冲为天门地户之冲，为何女命尤不喜？](https://mp.weixin.qq.com/s/ZKtyZUe-DKyPtnjieJPxJg)
+- 辰戌冲
+  - [【酉印文化】八字“辰戌”冲为天门地户之冲，为何女命尤不喜？](https://mp.weixin.qq.com/s/ZKtyZUe-DKyPtnjieJPxJg)
+
+- 子午冲
+  - [【术数研究院】子午相冲的影响（丙午年运分析）](https://mp.weixin.qq.com/s/H6B3YgaMLTm9lZBtnnWQdQ)
+
 
 ## 喜忌分析
 
