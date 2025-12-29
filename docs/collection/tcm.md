@@ -81,6 +81,7 @@
   - [针，不是随便扎的](https://mp.weixin.qq.com/s/wiGV0lb0UkBSFQcDqO4ieQ)
   - [咽痛急症](https://mp.weixin.qq.com/s/RFzDgXWW0EaoH1Bzp92lRg)
 - 凉茶：[药食同源汤剂组方经验分享【第三版】](https://mp.weixin.qq.com/s/JCSZcm7plTzNI63D1y62CA) [甜甜水组合小攻略](https://mp.weixin.qq.com/s/xH_bHeXqZ5Ix3gtL46nmCQ) [范伊森方剂心得说明](https://mp.weixin.qq.com/s/mFDBmGa2o9aE1Lq129WkHg) [比如](https://mp.weixin.qq.com/s/KOqltI6b4kVojJy3yQtEyQ)
+  - 青果膏：[娘娘息怒——青筋莫轻张、凡事寻因果](https://mp.weixin.qq.com/s/spuR4uI5OqIv0kfA5MdELg)
   - 甘消茶/甘露消毒丹：[甘露消毒丹](https://mp.weixin.qq.com/s/fDN8BhmoqfPP79woR6ktkw)
   - 葆通茶：[湿退热出](https://mp.weixin.qq.com/s/E42bWaPAvo1PNc1eFhJwCQ)
   - [芦根茶、多汁茶、大口七](https://mp.weixin.qq.com/s/vy-ycGP8xFQGgm392CyyXw)

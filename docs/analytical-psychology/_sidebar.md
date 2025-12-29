@@ -6,6 +6,7 @@
   * [荣格与分析心理学【申永荷】](/analytical-psychology/shen1/)
   * [Decode Your Personality【Dario Nardi】](/analytical-psychology/nardi1/) 
   * [类型与原型【John Beebe】](/analytical-psychology/Beebe1/)
+  * [Jung's Map of the Soul【Murray Stein】](/analytical-psychology/stein1/)
 * 整理
   * [类型学](/analytical-psychology/summary-typology)
 
