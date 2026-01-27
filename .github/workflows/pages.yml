@@ -1,0 +1,34 @@
+name: Deploy Docsify to GitHub Pages
+
+on:
+  push:
+    branches: ["main"] # 确保这是你的主分支名
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      # 如果你的 index.html 在根目录，path 填 "."
+      # 如果你的 index.html 在 docs 文件夹里，path 填 "docs"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "docs" 
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
