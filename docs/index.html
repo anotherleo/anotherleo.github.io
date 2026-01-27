@@ -42,6 +42,29 @@
         font-size: 18px;
       }
     }
+
+    /* 1. 缩小脚注文字整体大小 */
+    p:has(.footnote-reference-symbol), 
+    [id^="fn-"], 
+    .footnote-reference-symbol {
+      font-size: 16px !important;
+      color: #7f8c8d !important;
+      line-height: 1.6 !important;
+    }
+
+    /* 2. 针对脚注中的链接（序号数字） */
+    .footnote-reference-symbol a {
+      font-size: 16px !important;
+      text-decoration: none;
+      color: #3498db;
+      margin-right: 5px;
+    }
+
+    /* 3. 针对那个回退箭头图标（emoji） */
+    p:has(.footnote-reference-symbol) .emoji {
+      height: 12px !important; /* 让箭头也跟着缩小 */
+      opacity: 0.6;
+    }
   </style>
 </head>
 <body>
