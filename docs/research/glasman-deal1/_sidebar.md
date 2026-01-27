@@ -1,0 +1,6 @@
+* [<font size=5>首页</font>](/)
+* [学术研究](/research/)
+* [Science Research Writing](/research/glasman-deal1/)
+* [Introduction](/research/glasman-deal1/0)
+* [1 How to Write the Introduction](/research/glasman-deal1/1)
+* [2 How to Write about Methods](/research/glasman-deal1/2)

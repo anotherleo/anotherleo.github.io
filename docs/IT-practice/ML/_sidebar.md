@@ -1,0 +1,7 @@
+* [<font size=5>首页</font>](/)
+* [IT实践](/IT-practice/)
+* [机器学习](/IT-practice/ML/)
+* [Conda](/IT-practice/ML/conda)
+* [PyTorch](/IT-practice/ML/pytorch)
+* [Matplotlib](/IT-practice/ML/matplotlib)
+* [代码整理](/IT-practice/ML/mycode)
