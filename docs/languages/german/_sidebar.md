@@ -2,4 +2,4 @@
 * [语言](/languages/)
 * [德语\(Deutsch\)](/languages/german/)
   * [德语语法精讲](/languages/german/wang-song/)
-  * [交际德语教程A2](/languages/german/jiaoji-a2)
+  * [交际德语教程A2](/languages/german/funk-kuhn-a2/)

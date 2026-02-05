@@ -1,5 +1,5 @@
 * [<font size=5>首页</font>](/)
 * [语言](/languages/)
-* [英语\(English\)](/languages/english/)
+* [英语(English)](/languages/english/)
   * [Word Power Made Easy【Norman Lewis】](/languages/english/lewis1/)
-  * [Most Common American Idioms【李笑来】](/languages/english/li1)
+  * [Most Common American Idioms【李笑来】](/languages/english/li1/)

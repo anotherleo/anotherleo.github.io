@@ -67,17 +67,45 @@
 
 ## 文章【topic】
 
+### 部位
+
 - 臀肌
   - [【卓叔增重】女生想要翘臀不粗腿，应该怎么练？](https://mp.weixin.qq.com/s/OdMik7Z5Dpg4WnimfS6Hlw)
   - [【Mixbarre】强化臀大肌是万能处方吗？](https://mp.weixin.qq.com/s/wwajf_e0eOmgqWa8YszDCQ)
+- 大腿
+  - [【肌本自然】膝盖疼痛的“真凶”可能藏在你的大腿](https://mp.weixin.qq.com/s/xMueCjf792BbMf8fHhTByg)
+
+- 小腿
+  - [【肌本自然】“提踵”的能力是“根基”，但我们正在失去它](https://mp.weixin.qq.com/s/tzxMPaXuYsxFheNK52nTeg)
+
+
+### 动作
+
+- [【肌本自然】日常训练三件套，一伸二推三踮脚](https://mp.weixin.qq.com/s/QjI2DXMFr4CnkjpxEXy_9g)
 
 - 深蹲
   - [【肌本自然】深蹲很好，但不是现在就练](https://mp.weixin.qq.com/s/D0tjH0OEIU3iueTt-2vUfQ?exportid=export/UzFfAgtgekIEAQAAAAAAhvEz9cHa9QAAAAstQy6ubaLX4KHWvLEZgBPEw6NAPhxVRJiIzNPgMIssVLT5g0M2ebAK2f2e-YKq&sessionid=)
   - [【Mixbarre】深蹲是一种内收肌训练动作](https://mp.weixin.qq.com/s/Fs9RJY-cb4q7MEB6FUAbwA)
   - [【身体使用指南】深蹲动作标准的演变](https://mp.weixin.qq.com/s/dEWQPqX4_BV9i92tG5DuUg)
+- 提踵
+  - [【肌本自然】“提踵”的能力是“根基”，但我们正在失去它](https://mp.weixin.qq.com/s/tzxMPaXuYsxFheNK52nTeg)
 
----
+### 放松
 
+- [【肌本自然】为什么要先松解再拉伸](https://mp.weixin.qq.com/s/PoBTIq3pg-Fs55F7MazU1g)
+- 大腿
+  - [【肌本自然】膝盖疼痛的“真凶”可能藏在你的大腿](https://mp.weixin.qq.com/s/xMueCjf792BbMf8fHhTByg)
+- 小腿
+  - [【肌本自然】我为什么不推荐你用它来拉伸小腿？](https://mp.weixin.qq.com/s/j1j9iubTe0ltNJeiZQBpSQ)
+  - [【肌本自然】小腿的放松，优先考虑松解而非拉伸](https://mp.weixin.qq.com/s/B5tax3X8HqJCAwnGia_sXg)
+  - [【肌本自然】小腿肌肉的松解与功能强化](https://mp.weixin.qq.com/s/GIZlIuE-KulSLXiphD_7fg)
+  - [【肌本自然】筋膜松解对小腿酸胀及足踝功能改善](https://mp.weixin.qq.com/s/Vr1GMeKW2DlPsCEN5MlXBA)
+
+### 问题
+
+#### 膝盖疼痛
+
+- [【肌本自然】膝盖疼痛的“真凶”可能藏在你的大腿](https://mp.weixin.qq.com/s/xMueCjf792BbMf8fHhTByg)
 - 髂胫束综合征
   - [【联勤保障部队第945医院】医学科普 | 跑步膝—髂胫束综合征（ITBS）](https://mp.weixin.qq.com/s/jV865jyoRRKJUEDMdvgG3g)
   - [【重启心动力】髂胫束摩擦综合征](https://mp.weixin.qq.com/s/pxfniLW9cyxqnK1yiL2-Cg)

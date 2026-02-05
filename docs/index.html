@@ -13,6 +13,7 @@
     /* 1. 设置全局基础字号为 20px */
     html, body {
       font-size: 20px;
+      font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", "Arial Unicode MS", sans-serif; /* 显示泰语字符 */
     }
   
     /* 2. 针对文档正文区域的优化 */
@@ -64,6 +65,30 @@
     p:has(.footnote-reference-symbol) .emoji {
       height: 12px !important; /* 让箭头也跟着缩小 */
       opacity: 0.6;
+    }
+
+    /* 基础泰语样式 */
+    .thai-text {
+        font-size: 1.5em; 
+        line-height: 1.8;
+        font-family: "Leelawadee UI", "Thonburi", "Noto Sans Thai", "Arial Unicode MS", sans-serif;
+        /* vertical-align: middle; */
+        vertical-align: 0em;
+        font-weight: normal;
+    }
+
+    /* 专门针对孤立声调符号的样式：进一步放大 */
+    .thai-symbol {
+        font-size: 2.2em; /* 符号列给到 2.2 倍，抵消视觉上的细小感 */
+        font-family: "Leelawadee UI", "Arial Unicode MS", sans-serif;
+        line-height: 1;
+        vertical-align: -0.15em;
+        color: #333; /* 稍微深一点的颜色能增加对比度 */
+    }
+
+    /* 适当增加表格行高，为大字号留出空间 */
+    .markdown-section table td {
+        line-height: 2;
     }
   </style>
 </head>
