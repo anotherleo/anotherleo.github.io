@@ -1,5 +1,16 @@
 # 当下的力量
 
+* [1 You Are Not Your Mind](/mental/tolle1/1.md)
+* [2 Consciousness: The Way Out of Pain](/mental/tolle1/2.md)
+* [3 Moving Deeply Into the Now](/mental/tolle1/3.md)
+* [4 Mind Strategies for Avoiding the Now](/mental/tolle1/4.md)
+* [5 The State of Presence](/mental/tolle1/5.md)
+* [6 The Inner Body](/mental/tolle1/6.md)
+* [7 Portals Into the Unmanifested](/mental/tolle1/7.md)
+* [8 Enlightened Relationships](/mental/tolle1/8.md)
+* [9 Beyond Happiness and Unhappiness There Is Peace](/mental/tolle1/9.md)
+* [10 The Meaning of Surrender](/mental/tolle1/10.md)
+
 ## 前言：本书的由来
 
 过去对我来说几乎无用，我也很少去想它。然而，在这里，我要简短地告诉你，我是如何成为一个心灵导师，以及这本书是如何诞生的。
@@ -105,6 +116,6 @@
 
 这本书，就像我前面说的，不能用大脑来读。在读的时候，最重要的是，从你的灵魂深处去感受那个似曾相识的感觉，去体会那个“看到真理就顿悟”的内在智慧，从字里行间去感受那个震撼你心灵深处的能量。这本书在国外刚出版的时候，曾经长期蝉联《纽约时报》心灵类畅销排行榜第一名。我自己以它的主轴精神所撰写的灵性小说《遇见未知的自己》在台湾上市不到三个月就有重印十几次、两万多本的销售成绩，可见真理是可以被认得的。
 
-如果读者朋友对于本书有任何的反馈或是疑问，欢迎上我的博客http://blog.sina.com.cn/tiffanychang去坐坐，提提问题。我也很愿意尽我所能与大家分享心得，交流互动。
+如果读者朋友对于本书有任何的反馈或是疑问，欢迎上我的博客去坐坐，提提问题。我也很愿意尽我所能与大家分享心得，交流互动。
 
-本文作者为中国国家心理咨询师，曾是中国台湾电视事业股份有限公司（简称“台视”）著名主播，并获得加州大学洛杉矶分校MBA（工商管理硕士）学位。现长年定居北京，专心研修瑜伽以及各类心灵课程。
+> 本文作者为中国国家心理咨询师，曾是中国台湾电视事业股份有限公司（简称“台视”）著名主播，并获得加州大学洛杉矶分校MBA（工商管理硕士）学位。现长年定居北京，专心研修瑜伽以及各类心灵课程。

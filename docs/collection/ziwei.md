@@ -10,6 +10,7 @@
 
 - [【晏昭离】命运者，与天弈棋](https://mp.weixin.qq.com/s/trLcaMHvQhZKvyyJlif1Gw)
 - [【晏昭离】君子见机，达人知命](https://mp.weixin.qq.com/s/YftYEh-gTsM_spphNZo5NQ)
+- [【赵财猫】命理届错误但是广为流传的论断](https://mp.weixin.qq.com/s/INirm__qlmMpaL661jGndQ)
 
 ## 基础
 
@@ -21,7 +22,7 @@
 
 - [【晏昭离】空宫无主星究竟何解](https://mp.weixin.qq.com/s/V3Ob1xvsulxil3055rPZ7w)
 - [【晏昭离】来因宫：被迫戴上的“人格”枷锁](https://mp.weixin.qq.com/s/yn_BjrtOJazm2GfoU-nMrg)
-- [【文墨天机】依婷谈“三方”与“四正”](https://mp.weixin.qq.com/s/d49KM8h8MgzAJd1VZtas-g)
+- [【文墨天机】谈“三方”与“四正”](https://mp.weixin.qq.com/s/d49KM8h8MgzAJd1VZtas-g)
 
 ### 福德宫 ([Leo: Gemini](https://gemini.google.com/u/2/app/5b865b65bde5f2bd?pageId=none))
 
@@ -35,7 +36,26 @@
 
 ### 迁移宫
 
+- [【赵财猫】识人二步曲：迁移宫 第一印象和外在伪装](https://mp.weixin.qq.com/s/E32FdFWqYCiBzvmTWj_Tlw)
 - [【晏昭离】迁移宫：记忆天地的投影模型](https://mp.weixin.qq.com/s/WNGGe0wERcH-mK_VgCOtxQ) [(Leo: Gemini)](https://gemini.google.com/u/2/app/5b865b65bde5f2bd?pageId=none)
+- [【赵财猫】深度讲解——迁移宫](https://mp.weixin.qq.com/s/2PbLLpxDWMhbKrKzKOdX0A)
+- 【文墨天机】迁移化禄权科忌入十二宫
+  - [迁移宫化禄](https://mp.weixin.qq.com/s/ceR9cT_k5e-PosXniZtFsw)
+  - [迁移宫化权](https://mp.weixin.qq.com/s/LrJSQZgG3gZFK-CNml9zLQ)
+  - [迁移宫化科](https://mp.weixin.qq.com/s/Se9qt9sOJveV8WOiQRCpyw)
+  - [迁移宫化忌](https://mp.weixin.qq.com/s/yjxo4TW2T-j0JLXvW6qhJg)
+
+
+### 夫妻宫
+
+- [【赵财猫】十四主星在夫妻宫的讲解与应对](https://mp.weixin.qq.com/s/0siSNdpQPoBiox4RWAU9MQ)
+
+【陈明业】：
+
+- 谈夫妻对待关系 [bilibili](https://www.bilibili.com/video/BV19C4y1Z7Rm)
+- 谈夫妻对待关系2 [bilibili](https://www.bilibili.com/video/BV1g94y1a7Sa)
+- 论夫妻宫之体用与过宫现象 [bilibili](https://www.bilibili.com/video/BV1Mi4y167Az)
+- 如果你的夫妻宫长这样？ [bilibili](https://www.bilibili.com/video/BV1464y1A7Qd)
 
 ## 星曜
 
@@ -87,7 +107,9 @@
 
 #### 七杀
 
+#### 巨门
 
+- [【赵财猫】巨门所在的宫位，都要警惕一件事](https://mp.weixin.qq.com/s/g2gfRIM1NVoOYiSlcnH01w)
 
 ### 辅星
 
@@ -125,11 +147,19 @@
 
 ## 四化
 
+### 自化
+
+- [【文墨天机】自化象与视同自化象](https://mp.weixin.qq.com/s/JpkVLgpsvDzOlx2W9pL--A)
+- [【赵财猫】讲讲紫微里最重要的概念——自化（命运可以改变的部分）](https://mp.weixin.qq.com/s/z9IaConEZ0ZsBRVtI2bb8w)
+
 ### 化禄
+
+- [【赵财猫】生年禄在十二宫位的释义](https://mp.weixin.qq.com/s/AKxPC0jj1rgim5ibVVXRTA)
 
 ### 化权
 
 - [【赵财猫】化权在哪个宫位最好？在哪个宫位最差？](https://mp.weixin.qq.com/s/Cy0pH2dEQKtOsT8DqXQNhQ)
+- [【赵财猫】被太多人埋没的宝藏生年权：成长与阵痛并行](https://mp.weixin.qq.com/s/NzPD6Yk6sCPYDKTv2n6ppQ)
 
 ### 化科
 
@@ -152,3 +182,11 @@
 
 - [【赵财猫】财帛宫与官禄宫：求财路上如影随形的两个位置](https://mp.weixin.qq.com/s/sipf6bNimLeyd_YU7a-mPQ)
 - [【赵财猫】有一类盘，很容易就进入体制内，但发展却很受限](https://mp.weixin.qq.com/s/8nmT5_VCjsaqmHacCZrf2g)
+
+### 婚姻
+
+【陈明业】：
+
+- 你的另一半会给你钱吗？ [bilibili](https://www.bilibili.com/video/BV1BN411n7Ap)
+- 找到对的人的三种合婚方法 [bilibili](https://www.bilibili.com/video/BV1pw411N7J7)
+- 什么是正缘？ [bilibili](https://www.bilibili.com/video/BV1oH4y1D7jo)

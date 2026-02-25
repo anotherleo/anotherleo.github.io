@@ -9,6 +9,6 @@
 * [6](/mental/tolle1/6.md)
 * [7](/mental/tolle1/7.md)
 * [8](/mental/tolle1/8.md)
-* [9 BEYOND HAPPINESS AND UNHAPPINESS THERE IS PEACE](/mental/tolle1/9.md)
+* [9](/mental/tolle1/9.md)
 * [10](/mental/tolle1/10.md)
 
