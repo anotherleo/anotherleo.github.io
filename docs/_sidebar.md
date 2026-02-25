@@ -1,19 +1,19 @@
 * [<font size=5>首页</font>](/)
-* 我的想法
-  * [想法](/thoughts/)
 * 学术
   * [学术研究](/research/)
-  * [论文仓库](/paper/)
-* 书籍与学习笔记
+* 心灵类书籍
   * [心理分析(荣格心理学)](/analytical-psychology/)
+  * [心灵修行](/mental/)
+* 知识类书籍
   * [语言](/languages/)
-  * [个人成长](/self-help/)
-  * [心灵成长](/mental/)
-  * [文化](/culture/)
-  * [传记](/biography/)
-  * [传统文化](/tradition/)
   * [中医](/tcm/)
+  * [传统文化](/tradition/)
   * [玄学](/metaphysics/)
+* 思考类书籍
+  * [个人成长](/self-help/)
+  * [文化](/culture/)
+* 文学类书籍
+  * [传记](/biography/)
 * 其它
   * [IT实践](/IT-practice/)
   * [收藏](/collection/)
