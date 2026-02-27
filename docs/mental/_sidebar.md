@@ -3,3 +3,4 @@
 * [Full Catastrophe Living【Jon Kabat-Zinn】](/mental/kabat1/)
 * [The Power of Now: A Guide to Spiritual Enlightenment【Eckhart Tolle】](/mental/tolle1/)
 * [A New Earth: Awakening to Your Life's Purpose【Eckhart Tolle】](/mental/tolle2/)
+* [Stillness Speaks【Eckhart Tolle】](/mental/tolle3/)

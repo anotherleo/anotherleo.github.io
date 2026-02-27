@@ -90,6 +90,11 @@
     .markdown-section table td {
         line-height: 2;
     }
+
+      .markdown-section mark {
+      padding: 0 .15em;
+      border-radius: .2em;
+    }
   </style>
 </head>
 <body>
@@ -110,6 +115,43 @@
         title: 'Table of Contents',
       }
     }
+  </script>
+  <script>
+    (function () {
+      // 把 ==text== 变成 <mark>text</mark>
+      // 同时尽量避免误伤代码块/行内代码
+      function enableMark(md) {
+        const stash = [];
+  
+        // 保护代码块 ```...```
+        md = md.replace(/```[\s\S]*?```/g, (m) => {
+          stash.push(m);
+          return `@@CODE_${stash.length - 1}@@`;
+        });
+  
+        // 保护行内代码 `...`
+        md = md.replace(/`[^`\n]*`/g, (m) => {
+          stash.push(m);
+          return `@@CODE_${stash.length - 1}@@`;
+        });
+  
+        // 替换 ==...==（不跨行）
+        md = md.replace(/==([^\n]+?)==/g, "<mark>$1</mark>");
+  
+        // 还原代码
+        md = md.replace(/@@CODE_(\d+)@@/g, (_, i) => stash[+i]);
+        return md;
+      }
+  
+      function markPlugin(hook) {
+        hook.beforeEach(function (content) {
+          return enableMark(content);
+        });
+      }
+  
+      window.$docsify = window.$docsify || {};
+      window.$docsify.plugins = [].concat(window.$docsify.plugins || [], markPlugin);
+    })();
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
