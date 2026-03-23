@@ -61,7 +61,9 @@
 
 ### 主星
 
-【晏昭离】
+#### 太阳
+
+- [【赵财猫】太阳忌：女生最怕的一颗忌星](https://mp.weixin.qq.com/s/KAl8NUUxN0PCqLTcSzlgUA)
 
 #### 太阴
 

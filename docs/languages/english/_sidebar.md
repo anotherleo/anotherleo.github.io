@@ -2,4 +2,5 @@
 * [语言](/languages/)
 * [英语(English)](/languages/english/)
   * [Word Power Made Easy【Norman Lewis】](/languages/english/lewis1/)
+  * [The Eclectic Readers【William Holmes McGuffey】](/languages/english/mcguffey1/)
   * [Most Common American Idioms【李笑来】](/languages/english/li1/)
